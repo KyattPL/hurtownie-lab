@@ -1,0 +1,1 @@
+SELECT COUNT(*) 'Liczba podkategorii' FROM Production.ProductSubcategory;

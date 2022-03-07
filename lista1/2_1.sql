@@ -1,0 +1,1 @@
+SELECT COUNT(*) 'Liczba produktów' FROM Production.Product;

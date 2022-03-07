@@ -1,0 +1,1 @@
+SELECT COUNT(*) 'Liczba sprzedawców' FROM Sales.SalesPerson;

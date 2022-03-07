@@ -1,0 +1,1 @@
+SELECT COUNT(*) 'Liczba klientów' FROM Sales.Customer;

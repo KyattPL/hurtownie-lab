@@ -1,0 +1,1 @@
+SELECT COUNT(*) 'Liczba kategorii' FROM Production.ProductCategory;

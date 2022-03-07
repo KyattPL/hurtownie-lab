@@ -1,0 +1,1 @@
+SELECT Name FROM Production.Product WHERE Color IS NULL;
