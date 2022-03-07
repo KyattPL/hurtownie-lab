@@ -1,0 +1,6 @@
+Zad 1.1
+Reg/05 - Produkt może być sprzedawany w wielu sklepach
+Reg/06 - Zakup może dotyczyć wielu produktów
+Reg/07 - Zakup musi dotyczyć przynajmniej jednego produktu
+Reg/08 - Zakup każdego produktu obarczony jest nabyciem określonej ilości danego produktu za konkretną cenę
+Reg/09 - Produkt może być kupowany wiele razy
