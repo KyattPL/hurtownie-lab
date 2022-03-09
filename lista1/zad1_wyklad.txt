@@ -1,0 +1,13 @@
+Na podstawie zadanego diagramu hurtowni danych można ułożyć następujące cele biznesowe:
+- Zwiększenie sprzedaży konkretnych produktów o 20% do końca września tego roku
+- Wzrost liczby zamówień z rejonu Londynu o 10% w przeciągu pół roku
+- Zwiększenie liczby zamówień przez osoby pochodzące z Francji o 10% do końca roku
+- Podwyższenie liczby wykorzystywanych kodów promocyjnych przez mężczyzn w następnym kwartale o 5%
+- Zmniejszenie czasu oczekiwania na dostawę dla kupujących z Hiszpanii o jeden dzień w przeciągu dwóch miesięcy
+
+Mając zadaną hurtownię można przeprowadzić następujące analizy:
+- Wpływ liczby dzieci klienta na liczbę kupowanych przez niego artykułów dziecięcych
+- Zestawienie państw pochodzenia klientów z używanymi przez nich do opłacania zakupów walut 
+- Zależność między językiem wyświetlania strony przez klienta a kategorią kupowanych przez niego produktów
+- Wpływ wieku klienta na ceny kupowanych przez niego produktów
+- Zestawienie rocznych zarobków klienta i jego skłonności do wykorzystania kodów promocyjnych
