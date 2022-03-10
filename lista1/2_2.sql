@@ -1,1 +1,1 @@
-SELECT Name FROM Production.Product WHERE Color IS NULL;
+SELECT Name 'Produkt' FROM Production.Product WHERE Color IS NULL;
