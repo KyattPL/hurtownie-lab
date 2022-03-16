@@ -1,0 +1,2060 @@
+<?xml version="1.0"?>
+<DataProfile xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://schemas.microsoft.com/sqlserver/2008/DataDebugger/">
+  <ProfileVersion>1.0</ProfileVersion>
+  <DataSources>
+    <DtsDataSource ID="{5E0FDD7D-0331-4FFD-B0EA-55722665BF30}" Name="dane_1">
+      <DtsConnectionManagerID>dane_1</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{159D0656-C0D1-44D0-A3D0-A08BC8BE1778}" Name="DESKTOP-1KVKMNB.root">
+      <DtsConnectionManagerID>DESKTOP-1KVKMNB.root</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}" Name="DESKTOP-1KVKMNB.root 1">
+      <DtsConnectionManagerID>DESKTOP-1KVKMNB.root 1</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{2A73B505-B15E-4CD0-934C-37F6E203687D}" Name="Flat File Connection Manager">
+      <DtsConnectionManagerID>Flat File Connection Manager</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{CC2B37BF-B847-4946-93FA-7F15B11007F3}" Name="L2_Z3">
+      <DtsConnectionManagerID>L2_Z3</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{8F1F1586-646D-4539-8D21-E74BAE2D84E0}" Name="L2_Z3.xml">
+      <DtsConnectionManagerID>L2_Z3.xml</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{3B76EC81-A850-4EFA-BDAB-9C9CBE18B35E}" Name="zad3_dane1.xml">
+      <DtsConnectionManagerID>zad3_dane1.xml</DtsConnectionManagerID>
+    </DtsDataSource>
+    <DtsDataSource ID="{025B3F51-4904-49E5-8DD4-D65C7A6B27E1}" Name="zad3_dane2.xml">
+      <DtsConnectionManagerID>zad3_dane2.xml</DtsConnectionManagerID>
+    </DtsDataSource>
+  </DataSources>
+  <DataProfileInput>
+    <ProfileMode>Exact</ProfileMode>
+    <Timeout>0</Timeout>
+    <Requests>
+      <ColumnNullRatioProfileRequest ID="NullRatioReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table Schema="dbo" Table="ADO NET DANE_CSV" />
+        <Column IsWildCard="true" />
+      </ColumnNullRatioProfileRequest>
+      <ColumnStatisticsProfileRequest ID="StatisticsReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table Schema="dbo" Table="ADO NET DANE_CSV" />
+        <Column IsWildCard="true" />
+      </ColumnStatisticsProfileRequest>
+      <ColumnLengthDistributionProfileRequest ID="LengthDistReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table Schema="dbo" Table="ADO NET DANE_CSV" />
+        <Column IsWildCard="true" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+      </ColumnLengthDistributionProfileRequest>
+      <ColumnValueDistributionProfileRequest ID="ValueDistReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table Schema="dbo" Table="ADO NET DANE_CSV" />
+        <Column IsWildCard="true" />
+        <Option>FrequentValues</Option>
+        <FrequentValueThreshold>0.001</FrequentValueThreshold>
+      </ColumnValueDistributionProfileRequest>
+      <ColumnPatternProfileRequest ID="PatternReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table Schema="dbo" Table="ADO NET DANE_CSV" />
+        <Column IsWildCard="true" />
+        <MaxNumberOfPatterns>10</MaxNumberOfPatterns>
+        <PercentageDataCoverageDesired>95</PercentageDataCoverageDesired>
+        <CaseSensitive>false</CaseSensitive>
+        <Delimiters> \t\r\n</Delimiters>
+        <Symbols>,.;:-"'`~=&amp;/\\@!?()&lt;&gt;[]{}|#*^%</Symbols>
+        <TagTableName />
+      </ColumnPatternProfileRequest>
+      <CandidateKeyProfileRequest ID="KeyReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table Schema="dbo" Table="ADO NET DANE_CSV" />
+        <KeyColumns>
+          <Column IsWildCard="true" />
+        </KeyColumns>
+        <ThresholdSetting>Specified</ThresholdSetting>
+        <KeyStrengthThreshold>0.95</KeyStrengthThreshold>
+        <VerifyOutputInFastMode>false</VerifyOutputInFastMode>
+        <MaxNumberOfViolations>100</MaxNumberOfViolations>
+      </CandidateKeyProfileRequest>
+    </Requests>
+  </DataProfileInput>
+  <DataProfileOutput>
+    <Profiles>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="Month (text)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="GMT" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside Nitric Oxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside Nitrogen Dioxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside Oxides of Nitrogen (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside Ozone (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside PM10 Particulate (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside PM2 5 Particulate (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside Sulphur Dioxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background Nitric Oxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background Nitrogen Dioxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background Oxides of Nitrogen (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background Ozone (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background PM10 Particulate (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background PM2 5 Particulate (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnNullRatioProfile ProfileRequestID="NullRatioReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background Sulphur Dioxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NullCount>0</NullCount>
+      </ColumnNullRatioProfile>
+      <ColumnLengthDistributionProfile ProfileRequestID="LengthDistReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="Month (text)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+        <MinLength>10</MinLength>
+        <MaxLength>10</MaxLength>
+        <LengthDistribution>
+          <LengthDistributionItem>
+            <Length>10</Length>
+            <Count>6336</Count>
+          </LengthDistributionItem>
+        </LengthDistribution>
+      </ColumnLengthDistributionProfile>
+      <ColumnLengthDistributionProfile ProfileRequestID="LengthDistReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="GMT" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+        <MinLength>5</MinLength>
+        <MaxLength>5</MaxLength>
+        <LengthDistribution>
+          <LengthDistributionItem>
+            <Length>5</Length>
+            <Count>6336</Count>
+          </LengthDistributionItem>
+        </LengthDistribution>
+      </ColumnLengthDistributionProfile>
+      <ColumnLengthDistributionProfile ProfileRequestID="LengthDistReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside Nitric Oxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+        <MinLength>0</MinLength>
+        <MaxLength>18</MaxLength>
+        <LengthDistribution>
+          <LengthDistributionItem>
+            <Length>0</Length>
+            <Count>1152</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>15</Length>
+            <Count>2</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>3</Length>
+            <Count>4</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>6</Length>
+            <Count>64</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>7</Length>
+            <Count>6</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>18</Length>
+            <Count>1980</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>4</Length>
+            <Count>58</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>5</Length>
+            <Count>148</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>16</Length>
+            <Count>234</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>2</Length>
+            <Count>10</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>17</Length>
+            <Count>2678</Count>
+          </LengthDistributionItem>
+        </LengthDistribution>
+      </ColumnLengthDistributionProfile>
+      <ColumnLengthDistributionProfile ProfileRequestID="LengthDistReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside Nitrogen Dioxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+        <MinLength>2</MinLength>
+        <MaxLength>18</MaxLength>
+        <LengthDistribution>
+          <LengthDistributionItem>
+            <Length>6</Length>
+            <Count>12</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>18</Length>
+            <Count>1494</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>4</Length>
+            <Count>110</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>5</Length>
+            <Count>226</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>16</Length>
+            <Count>312</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>2</Length>
+            <Count>20</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>17</Length>
+            <Count>4162</Count>
+          </LengthDistributionItem>
+        </LengthDistribution>
+      </ColumnLengthDistributionProfile>
+      <ColumnLengthDistributionProfile ProfileRequestID="LengthDistReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside Oxides of Nitrogen (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+        <MinLength>0</MinLength>
+        <MaxLength>18</MaxLength>
+        <LengthDistribution>
+          <LengthDistributionItem>
+            <Length>0</Length>
+            <Count>1152</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>15</Length>
+            <Count>2</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>3</Length>
+            <Count>6</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>6</Length>
+            <Count>154</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>7</Length>
+            <Count>4</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>18</Length>
+            <Count>2986</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>4</Length>
+            <Count>14</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>5</Length>
+            <Count>104</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>16</Length>
+            <Count>100</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>2</Length>
+            <Count>2</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>17</Length>
+            <Count>1812</Count>
+          </LengthDistributionItem>
+        </LengthDistribution>
+      </ColumnLengthDistributionProfile>
+      <ColumnLengthDistributionProfile ProfileRequestID="LengthDistReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside Ozone (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+        <MinLength>2</MinLength>
+        <MaxLength>18</MaxLength>
+        <LengthDistribution>
+          <LengthDistributionItem>
+            <Length>3</Length>
+            <Count>2</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>6</Length>
+            <Count>12</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>18</Length>
+            <Count>3452</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>4</Length>
+            <Count>132</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>5</Length>
+            <Count>206</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>16</Length>
+            <Count>132</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>2</Length>
+            <Count>26</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>17</Length>
+            <Count>2374</Count>
+          </LengthDistributionItem>
+        </LengthDistribution>
+      </ColumnLengthDistributionProfile>
+      <ColumnLengthDistributionProfile ProfileRequestID="LengthDistReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside PM10 Particulate (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+        <MinLength>2</MinLength>
+        <MaxLength>18</MaxLength>
+        <LengthDistribution>
+          <LengthDistributionItem>
+            <Length>6</Length>
+            <Count>12</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>18</Length>
+            <Count>3884</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>4</Length>
+            <Count>102</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>5</Length>
+            <Count>202</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>16</Length>
+            <Count>92</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>2</Length>
+            <Count>28</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>17</Length>
+            <Count>2016</Count>
+          </LengthDistributionItem>
+        </LengthDistribution>
+      </ColumnLengthDistributionProfile>
+      <ColumnLengthDistributionProfile ProfileRequestID="LengthDistReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside PM2 5 Particulate (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+        <MinLength>1</MinLength>
+        <MaxLength>18</MaxLength>
+        <LengthDistribution>
+          <LengthDistributionItem>
+            <Length>15</Length>
+            <Count>2</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>3</Length>
+            <Count>2</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>6</Length>
+            <Count>6</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>1</Length>
+            <Count>2</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>18</Length>
+            <Count>4498</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>4</Length>
+            <Count>80</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>5</Length>
+            <Count>190</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>16</Length>
+            <Count>88</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>2</Length>
+            <Count>18</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>17</Length>
+            <Count>1450</Count>
+          </LengthDistributionItem>
+        </LengthDistribution>
+      </ColumnLengthDistributionProfile>
+      <ColumnLengthDistributionProfile ProfileRequestID="LengthDistReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside Sulphur Dioxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+        <MinLength>1</MinLength>
+        <MaxLength>21</MaxLength>
+        <LengthDistribution>
+          <LengthDistributionItem>
+            <Length>3</Length>
+            <Count>76</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>6</Length>
+            <Count>4</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>21</Length>
+            <Count>12</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>1</Length>
+            <Count>34</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>18</Length>
+            <Count>2864</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>4</Length>
+            <Count>204</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>19</Length>
+            <Count>150</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>5</Length>
+            <Count>22</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>16</Length>
+            <Count>148</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>2</Length>
+            <Count>2</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>17</Length>
+            <Count>2804</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>20</Length>
+            <Count>16</Count>
+          </LengthDistributionItem>
+        </LengthDistribution>
+      </ColumnLengthDistributionProfile>
+      <ColumnLengthDistributionProfile ProfileRequestID="LengthDistReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background Nitric Oxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+        <MinLength>0</MinLength>
+        <MaxLength>18</MaxLength>
+        <LengthDistribution>
+          <LengthDistributionItem>
+            <Length>0</Length>
+            <Count>1152</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>15</Length>
+            <Count>2</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>3</Length>
+            <Count>20</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>6</Length>
+            <Count>6</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>18</Length>
+            <Count>2320</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>4</Length>
+            <Count>128</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>5</Length>
+            <Count>160</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>16</Length>
+            <Count>166</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>2</Length>
+            <Count>4</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>17</Length>
+            <Count>2378</Count>
+          </LengthDistributionItem>
+        </LengthDistribution>
+      </ColumnLengthDistributionProfile>
+      <ColumnLengthDistributionProfile ProfileRequestID="LengthDistReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background Nitrogen Dioxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+        <MinLength>2</MinLength>
+        <MaxLength>18</MaxLength>
+        <LengthDistribution>
+          <LengthDistributionItem>
+            <Length>6</Length>
+            <Count>6</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>18</Length>
+            <Count>2970</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>4</Length>
+            <Count>110</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>5</Length>
+            <Count>206</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>16</Length>
+            <Count>164</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>2</Length>
+            <Count>32</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>17</Length>
+            <Count>2848</Count>
+          </LengthDistributionItem>
+        </LengthDistribution>
+      </ColumnLengthDistributionProfile>
+      <ColumnLengthDistributionProfile ProfileRequestID="LengthDistReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background Oxides of Nitrogen (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+        <MinLength>0</MinLength>
+        <MaxLength>18</MaxLength>
+        <LengthDistribution>
+          <LengthDistributionItem>
+            <Length>0</Length>
+            <Count>1152</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>6</Length>
+            <Count>18</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>18</Length>
+            <Count>1638</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>4</Length>
+            <Count>38</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>5</Length>
+            <Count>216</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>16</Length>
+            <Count>254</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>2</Length>
+            <Count>8</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>17</Length>
+            <Count>3012</Count>
+          </LengthDistributionItem>
+        </LengthDistribution>
+      </ColumnLengthDistributionProfile>
+      <ColumnLengthDistributionProfile ProfileRequestID="LengthDistReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background Ozone (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+        <MinLength>2</MinLength>
+        <MaxLength>18</MaxLength>
+        <LengthDistribution>
+          <LengthDistributionItem>
+            <Length>6</Length>
+            <Count>12</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>18</Length>
+            <Count>2806</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>4</Length>
+            <Count>58</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>5</Length>
+            <Count>170</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>16</Length>
+            <Count>184</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>2</Length>
+            <Count>28</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>17</Length>
+            <Count>3078</Count>
+          </LengthDistributionItem>
+        </LengthDistribution>
+      </ColumnLengthDistributionProfile>
+      <ColumnLengthDistributionProfile ProfileRequestID="LengthDistReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background PM10 Particulate (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+        <MinLength>2</MinLength>
+        <MaxLength>18</MaxLength>
+        <LengthDistribution>
+          <LengthDistributionItem>
+            <Length>6</Length>
+            <Count>14</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>18</Length>
+            <Count>4298</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>4</Length>
+            <Count>108</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>5</Length>
+            <Count>222</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>16</Length>
+            <Count>72</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>2</Length>
+            <Count>38</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>17</Length>
+            <Count>1584</Count>
+          </LengthDistributionItem>
+        </LengthDistribution>
+      </ColumnLengthDistributionProfile>
+      <ColumnLengthDistributionProfile ProfileRequestID="LengthDistReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background PM2 5 Particulate (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+        <MinLength>0</MinLength>
+        <MaxLength>18</MaxLength>
+        <LengthDistribution>
+          <LengthDistributionItem>
+            <Length>0</Length>
+            <Count>192</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>3</Length>
+            <Count>14</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>6</Length>
+            <Count>12</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>7</Length>
+            <Count>8</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>1</Length>
+            <Count>2</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>18</Length>
+            <Count>3446</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>4</Length>
+            <Count>142</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>5</Length>
+            <Count>152</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>16</Length>
+            <Count>204</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>2</Length>
+            <Count>24</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>17</Length>
+            <Count>2140</Count>
+          </LengthDistributionItem>
+        </LengthDistribution>
+      </ColumnLengthDistributionProfile>
+      <ColumnLengthDistributionProfile ProfileRequestID="LengthDistReq1" IsExact="true">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background Sulphur Dioxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <IgnoreLeadingSpace>false</IgnoreLeadingSpace>
+        <IgnoreTrailingSpace>true</IgnoreTrailingSpace>
+        <MinLength>1</MinLength>
+        <MaxLength>18</MaxLength>
+        <LengthDistribution>
+          <LengthDistributionItem>
+            <Length>3</Length>
+            <Count>138</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>1</Length>
+            <Count>14</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>18</Length>
+            <Count>2800</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>4</Length>
+            <Count>234</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>5</Length>
+            <Count>12</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>16</Length>
+            <Count>198</Count>
+          </LengthDistributionItem>
+          <LengthDistributionItem>
+            <Length>17</Length>
+            <Count>2940</Count>
+          </LengthDistributionItem>
+        </LengthDistribution>
+      </ColumnLengthDistributionProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="Month (text)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>132</NumberOfDistinctValues>
+        <ValueDistribution>
+          <ValueDistributionItem>
+            <Value>2014-03-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2016-04-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2010-06-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2013-06-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2009-09-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2009-10-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2015-05-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2015-03-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2013-02-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2009-11-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2015-02-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2016-03-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2017-12-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2013-03-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2009-01-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2018-10-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2008-02-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2013-11-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2017-02-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2009-06-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2016-05-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2010-04-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2011-08-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2011-06-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2012-12-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2010-02-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2010-08-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2009-05-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2012-09-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2012-01-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2011-03-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2009-08-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2008-09-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2008-07-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2014-01-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2010-03-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2012-04-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2011-05-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2010-05-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2016-10-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2013-01-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2009-04-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2015-08-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2008-10-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2015-06-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2018-08-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2016-12-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2009-07-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2014-07-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2014-09-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2014-11-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2018-07-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2017-07-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2010-11-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2011-02-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2013-12-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2016-09-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2015-07-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2017-04-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2010-07-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2014-04-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2010-01-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2011-09-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2014-02-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2017-11-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2017-09-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2017-05-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2010-12-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2012-08-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2015-11-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2012-05-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2012-07-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2017-01-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2015-04-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2018-09-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2018-04-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2013-05-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2015-09-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2012-10-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2010-10-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2015-12-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2014-12-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2011-04-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2011-12-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2016-08-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2009-12-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2013-07-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2018-01-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2014-06-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2014-10-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2016-07-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2017-08-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2008-06-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2012-02-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2018-02-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2011-11-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2013-04-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2011-01-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2016-06-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2018-05-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2018-11-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2018-06-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2012-03-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2008-01-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2017-06-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2013-10-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2013-09-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2013-08-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2017-10-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2008-03-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2011-07-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2010-09-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2016-01-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2008-12-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2008-04-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2018-12-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2016-11-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2017-03-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2008-05-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2014-05-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2015-01-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2009-03-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2014-08-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2015-10-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2016-02-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2018-03-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2011-10-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2008-08-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2012-11-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2008-11-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2009-02-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2012-06-01</Value>
+            <Count>48</Count>
+          </ValueDistributionItem>
+        </ValueDistribution>
+      </ColumnValueDistributionProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="GMT" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>24</NumberOfDistinctValues>
+        <ValueDistribution>
+          <ValueDistributionItem>
+            <Value>00:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>02:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>20:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>05:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>03:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>23:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>07:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>04:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>11:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>22:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>19:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>18:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>12:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>06:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>10:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>17:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>15:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>08:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>14:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>01:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>16:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>13:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>09:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>21:00</Value>
+            <Count>264</Count>
+          </ValueDistributionItem>
+        </ValueDistribution>
+      </ColumnValueDistributionProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside Nitric Oxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>2577</NumberOfDistinctValues>
+        <ValueDistribution>
+          <ValueDistributionItem>
+            <Value />
+            <Count>1152</Count>
+          </ValueDistributionItem>
+        </ValueDistribution>
+      </ColumnValueDistributionProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside Nitrogen Dioxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>3108</NumberOfDistinctValues>
+      </ColumnValueDistributionProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside Oxides of Nitrogen (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>2581</NumberOfDistinctValues>
+        <ValueDistribution>
+          <ValueDistributionItem>
+            <Value />
+            <Count>1152</Count>
+          </ValueDistributionItem>
+        </ValueDistribution>
+      </ColumnValueDistributionProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside Ozone (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>3094</NumberOfDistinctValues>
+      </ColumnValueDistributionProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside PM10 Particulate (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>3013</NumberOfDistinctValues>
+        <ValueDistribution>
+          <ValueDistributionItem>
+            <Value>26.800000000000004</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>23.400000000000002</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+        </ValueDistribution>
+      </ColumnValueDistributionProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside PM2 5 Particulate (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>2972</NumberOfDistinctValues>
+        <ValueDistribution>
+          <ValueDistributionItem>
+            <Value>11.803225806451614</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+        </ValueDistribution>
+      </ColumnValueDistributionProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside Sulphur Dioxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>2715</NumberOfDistinctValues>
+        <ValueDistribution>
+          <ValueDistributionItem>
+            <Value>3.3967741935483873</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>4</Value>
+            <Count>10</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.096774193548387</Value>
+            <Count>10</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>3.0000000000000004</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.4193548387096775</Value>
+            <Count>10</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.32258064516129</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>3</Value>
+            <Count>10</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>3.4193548387096775</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>3.064516129032258</Value>
+            <Count>14</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.076666666666667</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.9333333333333336</Value>
+            <Count>12</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.354838709677419</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.770967741935484</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>3.2838709677419358</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.741935483870968</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>4.806451612903225</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.67741935483871</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.7096774193548385</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+        </ValueDistribution>
+      </ColumnValueDistributionProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background Nitric Oxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>2560</NumberOfDistinctValues>
+        <ValueDistribution>
+          <ValueDistributionItem>
+            <Value />
+            <Count>1152</Count>
+          </ValueDistributionItem>
+        </ValueDistribution>
+      </ColumnValueDistributionProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background Nitrogen Dioxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>3098</NumberOfDistinctValues>
+      </ColumnValueDistributionProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background Oxides of Nitrogen (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>2572</NumberOfDistinctValues>
+        <ValueDistribution>
+          <ValueDistributionItem>
+            <Value />
+            <Count>1152</Count>
+          </ValueDistributionItem>
+        </ValueDistribution>
+      </ColumnValueDistributionProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background Ozone (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>3118</NumberOfDistinctValues>
+      </ColumnValueDistributionProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background PM10 Particulate (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>2975</NumberOfDistinctValues>
+      </ColumnValueDistributionProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background PM2 5 Particulate (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>2897</NumberOfDistinctValues>
+        <ValueDistribution>
+          <ValueDistributionItem>
+            <Value>14.999999999999998</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value />
+            <Count>192</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>13</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+        </ValueDistribution>
+      </ColumnValueDistributionProfile>
+      <ColumnValueDistributionProfile IsExact="true" ProfileRequestID="ValueDistReq1">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background Sulphur Dioxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <NumberOfDistinctValues>2573</NumberOfDistinctValues>
+        <ValueDistribution>
+          <ValueDistributionItem>
+            <Value>2.9322580645161294</Value>
+            <Count>10</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.3548387096774195</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.032258064516129</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.8</Value>
+            <Count>10</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>4.935483870967742</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.7838709677419358</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>3.1333333333333333</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.4838709677419355</Value>
+            <Count>12</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.8387096774193545</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.709677419354838</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>3.466666666666667</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.580645161290323</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.7</Value>
+            <Count>10</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.54</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>3.6129032258064515</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>3.3</Value>
+            <Count>12</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>3.1999999999999997</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>4.233333333333333</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>3.1290322580645165</Value>
+            <Count>10</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.6451612903225805</Value>
+            <Count>14</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.741935483870968</Value>
+            <Count>10</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>3.133333333333333</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.645161290322581</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>3.8387096774193545</Value>
+            <Count>10</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>3.2580645161290325</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.7419354838709675</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.6129032258064515</Value>
+            <Count>12</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>3.774193548387097</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.9999999999999996</Value>
+            <Count>12</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>3.4</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.967741935483871</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>4.032258064516129</Value>
+            <Count>10</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.258064516129032</Value>
+            <Count>10</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.3</Value>
+            <Count>12</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.6774193548387095</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.4516129032258065</Value>
+            <Count>10</Count>
+          </ValueDistributionItem>
+          <ValueDistributionItem>
+            <Value>2.9000000000000004</Value>
+            <Count>8</Count>
+          </ValueDistributionItem>
+        </ValueDistribution>
+      </ColumnValueDistributionProfile>
+      <ColumnPatternProfile ProfileRequestID="PatternReq1" IsExact="false">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="Month (text)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <TopRegexPatterns>
+          <PatternDistributionItem>
+            <RegexText>20\d\d-\d\d-01</RegexText>
+            <Frequency>100</Frequency>
+          </PatternDistributionItem>
+        </TopRegexPatterns>
+      </ColumnPatternProfile>
+      <ColumnPatternProfile ProfileRequestID="PatternReq1" IsExact="false">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="GMT" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <TopRegexPatterns>
+          <PatternDistributionItem>
+            <RegexText>\d\d:00</RegexText>
+            <Frequency>100</Frequency>
+          </PatternDistributionItem>
+        </TopRegexPatterns>
+      </ColumnPatternProfile>
+      <ColumnPatternProfile ProfileRequestID="PatternReq1" IsExact="false">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside Nitric Oxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <TopRegexPatterns>
+          <PatternDistributionItem>
+            <RegexText>\d\d\.\d+</RegexText>
+            <Frequency>72</Frequency>
+          </PatternDistributionItem>
+          <PatternDistributionItem>
+            <RegexText>\d\d\d\.\d+</RegexText>
+            <Frequency>28</Frequency>
+          </PatternDistributionItem>
+        </TopRegexPatterns>
+      </ColumnPatternProfile>
+      <ColumnPatternProfile ProfileRequestID="PatternReq1" IsExact="false">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside Nitrogen Dioxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <TopRegexPatterns>
+          <PatternDistributionItem>
+            <RegexText>\d\d\.\d+</RegexText>
+            <Frequency>100</Frequency>
+          </PatternDistributionItem>
+        </TopRegexPatterns>
+      </ColumnPatternProfile>
+      <ColumnPatternProfile ProfileRequestID="PatternReq1" IsExact="false">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside Oxides of Nitrogen (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <TopRegexPatterns>
+          <PatternDistributionItem>
+            <RegexText>\d\d\d\.\d+</RegexText>
+            <Frequency>76</Frequency>
+          </PatternDistributionItem>
+          <PatternDistributionItem>
+            <RegexText>\d\d\.\d+</RegexText>
+            <Frequency>24</Frequency>
+          </PatternDistributionItem>
+        </TopRegexPatterns>
+      </ColumnPatternProfile>
+      <ColumnPatternProfile ProfileRequestID="PatternReq1" IsExact="false">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside Ozone (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <TopRegexPatterns>
+          <PatternDistributionItem>
+            <RegexText>\d\d\.\d+</RegexText>
+            <Frequency>97</Frequency>
+          </PatternDistributionItem>
+        </TopRegexPatterns>
+      </ColumnPatternProfile>
+      <ColumnPatternProfile ProfileRequestID="PatternReq1" IsExact="false">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside PM10 Particulate (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <TopRegexPatterns>
+          <PatternDistributionItem>
+            <RegexText>\d\d\.\d+</RegexText>
+            <Frequency>99</Frequency>
+          </PatternDistributionItem>
+        </TopRegexPatterns>
+      </ColumnPatternProfile>
+      <ColumnPatternProfile ProfileRequestID="PatternReq1" IsExact="false">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside PM2 5 Particulate (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <TopRegexPatterns>
+          <PatternDistributionItem>
+            <RegexText>\d\d\.\d+</RegexText>
+            <Frequency>94</Frequency>
+          </PatternDistributionItem>
+          <PatternDistributionItem>
+            <RegexText>\d\.\d+</RegexText>
+            <Frequency>6</Frequency>
+          </PatternDistributionItem>
+        </TopRegexPatterns>
+      </ColumnPatternProfile>
+      <ColumnPatternProfile ProfileRequestID="PatternReq1" IsExact="false">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Roadside Sulphur Dioxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <TopRegexPatterns>
+          <PatternDistributionItem>
+            <RegexText>\d\.\d+</RegexText>
+            <Frequency>97</Frequency>
+          </PatternDistributionItem>
+        </TopRegexPatterns>
+      </ColumnPatternProfile>
+      <ColumnPatternProfile ProfileRequestID="PatternReq1" IsExact="false">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background Nitric Oxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <TopRegexPatterns>
+          <PatternDistributionItem>
+            <RegexText>\d\d\.\d+</RegexText>
+            <Frequency>73</Frequency>
+          </PatternDistributionItem>
+          <PatternDistributionItem>
+            <RegexText>\d\.\d+</RegexText>
+            <Frequency>27</Frequency>
+          </PatternDistributionItem>
+        </TopRegexPatterns>
+      </ColumnPatternProfile>
+      <ColumnPatternProfile ProfileRequestID="PatternReq1" IsExact="false">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background Nitrogen Dioxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <TopRegexPatterns>
+          <PatternDistributionItem>
+            <RegexText>\d\d\.\d+</RegexText>
+            <Frequency>100</Frequency>
+          </PatternDistributionItem>
+        </TopRegexPatterns>
+      </ColumnPatternProfile>
+      <ColumnPatternProfile ProfileRequestID="PatternReq1" IsExact="false">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background Oxides of Nitrogen (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <TopRegexPatterns>
+          <PatternDistributionItem>
+            <RegexText>\d\d\.\d+</RegexText>
+            <Frequency>92</Frequency>
+          </PatternDistributionItem>
+          <PatternDistributionItem>
+            <RegexText>\d\d\d\.\d+</RegexText>
+            <Frequency>8</Frequency>
+          </PatternDistributionItem>
+        </TopRegexPatterns>
+      </ColumnPatternProfile>
+      <ColumnPatternProfile ProfileRequestID="PatternReq1" IsExact="false">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background Ozone (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <TopRegexPatterns>
+          <PatternDistributionItem>
+            <RegexText>\d\d\.\d+</RegexText>
+            <Frequency>99</Frequency>
+          </PatternDistributionItem>
+        </TopRegexPatterns>
+      </ColumnPatternProfile>
+      <ColumnPatternProfile ProfileRequestID="PatternReq1" IsExact="false">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background PM10 Particulate (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <TopRegexPatterns>
+          <PatternDistributionItem>
+            <RegexText>\d\d\.\d+</RegexText>
+            <Frequency>100</Frequency>
+          </PatternDistributionItem>
+        </TopRegexPatterns>
+      </ColumnPatternProfile>
+      <ColumnPatternProfile ProfileRequestID="PatternReq1" IsExact="false">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background PM2 5 Particulate (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <TopRegexPatterns>
+          <PatternDistributionItem>
+            <RegexText>\d\d\.\d+</RegexText>
+            <Frequency>73</Frequency>
+          </PatternDistributionItem>
+          <PatternDistributionItem>
+            <RegexText>\d\.\d+</RegexText>
+            <Frequency>26</Frequency>
+          </PatternDistributionItem>
+        </TopRegexPatterns>
+      </ColumnPatternProfile>
+      <ColumnPatternProfile ProfileRequestID="PatternReq1" IsExact="false">
+        <DataSourceID>{2CF92B58-55F8-4DEC-B407-CC7E60FF6E73}</DataSourceID>
+        <Table DataSource="DESKTOP-1KVKMNB" Database="AdventureWorks2019" Schema="dbo" Table="ADO NET DANE_CSV" RowCount="6336" />
+        <Column Name="London Mean Background Sulphur Dioxide (ug m3)" SqlDbType="VarChar" MaxLength="50" Precision="255" Scale="255" LCID="1033" CodePage="0" IsNullable="true" StringCompareOptions="0" />
+        <TopRegexPatterns>
+          <PatternDistributionItem>
+            <RegexText>\d\.\d+</RegexText>
+            <Frequency>100</Frequency>
+          </PatternDistributionItem>
+        </TopRegexPatterns>
+      </ColumnPatternProfile>
+    </Profiles>
+  </DataProfileOutput>
+</DataProfile>

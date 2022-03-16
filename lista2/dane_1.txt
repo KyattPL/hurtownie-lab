@@ -1,0 +1,2156 @@
+Data zamówienia	Kraj odbiorcy	Cena jednostkowa	Iloœæ	Nazwa produktu	Nazwisko	Stanowisko	Region
+04.07.1996	Francja	14,00 z³	12	Queso Cabrales	Buchanan	Dyrektor ds. sprzeda¿y	
+04.07.1996	Francja	9,80 z³	10	Singaporean Hokkien Fried Mee	Buchanan	Dyrektor ds. sprzeda¿y	
+04.07.1996	Francja	34,80 z³	5	Mozzarella di Giovanni	Buchanan	Dyrektor ds. sprzeda¿y	
+05.07.1996	Niemcy	42,40 z³	40	Manjimup Dried Apples	Suyama	Przedstawiciel handlowy	
+05.07.1996	Niemcy	18,60 z³	9	Tofu	Suyama	Przedstawiciel handlowy	
+08.07.1996	Brazylia	42,40 z³	35	Manjimup Dried Apples	Peacock	Przedstawiciel handlowy	WA
+08.07.1996	Brazylia	7,70 z³	10	Jack's New England Clam Chowder	Peacock	Przedstawiciel handlowy	WA
+08.07.1996	Francja	16,80 z³	20	Louisiana Fiery Hot Pepper Sauce	Leverling	Przedstawiciel handlowy	WA
+08.07.1996	Francja	16,80 z³	6	Gustaf's Knäckebröd	Leverling	Przedstawiciel handlowy	WA
+08.07.1996	Francja	15,60 z³	15	Ravioli Angelo	Leverling	Przedstawiciel handlowy	WA
+08.07.1996	Brazylia	16,80 z³	15	Louisiana Fiery Hot Pepper Sauce	Peacock	Przedstawiciel handlowy	WA
+09.07.1996	Belgia	2,00 z³	25	Geitost	Peacock	Przedstawiciel handlowy	WA
+09.07.1996	Belgia	64,80 z³	40	Sir Rodney's Marmalade	Peacock	Przedstawiciel handlowy	WA
+09.07.1996	Belgia	27,20 z³	40	Camembert Pierrot	Peacock	Przedstawiciel handlowy	WA
+10.07.1996	Brazylia	16,00 z³	40	Maxilaku	Leverling	Przedstawiciel handlowy	WA
+10.07.1996	Brazylia	14,40 z³	42	Chartreuse verte	Leverling	Przedstawiciel handlowy	WA
+10.07.1996	Brazylia	10,00 z³	20	Gorgonzola Telino	Leverling	Przedstawiciel handlowy	WA
+11.07.1996	Szwajcaria	19,20 z³	21	Pâte chinois	Buchanan	Dyrektor ds. sprzeda¿y	
+11.07.1996	Szwajcaria	8,00 z³	21	Longlife Tofu	Buchanan	Dyrektor ds. sprzeda¿y	
+11.07.1996	Szwajcaria	3,60 z³	15	Guaraná Fantástica	Buchanan	Dyrektor ds. sprzeda¿y	
+12.07.1996	Szwajcaria	15,20 z³	25	Inlagd Sill	Dodsworth	Przedstawiciel handlowy	
+12.07.1996	Szwajcaria	44,00 z³	30	Raclette Courdavault	Dodsworth	Przedstawiciel handlowy	
+12.07.1996	Szwajcaria	13,90 z³	35	Pavlova	Dodsworth	Przedstawiciel handlowy	
+12.07.1996	Szwajcaria	15,20 z³	20	Chang	Dodsworth	Przedstawiciel handlowy	
+15.07.1996	Brazylia	26,20 z³	15	Perth Pasties	Leverling	Przedstawiciel handlowy	WA
+15.07.1996	Brazylia	10,40 z³	12	Original Frankfurter grüne Soße	Leverling	Przedstawiciel handlowy	WA
+16.07.1996	Wenezuela	35,10 z³	25	Schoggi Schokolade	Peacock	Przedstawiciel handlowy	WA
+16.07.1996	Wenezuela	14,40 z³	6	Chartreuse verte	Peacock	Przedstawiciel handlowy	WA
+16.07.1996	Wenezuela	10,40 z³	15	Original Frankfurter grüne Soße	Peacock	Przedstawiciel handlowy	WA
+17.07.1996	Austria	15,20 z³	50	Chang	Davolio	Przedstawiciel handlowy	WA
+17.07.1996	Austria	25,60 z³	6	Mascarpone Fabioli	Davolio	Przedstawiciel handlowy	WA
+17.07.1996	Austria	17,00 z³	65	Chef Anton's Gumbo Mix	Davolio	Przedstawiciel handlowy	WA
+18.07.1996	Meksyk	8,00 z³	10	Sir Rodney's Scones	Peacock	Przedstawiciel handlowy	WA
+18.07.1996	Meksyk	20,80 z³	1	Gravad lax	Peacock	Przedstawiciel handlowy	WA
+19.07.1996	Niemcy	12,00 z³	21	Outback Lager	Peacock	Przedstawiciel handlowy	WA
+19.07.1996	Brazylia	8,00 z³	20	Sir Rodney's Scones	Peacock	Przedstawiciel handlowy	WA
+19.07.1996	Niemcy	39,40 z³	15	Tarte au sucre	Peacock	Przedstawiciel handlowy	WA
+19.07.1996	Brazylia	14,40 z³	20	Steeleye Stout	Peacock	Przedstawiciel handlowy	WA
+19.07.1996	Niemcy	7,70 z³	16	Jack's New England Clam Chowder	Peacock	Przedstawiciel handlowy	WA
+19.07.1996	Niemcy	15,60 z³	50	Ravioli Angelo	Peacock	Przedstawiciel handlowy	WA
+22.07.1996	USA	17,00 z³	12	Chef Anton's Gumbo Mix	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+22.07.1996	USA	24,00 z³	15	Uncle Bob's Organic Dried Pears	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+22.07.1996	USA	30,40 z³	2	Gnocchi di nonna Alice	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+23.07.1996	Austria	13,90 z³	60	Pavlova	Dodsworth	Przedstawiciel handlowy	
+23.07.1996	Austria	20,70 z³	60	Nord-Ost Matjeshering	Dodsworth	Przedstawiciel handlowy	
+23.07.1996	Austria	8,00 z³	36	Longlife Tofu	Dodsworth	Przedstawiciel handlowy	
+23.07.1996	Austria	3,60 z³	28	Guaraná Fantástica	Dodsworth	Przedstawiciel handlowy	
+24.07.1996	Szwecja	15,20 z³	35	Chang	Suyama	Przedstawiciel handlowy	
+24.07.1996	Szwecja	7,70 z³	25	Jack's New England Clam Chowder	Suyama	Przedstawiciel handlowy	
+25.07.1996	Francja	31,20 z³	30	Alice Mutton	Fuller	Wiceprezes ds. sprzeda¿y	WA
+25.07.1996	Francja	12,00 z³	20	Outback Lager	Fuller	Wiceprezes ds. sprzeda¿y	WA
+26.07.1996	Finlandia	30,40 z³	12	Queso Manchego La Pastora	Leverling	Przedstawiciel handlowy	WA
+29.07.1996	Niemcy	14,40 z³	15	Lakkalikööri	Peacock	Przedstawiciel handlowy	WA
+29.07.1996	Niemcy	14,70 z³	50	Boston Crab Meat	Peacock	Przedstawiciel handlowy	WA
+29.07.1996	Niemcy	44,00 z³	70	Raclette Courdavault	Peacock	Przedstawiciel handlowy	WA
+30.07.1996	Wenezuela	99,00 z³	10	Thüringer Rostbratwurst	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+30.07.1996	Wenezuela	27,80 z³	4	Mozzarella di Giovanni	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+31.07.1996	USA	27,80 z³	20	Mozzarella di Giovanni	Buchanan	Dyrektor ds. sprzeda¿y	
+31.07.1996	USA	2,00 z³	60	Geitost	Buchanan	Dyrektor ds. sprzeda¿y	
+01.08.1996	Finlandia	15,20 z³	30	Inlagd Sill	Davolio	Przedstawiciel handlowy	WA
+01.08.1996	Finlandia	36,80 z³	25	Ipoh Coffee	Davolio	Przedstawiciel handlowy	WA
+01.08.1996	USA	2,00 z³	24	Geitost	Suyama	Przedstawiciel handlowy	
+02.08.1996	USA	10,00 z³	40	Gorgonzola Telino	Suyama	Przedstawiciel handlowy	
+02.08.1996	USA	27,80 z³	24	Mozzarella di Giovanni	Suyama	Przedstawiciel handlowy	
+02.08.1996	USA	64,80 z³	6	Sir Rodney's Marmalade	Suyama	Przedstawiciel handlowy	
+05.08.1996	Niemcy	2,00 z³	20	Geitost	Leverling	Przedstawiciel handlowy	WA
+05.08.1996	Niemcy	14,70 z³	60	Boston Crab Meat	Leverling	Przedstawiciel handlowy	WA
+05.08.1996	Niemcy	24,80 z³	24	Ikura	Leverling	Przedstawiciel handlowy	WA
+05.08.1996	Niemcy	10,00 z³	15	Gorgonzola Telino	Leverling	Przedstawiciel handlowy	WA
+05.08.1996	Niemcy	14,40 z³	33	Lakkalikööri	Leverling	Przedstawiciel handlowy	WA
+06.08.1996	Francja	27,80 z³	7	Mozzarella di Giovanni	Suyama	Przedstawiciel handlowy	
+06.08.1996	Francja	17,20 z³	20	Flotemysost	Suyama	Przedstawiciel handlowy	
+07.08.1996	W³ochy	3,60 z³	12	Guaraná Fantástica	Davolio	Przedstawiciel handlowy	WA
+07.08.1996	W³ochy	44,00 z³	6	Raclette Courdavault	Davolio	Przedstawiciel handlowy	WA
+08.08.1996	Meksyk	24,80 z³	15	Ikura	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+08.08.1996	Meksyk	4,80 z³	10	Konbu	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+09.08.1996	Niemcy	36,40 z³	20	Rössle Sauerkraut	Fuller	Wiceprezes ds. sprzeda¿y	WA
+09.08.1996	Niemcy	39,40 z³	12	Tarte au sucre	Fuller	Wiceprezes ds. sprzeda¿y	WA
+12.08.1996	Szwecja	15,50 z³	16	Gula Malacca	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+12.08.1996	Szwecja	44,00 z³	15	Raclette Courdavault	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+12.08.1996	Szwecja	35,10 z³	8	Vegie-spread	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+12.08.1996	Szwecja	12,00 z³	25	Röd Kaviar	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+13.08.1996	Niemcy	31,20 z³	15	Alice Mutton	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+14.08.1996	Hiszpania	14,40 z³	4	Steeleye Stout	Peacock	Przedstawiciel handlowy	WA
+14.08.1996	Szwecja	3,60 z³	12	Guaraná Fantástica	Fuller	Wiceprezes ds. sprzeda¿y	WA
+14.08.1996	Szwecja	6,20 z³	30	Rhönbräu Klosterbier	Fuller	Wiceprezes ds. sprzeda¿y	WA
+14.08.1996	Szwecja	19,20 z³	20	Pâte chinois	Fuller	Wiceprezes ds. sprzeda¿y	WA
+14.08.1996	Hiszpania	7,30 z³	1	Teatime Chocolate Biscuits	Peacock	Przedstawiciel handlowy	WA
+14.08.1996	Hiszpania	3,60 z³	6	Guaraná Fantástica	Peacock	Przedstawiciel handlowy	WA
+15.08.1996	Hiszpania	20,70 z³	6	Nord-Ost Matjeshering	Peacock	Przedstawiciel handlowy	WA
+15.08.1996	Hiszpania	15,60 z³	2	Ravioli Angelo	Peacock	Przedstawiciel handlowy	WA
+16.08.1996	Wenezuela	7,30 z³	18	Teatime Chocolate Biscuits	Leverling	Przedstawiciel handlowy	WA
+16.08.1996	Wenezuela	27,80 z³	3	Mozzarella di Giovanni	Leverling	Przedstawiciel handlowy	WA
+16.08.1996	Wenezuela	12,40 z³	20	Genen Shouyu	Leverling	Przedstawiciel handlowy	WA
+16.08.1996	Wenezuela	27,20 z³	35	Camembert Pierrot	Leverling	Przedstawiciel handlowy	WA
+19.08.1996	Niemcy	15,50 z³	21	Gula Malacca	Peacock	Przedstawiciel handlowy	WA
+19.08.1996	Niemcy	35,10 z³	15	Schoggi Schokolade	Peacock	Przedstawiciel handlowy	WA
+19.08.1996	Niemcy	27,20 z³	20	Camembert Pierrot	Peacock	Przedstawiciel handlowy	WA
+19.08.1996	Niemcy	11,20 z³	5	Laughing Lumberjack Lager	Peacock	Przedstawiciel handlowy	WA
+20.08.1996	Niemcy	14,70 z³	40	Boston Crab Meat	Davolio	Przedstawiciel handlowy	WA
+20.08.1996	Niemcy	14,40 z³	45	Chai	Davolio	Przedstawiciel handlowy	WA
+20.08.1996	Niemcy	26,20 z³	36	Perth Pasties	Davolio	Przedstawiciel handlowy	WA
+21.08.1996	Niemcy	39,40 z³	40	Tarte au sucre	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+21.08.1996	Niemcy	14,40 z³	100	Steeleye Stout	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+22.08.1996	Brazylia	11,20 z³	20	Sasquatch Ale	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+22.08.1996	Brazylia	9,60 z³	15	Spegesild	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+22.08.1996	Brazylia	13,90 z³	40	Pavlova	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+23.08.1996	W³ochy	5,90 z³	10	Tourtiere	Peacock	Przedstawiciel handlowy	WA
+23.08.1996	W³ochy	10,00 z³	3	Scottish Longbreads	Peacock	Przedstawiciel handlowy	WA
+26.08.1996	Wielka Brytania	26,60 z³	9	Wimmers gute Semmelknödel	King	Przedstawiciel handlowy	
+26.08.1996	Wielka Brytania	8,00 z³	30	Aniseed Syrup	King	Przedstawiciel handlowy	
+27.08.1996	Brazylia	4,80 z³	20	Konbu	Suyama	Przedstawiciel handlowy	
+27.08.1996	Brazylia	16,00 z³	15	Maxilaku	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+27.08.1996	Brazylia	17,00 z³	20	Chef Anton's Gumbo Mix	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+27.08.1996	Brazylia	42,40 z³	2	Manjimup Dried Apples	Suyama	Przedstawiciel handlowy	
+27.08.1996	Brazylia	99,00 z³	15	Thüringer Rostbratwurst	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+27.08.1996	Brazylia	15,50 z³	24	Gula Malacca	Suyama	Przedstawiciel handlowy	
+27.08.1996	Brazylia	10,40 z³	10	Original Frankfurter grüne Soße	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+28.08.1996	Brazylia	64,80 z³	20	Sir Rodney's Marmalade	Davolio	Przedstawiciel handlowy	WA
+29.08.1996	Meksyk	35,10 z³	5	Vegie-spread	Davolio	Przedstawiciel handlowy	WA
+29.08.1996	Meksyk	3,60 z³	10	Guaraná Fantástica	Davolio	Przedstawiciel handlowy	WA
+29.08.1996	Meksyk	6,20 z³	6	Rhönbräu Klosterbier	Davolio	Przedstawiciel handlowy	WA
+29.08.1996	Meksyk	50,00 z³	12	Carnarvon Tigers	Davolio	Przedstawiciel handlowy	WA
+30.08.1996	USA	31,20 z³	15	Alice Mutton	Peacock	Przedstawiciel handlowy	WA
+30.08.1996	USA	6,20 z³	6	Rhönbräu Klosterbier	Peacock	Przedstawiciel handlowy	WA
+30.08.1996	USA	27,20 z³	21	Camembert Pierrot	Peacock	Przedstawiciel handlowy	WA
+30.08.1996	USA	36,80 z³	15	Ipoh Coffee	Peacock	Przedstawiciel handlowy	WA
+30.08.1996	USA	14,40 z³	18	Chai	Peacock	Przedstawiciel handlowy	WA
+02.09.1996	Francja	30,40 z³	4	Gnocchi di nonna Alice	Fuller	Wiceprezes ds. sprzeda¿y	WA
+03.09.1996	Wenezuela	16,80 z³	12	Queso Cabrales	Suyama	Przedstawiciel handlowy	
+03.09.1996	Wenezuela	28,80 z³	15	Gudbrandsdalsost	Suyama	Przedstawiciel handlowy	
+03.09.1996	Wenezuela	13,90 z³	30	Pavlova	Suyama	Przedstawiciel handlowy	
+04.09.1996	Francja	14,40 z³	60	Chartreuse verte	Buchanan	Dyrektor ds. sprzeda¿y	
+04.09.1996	Francja	27,80 z³	20	Mozzarella di Giovanni	Buchanan	Dyrektor ds. sprzeda¿y	
+05.09.1996	Irlandia	15,20 z³	40	Chang	Suyama	Przedstawiciel handlowy	
+05.09.1996	Irlandia	39,40 z³	15	Tarte au sucre	Suyama	Przedstawiciel handlowy	
+05.09.1996	Irlandia	44,00 z³	30	Raclette Courdavault	Suyama	Przedstawiciel handlowy	
+05.09.1996	Irlandia	15,20 z³	40	Inlagd Sill	Suyama	Przedstawiciel handlowy	
+06.09.1996	Brazylia	7,30 z³	15	Teatime Chocolate Biscuits	Peacock	Przedstawiciel handlowy	WA
+06.09.1996	Brazylia	12,00 z³	20	Outback Lager	Peacock	Przedstawiciel handlowy	WA
+09.09.1996	Niemcy	14,70 z³	10	Boston Crab Meat	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+09.09.1996	Niemcy	30,40 z³	20	Gnocchi di nonna Alice	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+09.09.1996	W³ochy	10,00 z³	20	Scottish Longbreads	Fuller	Wiceprezes ds. sprzeda¿y	WA
+09.09.1996	W³ochy	13,60 z³	30	Louisiana Hot Spiced Okra	Fuller	Wiceprezes ds. sprzeda¿y	WA
+10.09.1996	Belgia	36,80 z³	12	Ipoh Coffee	Peacock	Przedstawiciel handlowy	WA
+10.09.1996	Belgia	31,20 z³	40	Alice Mutton	Peacock	Przedstawiciel handlowy	WA
+10.09.1996	Belgia	36,40 z³	28	Rössle Sauerkraut	Peacock	Przedstawiciel handlowy	WA
+11.09.1996	Hiszpania	16,80 z³	30	Louisiana Fiery Hot Pepper Sauce	King	Przedstawiciel handlowy	
+11.09.1996	Hiszpania	14,70 z³	40	Boston Crab Meat	King	Przedstawiciel handlowy	
+11.09.1996	Hiszpania	10,00 z³	15	Scottish Longbreads	King	Przedstawiciel handlowy	
+12.09.1996	Meksyk	16,00 z³	30	Maxilaku	Davolio	Przedstawiciel handlowy	WA
+12.09.1996	Meksyk	17,20 z³	2	Flotemysost	Davolio	Przedstawiciel handlowy	WA
+12.09.1996	Meksyk	44,00 z³	10	Raclette Courdavault	Davolio	Przedstawiciel handlowy	WA
+13.09.1996	USA	50,00 z³	25	Carnarvon Tigers	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+13.09.1996	USA	14,40 z³	30	Chartreuse verte	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+13.09.1996	USA	99,00 z³	25	Thüringer Rostbratwurst	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+16.09.1996	Hiszpania	26,20 z³	10	Perth Pasties	Davolio	Przedstawiciel handlowy	WA
+16.09.1996	Hiszpania	20,70 z³	10	Nord-Ost Matjeshering	Davolio	Przedstawiciel handlowy	WA
+16.09.1996	Hiszpania	5,90 z³	5	Tourtiere	Davolio	Przedstawiciel handlowy	WA
+17.09.1996	USA	39,40 z³	10	Tarte au sucre	Fuller	Wiceprezes ds. sprzeda¿y	WA
+17.09.1996	USA	10,00 z³	3	Scottish Longbreads	Fuller	Wiceprezes ds. sprzeda¿y	WA
+18.09.1996	Meksyk	12,00 z³	5	Outback Lager	King	Przedstawiciel handlowy	
+18.09.1996	Meksyk	28,80 z³	1	Gudbrandsdalsost	King	Przedstawiciel handlowy	
+19.09.1996	Irlandia	17,60 z³	20	Chef Anton's Cajun Seasoning	Leverling	Przedstawiciel handlowy	WA
+19.09.1996	Irlandia	36,80 z³	20	Ipoh Coffee	Leverling	Przedstawiciel handlowy	WA
+19.09.1996	Irlandia	17,20 z³	3	Flotemysost	Leverling	Przedstawiciel handlowy	WA
+19.09.1996	Irlandia	20,00 z³	30	Grandma's Boysenberry Spread	Leverling	Przedstawiciel handlowy	WA
+19.09.1996	Irlandia	11,20 z³	2	Singaporean Hokkien Fried Mee	Leverling	Przedstawiciel handlowy	WA
+20.09.1996	USA	13,90 z³	10	Pavlova	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+20.09.1996	USA	39,40 z³	5	Tarte au sucre	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+20.09.1996	Francja	28,80 z³	7	Gudbrandsdalsost	Davolio	Przedstawiciel handlowy	WA
+20.09.1996	Francja	11,20 z³	6	Singaporean Hokkien Fried Mee	Davolio	Przedstawiciel handlowy	WA
+23.09.1996	Niemcy	26,20 z³	20	Perth Pasties	Fuller	Wiceprezes ds. sprzeda¿y	WA
+23.09.1996	Niemcy	36,80 z³	24	Ipoh Coffee	Fuller	Wiceprezes ds. sprzeda¿y	WA
+23.09.1996	Niemcy	6,20 z³	10	Rhönbräu Klosterbier	Fuller	Wiceprezes ds. sprzeda¿y	WA
+23.09.1996	Niemcy	36,40 z³	4	Rössle Sauerkraut	Fuller	Wiceprezes ds. sprzeda¿y	WA
+24.09.1996	Niemcy	15,20 z³	12	Inlagd Sill	Fuller	Wiceprezes ds. sprzeda¿y	WA
+25.09.1996	USA	39,40 z³	25	Tarte au sucre	Davolio	Przedstawiciel handlowy	WA
+25.09.1996	USA	10,60 z³	30	Escargots de Bourgogne	Davolio	Przedstawiciel handlowy	WA
+25.09.1996	USA	25,60 z³	40	Mascarpone Fabioli	Davolio	Przedstawiciel handlowy	WA
+26.09.1996	Wielka Brytania	12,00 z³	30	Outback Lager	Peacock	Przedstawiciel handlowy	WA
+26.09.1996	Wielka Brytania	11,20 z³	14	Sasquatch Ale	Peacock	Przedstawiciel handlowy	WA
+27.09.1996	USA	39,40 z³	70	Tarte au sucre	Davolio	Przedstawiciel handlowy	WA
+27.09.1996	USA	7,70 z³	10	Jack's New England Clam Chowder	Davolio	Przedstawiciel handlowy	WA
+30.09.1996	USA	14,40 z³	20	Chai	Suyama	Przedstawiciel handlowy	
+01.10.1996	Wielka Brytania	14,40 z³	6	Lakkalikööri	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+01.10.1996	Wielka Brytania	7,70 z³	20	Jack's New England Clam Chowder	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+02.10.1996	Meksyk	36,40 z³	14	Rössle Sauerkraut	King	Przedstawiciel handlowy	
+02.10.1996	Meksyk	14,40 z³	30	Lakkalikööri	King	Przedstawiciel handlowy	
+02.10.1996	Meksyk	31,20 z³	8	Alice Mutton	King	Przedstawiciel handlowy	
+03.10.1996	Finlandia	17,20 z³	30	Flotemysost	Buchanan	Dyrektor ds. sprzeda¿y	
+03.10.1996	Wielka Brytania	14,40 z³	10	Steeleye Stout	Leverling	Przedstawiciel handlowy	WA
+04.10.1996	Meksyk	5,60 z³	20	Filo Mix	King	Przedstawiciel handlowy	
+07.10.1996	Niemcy	11,20 z³	4	NuNuCa Nuß-Nougat-Creme	Peacock	Przedstawiciel handlowy	WA
+07.10.1996	Niemcy	14,40 z³	4	Chartreuse verte	Peacock	Przedstawiciel handlowy	WA
+07.10.1996	Niemcy	12,40 z³	5	Genen Shouyu	Peacock	Przedstawiciel handlowy	WA
+08.10.1996	USA	44,00 z³	40	Raclette Courdavault	Dodsworth	Przedstawiciel handlowy	
+08.10.1996	USA	14,40 z³	70	Steeleye Stout	Dodsworth	Przedstawiciel handlowy	
+08.10.1996	USA	9,60 z³	30	Spegesild	Dodsworth	Przedstawiciel handlowy	
+08.10.1996	USA	13,90 z³	21	Pavlova	Dodsworth	Przedstawiciel handlowy	
+08.10.1996	USA	35,10 z³	80	Vegie-spread	Dodsworth	Przedstawiciel handlowy	
+09.10.1996	Niemcy	10,00 z³	4	Gorgonzola Telino	Davolio	Przedstawiciel handlowy	WA
+09.10.1996	Niemcy	20,00 z³	6	Grandma's Boysenberry Spread	Davolio	Przedstawiciel handlowy	WA
+09.10.1996	Niemcy	27,80 z³	40	Mozzarella di Giovanni	Davolio	Przedstawiciel handlowy	WA
+09.10.1996	Niemcy	18,60 z³	9	Tofu	Davolio	Przedstawiciel handlowy	WA
+09.10.1996	Niemcy	4,80 z³	12	Konbu	Davolio	Przedstawiciel handlowy	WA
+10.10.1996	Hiszpania	15,60 z³	16	Ravioli Angelo	Peacock	Przedstawiciel handlowy	WA
+10.10.1996	Hiszpania	6,20 z³	50	Rhönbräu Klosterbier	Peacock	Przedstawiciel handlowy	WA
+10.10.1996	Hiszpania	17,60 z³	24	Chef Anton's Cajun Seasoning	Peacock	Przedstawiciel handlowy	WA
+11.10.1996	Szwecja	20,70 z³	35	Nord-Ost Matjeshering	Fuller	Wiceprezes ds. sprzeda¿y	WA
+11.10.1996	Szwecja	10,60 z³	30	Escargots de Bourgogne	Fuller	Wiceprezes ds. sprzeda¿y	WA
+11.10.1996	Szwecja	15,20 z³	25	Chang	Fuller	Wiceprezes ds. sprzeda¿y	WA
+11.10.1996	Szwecja	16,80 z³	50	Queso Cabrales	Fuller	Wiceprezes ds. sprzeda¿y	WA
+14.10.1996	Portugalia	10,00 z³	10	Scottish Longbreads	Peacock	Przedstawiciel handlowy	WA
+14.10.1996	Portugalia	44,00 z³	9	Raclette Courdavault	Peacock	Przedstawiciel handlowy	WA
+14.10.1996	Portugalia	16,80 z³	40	Louisiana Fiery Hot Pepper Sauce	Peacock	Przedstawiciel handlowy	WA
+15.10.1996	USA	7,30 z³	10	Teatime Chocolate Biscuits	Peacock	Przedstawiciel handlowy	WA
+15.10.1996	USA	20,70 z³	8	Nord-Ost Matjeshering	Peacock	Przedstawiciel handlowy	WA
+15.10.1996	USA	210,80 z³	20	Côte de Blaye	Peacock	Przedstawiciel handlowy	WA
+15.10.1996	USA	30,40 z³	12	Gnocchi di nonna Alice	Peacock	Przedstawiciel handlowy	WA
+16.10.1996	Wenezuela	24,90 z³	50	Gumbär Gummibärchen	Leverling	Przedstawiciel handlowy	WA
+16.10.1996	Francja	5,90 z³	15	Tourtiere	Dodsworth	Przedstawiciel handlowy	
+16.10.1996	Wenezuela	27,80 z³	25	Mozzarella di Giovanni	Leverling	Przedstawiciel handlowy	WA
+17.10.1996	Kanada	7,60 z³	16	Zaanse koeken	Leverling	Przedstawiciel handlowy	WA
+17.10.1996	Kanada	11,20 z³	10	Singaporean Hokkien Fried Mee	Leverling	Przedstawiciel handlowy	WA
+17.10.1996	Kanada	50,00 z³	40	Carnarvon Tigers	Leverling	Przedstawiciel handlowy	WA
+18.10.1996	Finlandia	8,00 z³	10	Sir Rodney's Scones	Buchanan	Dyrektor ds. sprzeda¿y	
+18.10.1996	Finlandia	18,60 z³	10	Tofu	Buchanan	Dyrektor ds. sprzeda¿y	
+18.10.1996	Finlandia	17,20 z³	40	Flotemysost	Buchanan	Dyrektor ds. sprzeda¿y	
+21.10.1996	Francja	10,00 z³	10	Scottish Longbreads	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+21.10.1996	Francja	5,60 z³	8	Filo Mix	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+22.10.1996	Irlandia	25,60 z³	6	Mascarpone Fabioli	King	Przedstawiciel handlowy	
+22.10.1996	Irlandia	15,20 z³	7	Chang	King	Przedstawiciel handlowy	
+22.10.1996	Irlandia	42,40 z³	48	Manjimup Dried Apples	King	Przedstawiciel handlowy	
+22.10.1996	Irlandia	10,00 z³	25	Gorgonzola Telino	King	Przedstawiciel handlowy	
+23.10.1996	Portugalia	17,60 z³	18	Chef Anton's Cajun Seasoning	King	Przedstawiciel handlowy	
+24.10.1996	Niemcy	24,90 z³	24	Gumbär Gummibärchen	Peacock	Przedstawiciel handlowy	WA
+24.10.1996	Niemcy	20,80 z³	28	Gravad lax	Peacock	Przedstawiciel handlowy	WA
+24.10.1996	Niemcy	7,20 z³	40	Tunnbröd	Peacock	Przedstawiciel handlowy	WA
+24.10.1996	Niemcy	15,20 z³	20	Inlagd Sill	Peacock	Przedstawiciel handlowy	WA
+24.10.1996	Niemcy	27,80 z³	25	Mozzarella di Giovanni	Peacock	Przedstawiciel handlowy	WA
+25.10.1996	USA	31,20 z³	20	Alice Mutton	Peacock	Przedstawiciel handlowy	WA
+25.10.1996	USA	20,70 z³	15	Nord-Ost Matjeshering	Peacock	Przedstawiciel handlowy	WA
+28.10.1996	Kanada	17,60 z³	10	Chef Anton's Cajun Seasoning	Fuller	Wiceprezes ds. sprzeda¿y	WA
+28.10.1996	Kanada	39,40 z³	28	Tarte au sucre	Fuller	Wiceprezes ds. sprzeda¿y	WA
+28.10.1996	Kanada	31,20 z³	70	Alice Mutton	Fuller	Wiceprezes ds. sprzeda¿y	WA
+29.10.1996	Francja	50,00 z³	20	Carnarvon Tigers	Davolio	Przedstawiciel handlowy	WA
+29.10.1996	Dania	44,00 z³	9	Raclette Courdavault	King	Przedstawiciel handlowy	
+29.10.1996	Francja	36,80 z³	40	Ipoh Coffee	Davolio	Przedstawiciel handlowy	WA
+29.10.1996	Dania	2,00 z³	8	Geitost	King	Przedstawiciel handlowy	
+29.10.1996	Francja	7,70 z³	12	Jack's New England Clam Chowder	Davolio	Przedstawiciel handlowy	WA
+30.10.1996	Niemcy	19,20 z³	40	Pâte chinois	Peacock	Przedstawiciel handlowy	WA
+30.10.1996	Niemcy	10,00 z³	56	Gorgonzola Telino	Peacock	Przedstawiciel handlowy	WA
+30.10.1996	Niemcy	15,20 z³	24	Chang	Peacock	Przedstawiciel handlowy	WA
+30.10.1996	Niemcy	15,20 z³	40	Inlagd Sill	Peacock	Przedstawiciel handlowy	WA
+31.10.1996	Niemcy	26,60 z³	50	Wimmers gute Semmelknödel	Peacock	Przedstawiciel handlowy	WA
+31.10.1996	Niemcy	10,00 z³	4	Scottish Longbreads	Peacock	Przedstawiciel handlowy	WA
+31.10.1996	Niemcy	14,40 z³	15	Lakkalikööri	Peacock	Przedstawiciel handlowy	WA
+01.11.1996	USA	32,00 z³	70	Northwoods Cranberry Sauce	Peacock	Przedstawiciel handlowy	WA
+01.11.1996	USA	17,60 z³	35	Chef Anton's Cajun Seasoning	Peacock	Przedstawiciel handlowy	WA
+04.11.1996	Niemcy	32,00 z³	70	Northwoods Cranberry Sauce	Fuller	Wiceprezes ds. sprzeda¿y	WA
+04.11.1996	Niemcy	11,20 z³	9	Singaporean Hokkien Fried Mee	Fuller	Wiceprezes ds. sprzeda¿y	WA
+04.11.1996	Niemcy	7,30 z³	80	Teatime Chocolate Biscuits	Fuller	Wiceprezes ds. sprzeda¿y	WA
+05.11.1996	USA	30,40 z³	20	Gnocchi di nonna Alice	Leverling	Przedstawiciel handlowy	WA
+05.11.1996	USA	31,20 z³	36	Alice Mutton	Leverling	Przedstawiciel handlowy	WA
+06.11.1996	Brazylia	14,70 z³	4	Boston Crab Meat	Peacock	Przedstawiciel handlowy	WA
+06.11.1996	Brazylia	11,20 z³	10	NuNuCa Nuß-Nougat-Creme	Peacock	Przedstawiciel handlowy	WA
+06.11.1996	Brazylia	6,20 z³	6	Rhönbräu Klosterbier	Peacock	Przedstawiciel handlowy	WA
+06.11.1996	Brazylia	14,40 z³	50	Chartreuse verte	Peacock	Przedstawiciel handlowy	WA
+07.11.1996	Niemcy	7,20 z³	25	Tunnbröd	Peacock	Przedstawiciel handlowy	WA
+07.11.1996	Niemcy	14,40 z³	15	Chai	Peacock	Przedstawiciel handlowy	WA
+08.11.1996	USA	5,90 z³	24	Tourtiere	King	Przedstawiciel handlowy	
+11.11.1996	Francja	28,80 z³	18	Gudbrandsdalsost	Suyama	Przedstawiciel handlowy	
+11.11.1996	Austria	210,80 z³	20	Côte de Blaye	Davolio	Przedstawiciel handlowy	WA
+11.11.1996	Austria	7,70 z³	13	Jack's New England Clam Chowder	Davolio	Przedstawiciel handlowy	WA
+11.11.1996	Austria	16,80 z³	10	Louisiana Fiery Hot Pepper Sauce	Davolio	Przedstawiciel handlowy	WA
+11.11.1996	Austria	15,50 z³	77	Gula Malacca	Davolio	Przedstawiciel handlowy	WA
+11.11.1996	Francja	13,00 z³	15	Valkoinen suklaa	Suyama	Przedstawiciel handlowy	
+12.11.1996	Portugalia	3,60 z³	10	Guaraná Fantástica	Leverling	Przedstawiciel handlowy	WA
+12.11.1996	Portugalia	5,90 z³	20	Tourtiere	Leverling	Przedstawiciel handlowy	WA
+13.11.1996	Austria	210,80 z³	50	Côte de Blaye	King	Przedstawiciel handlowy	
+13.11.1996	Austria	16,80 z³	12	Queso Cabrales	King	Przedstawiciel handlowy	
+14.11.1996	Meksyk	99,00 z³	4	Thüringer Rostbratwurst	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+14.11.1996	Meksyk	14,40 z³	12	Chai	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+15.11.1996	Wielka Brytania	15,60 z³	25	Ravioli Angelo	Suyama	Przedstawiciel handlowy	
+15.11.1996	Wielka Brytania	3,60 z³	25	Guaraná Fantástica	Suyama	Przedstawiciel handlowy	
+18.11.1996	Niemcy	10,00 z³	30	Gorgonzola Telino	Suyama	Przedstawiciel handlowy	
+18.11.1996	Niemcy	19,20 z³	12	Pâte chinois	Suyama	Przedstawiciel handlowy	
+18.11.1996	Niemcy	28,80 z³	20	Gudbrandsdalsost	Suyama	Przedstawiciel handlowy	
+19.11.1996	Wenezuela	24,90 z³	16	Gumbär Gummibärchen	Davolio	Przedstawiciel handlowy	WA
+19.11.1996	Wenezuela	24,80 z³	30	Ikura	Davolio	Przedstawiciel handlowy	WA
+19.11.1996	Wenezuela	27,20 z³	8	Camembert Pierrot	Davolio	Przedstawiciel handlowy	WA
+20.11.1996	Francja	3,60 z³	10	Guaraná Fantástica	Buchanan	Dyrektor ds. sprzeda¿y	
+20.11.1996	Francja	15,20 z³	20	Inlagd Sill	Buchanan	Dyrektor ds. sprzeda¿y	
+20.11.1996	Francja	11,20 z³	10	Sasquatch Ale	Buchanan	Dyrektor ds. sprzeda¿y	
+21.11.1996	Wielka Brytania	10,00 z³	70	Gorgonzola Telino	Buchanan	Dyrektor ds. sprzeda¿y	
+21.11.1996	Wielka Brytania	27,20 z³	80	Camembert Pierrot	Buchanan	Dyrektor ds. sprzeda¿y	
+21.11.1996	Wielka Brytania	13,90 z³	56	Pavlova	Buchanan	Dyrektor ds. sprzeda¿y	
+22.11.1996	Niemcy	14,40 z³	54	Chartreuse verte	Davolio	Przedstawiciel handlowy	WA
+22.11.1996	Francja	210,80 z³	10	Côte de Blaye	Peacock	Przedstawiciel handlowy	WA
+22.11.1996	Francja	5,90 z³	28	Tourtiere	Peacock	Przedstawiciel handlowy	WA
+22.11.1996	Francja	16,00 z³	35	Maxilaku	Peacock	Przedstawiciel handlowy	WA
+22.11.1996	Niemcy	27,20 z³	55	Camembert Pierrot	Davolio	Przedstawiciel handlowy	WA
+22.11.1996	Francja	99,00 z³	35	Thüringer Rostbratwurst	Peacock	Przedstawiciel handlowy	WA
+22.11.1996	Francja	36,40 z³	30	Rössle Sauerkraut	Peacock	Przedstawiciel handlowy	WA
+25.11.1996	Francja	42,40 z³	20	Manjimup Dried Apples	Leverling	Przedstawiciel handlowy	WA
+25.11.1996	Francja	5,90 z³	24	Tourtiere	Leverling	Przedstawiciel handlowy	WA
+25.11.1996	Francja	11,20 z³	50	NuNuCa Nuß-Nougat-Creme	Leverling	Przedstawiciel handlowy	WA
+26.11.1996	Niemcy	6,20 z³	12	Rhönbräu Klosterbier	Peacock	Przedstawiciel handlowy	WA
+26.11.1996	Wielka Brytania	17,20 z³	5	Flotemysost	Davolio	Przedstawiciel handlowy	WA
+26.11.1996	Niemcy	14,40 z³	12	Lakkalikööri	Peacock	Przedstawiciel handlowy	WA
+26.11.1996	Niemcy	10,00 z³	20	Gorgonzola Telino	Peacock	Przedstawiciel handlowy	WA
+26.11.1996	Wielka Brytania	28,80 z³	30	Gudbrandsdalsost	Davolio	Przedstawiciel handlowy	WA
+27.11.1996	Meksyk	16,80 z³	24	Queso Cabrales	Leverling	Przedstawiciel handlowy	WA
+28.11.1996	Dania	16,80 z³	15	Louisiana Fiery Hot Pepper Sauce	King	Przedstawiciel handlowy	
+28.11.1996	Hiszpania	10,40 z³	5	Original Frankfurter grüne Soße	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+28.11.1996	Dania	10,40 z³	7	Original Frankfurter grüne Soße	King	Przedstawiciel handlowy	
+28.11.1996	Dania	5,90 z³	18	Tourtiere	King	Przedstawiciel handlowy	
+28.11.1996	Hiszpania	16,80 z³	5	Louisiana Fiery Hot Pepper Sauce	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+28.11.1996	Dania	11,20 z³	36	Sasquatch Ale	King	Przedstawiciel handlowy	
+29.11.1996	Austria	26,60 z³	35	Wimmers gute Semmelknödel	Fuller	Wiceprezes ds. sprzeda¿y	WA
+29.11.1996	Austria	8,00 z³	5	Sir Rodney's Scones	Fuller	Wiceprezes ds. sprzeda¿y	WA
+29.11.1996	Austria	15,60 z³	25	Ravioli Angelo	Fuller	Wiceprezes ds. sprzeda¿y	WA
+29.11.1996	Austria	36,40 z³	13	Rössle Sauerkraut	Fuller	Wiceprezes ds. sprzeda¿y	WA
+02.12.1996	USA	99,00 z³	20	Thüringer Rostbratwurst	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+02.12.1996	USA	30,40 z³	18	Gnocchi di nonna Alice	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+03.12.1996	Szwajcaria	26,60 z³	30	Wimmers gute Semmelknödel	Suyama	Przedstawiciel handlowy	
+03.12.1996	Szwajcaria	14,40 z³	15	Chai	Suyama	Przedstawiciel handlowy	
+03.12.1996	Szwajcaria	8,00 z³	20	Longlife Tofu	Suyama	Przedstawiciel handlowy	
+03.12.1996	Francja	15,20 z³	6	Inlagd Sill	Davolio	Przedstawiciel handlowy	WA
+04.12.1996	Brazylia	210,80 z³	40	Côte de Blaye	Buchanan	Dyrektor ds. sprzeda¿y	
+04.12.1996	Brazylia	27,80 z³	42	Mozzarella di Giovanni	Buchanan	Dyrektor ds. sprzeda¿y	
+04.12.1996	Brazylia	64,80 z³	12	Sir Rodney's Marmalade	Buchanan	Dyrektor ds. sprzeda¿y	
+04.12.1996	Brazylia	27,20 z³	70	Camembert Pierrot	Buchanan	Dyrektor ds. sprzeda¿y	
+05.12.1996	Irlandia	17,20 z³	50	Flotemysost	Peacock	Przedstawiciel handlowy	WA
+05.12.1996	Polska	10,60 z³	15	Escargots de Bourgogne	Davolio	Przedstawiciel handlowy	WA
+05.12.1996	Irlandia	10,60 z³	80	Escargots de Bourgogne	Peacock	Przedstawiciel handlowy	WA
+05.12.1996	Polska	10,00 z³	30	Gorgonzola Telino	Davolio	Przedstawiciel handlowy	WA
+06.12.1996	USA	5,90 z³	10	Tourtiere	Leverling	Przedstawiciel handlowy	WA
+06.12.1996	USA	18,60 z³	15	Tofu	Leverling	Przedstawiciel handlowy	WA
+09.12.1996	Wielka Brytania	36,40 z³	20	Rössle Sauerkraut	Davolio	Przedstawiciel handlowy	WA
+09.12.1996	Wielka Brytania	14,40 z³	20	Chartreuse verte	Davolio	Przedstawiciel handlowy	WA
+09.12.1996	Kanada	10,00 z³	42	Gorgonzola Telino	Davolio	Przedstawiciel handlowy	WA
+10.12.1996	Szwecja	17,20 z³	6	Flotemysost	Buchanan	Dyrektor ds. sprzeda¿y	
+11.12.1996	Brazylia	35,10 z³	16	Vegie-spread	Fuller	Wiceprezes ds. sprzeda¿y	WA
+11.12.1996	Brazylia	7,70 z³	8	Jack's New England Clam Chowder	Fuller	Wiceprezes ds. sprzeda¿y	WA
+11.12.1996	Brazylia	16,80 z³	20	Louisiana Fiery Hot Pepper Sauce	Fuller	Wiceprezes ds. sprzeda¿y	WA
+12.12.1996	Irlandia	12,00 z³	30	Outback Lager	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+12.12.1996	Irlandia	20,70 z³	18	Nord-Ost Matjeshering	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+12.12.1996	Wenezuela	8,00 z³	14	Longlife Tofu	Leverling	Przedstawiciel handlowy	WA
+12.12.1996	Irlandia	27,20 z³	6	Camembert Pierrot	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+12.12.1996	Irlandia	26,20 z³	20	Perth Pasties	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+13.12.1996	Austria	8,00 z³	50	Longlife Tofu	Peacock	Przedstawiciel handlowy	WA
+13.12.1996	Austria	99,00 z³	14	Thüringer Rostbratwurst	Peacock	Przedstawiciel handlowy	WA
+13.12.1996	Austria	2,00 z³	60	Geitost	Peacock	Przedstawiciel handlowy	WA
+13.12.1996	Austria	50,00 z³	9	Carnarvon Tigers	Peacock	Przedstawiciel handlowy	WA
+13.12.1996	Austria	17,00 z³	32	Chef Anton's Gumbo Mix	Peacock	Przedstawiciel handlowy	WA
+16.12.1996	Szwecja	27,20 z³	15	Camembert Pierrot	Leverling	Przedstawiciel handlowy	WA
+16.12.1996	Wielka Brytania	4,80 z³	20	Konbu	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+16.12.1996	Wielka Brytania	13,00 z³	15	Valkoinen suklaa	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+16.12.1996	Wielka Brytania	30,40 z³	20	Gnocchi di nonna Alice	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+16.12.1996	Szwecja	64,80 z³	28	Sir Rodney's Marmalade	Leverling	Przedstawiciel handlowy	WA
+17.12.1996	USA	10,00 z³	8	Scottish Longbreads	Davolio	Przedstawiciel handlowy	WA
+17.12.1996	USA	24,00 z³	10	Uncle Bob's Organic Dried Pears	Davolio	Przedstawiciel handlowy	WA
+17.12.1996	USA	27,20 z³	20	Camembert Pierrot	Davolio	Przedstawiciel handlowy	WA
+18.12.1996	Norwegia	44,00 z³	12	Raclette Courdavault	Davolio	Przedstawiciel handlowy	WA
+18.12.1996	Norwegia	36,40 z³	6	Rössle Sauerkraut	Davolio	Przedstawiciel handlowy	WA
+18.12.1996	Norwegia	3,60 z³	15	Guaraná Fantástica	Davolio	Przedstawiciel handlowy	WA
+18.12.1996	Norwegia	17,20 z³	15	Flotemysost	Davolio	Przedstawiciel handlowy	WA
+18.12.1996	Brazylia	3,60 z³	15	Guaraná Fantástica	Dodsworth	Przedstawiciel handlowy	
+18.12.1996	Brazylia	11,20 z³	10	Sasquatch Ale	Dodsworth	Przedstawiciel handlowy	
+19.12.1996	Wielka Brytania	26,20 z³	40	Perth Pasties	Fuller	Wiceprezes ds. sprzeda¿y	WA
+19.12.1996	Wielka Brytania	5,60 z³	20	Filo Mix	Fuller	Wiceprezes ds. sprzeda¿y	WA
+19.12.1996	Wielka Brytania	7,60 z³	15	Rogede sild	Fuller	Wiceprezes ds. sprzeda¿y	WA
+20.12.1996	Kanada	39,40 z³	20	Tarte au sucre	Peacock	Przedstawiciel handlowy	WA
+20.12.1996	Kanada	12,00 z³	30	Outback Lager	Peacock	Przedstawiciel handlowy	WA
+20.12.1996	Kanada	24,80 z³	16	Ikura	Peacock	Przedstawiciel handlowy	WA
+20.12.1996	Kanada	19,20 z³	15	Pâte chinois	Peacock	Przedstawiciel handlowy	WA
+23.12.1996	Austria	10,00 z³	60	Gorgonzola Telino	Suyama	Przedstawiciel handlowy	
+23.12.1996	Niemcy	4,80 z³	18	Konbu	Leverling	Przedstawiciel handlowy	WA
+23.12.1996	Austria	9,60 z³	45	Spegesild	Suyama	Przedstawiciel handlowy	
+23.12.1996	Austria	27,80 z³	24	Mozzarella di Giovanni	Suyama	Przedstawiciel handlowy	
+23.12.1996	Austria	14,40 z³	40	Steeleye Stout	Suyama	Przedstawiciel handlowy	
+24.12.1996	Austria	28,80 z³	50	Gudbrandsdalsost	Fuller	Wiceprezes ds. sprzeda¿y	WA
+25.12.1996	USA	11,20 z³	7	NuNuCa Nuß-Nougat-Creme	Davolio	Przedstawiciel handlowy	WA
+25.12.1996	USA	24,90 z³	70	Gumbär Gummibärchen	Davolio	Przedstawiciel handlowy	WA
+25.12.1996	USA	18,60 z³	42	Tofu	Davolio	Przedstawiciel handlowy	WA
+25.12.1996	USA	10,00 z³	32	Gorgonzola Telino	Davolio	Przedstawiciel handlowy	WA
+25.12.1996	USA	4,80 z³	10	Konbu	Davolio	Przedstawiciel handlowy	WA
+25.12.1996	USA	39,40 z³	10	Tarte au sucre	Davolio	Przedstawiciel handlowy	WA
+25.12.1996	USA	15,20 z³	25	Chang	Davolio	Przedstawiciel handlowy	WA
+26.12.1996	Wenezuela	9,60 z³	28	Spegesild	Suyama	Przedstawiciel handlowy	
+26.12.1996	Wenezuela	28,80 z³	8	Gudbrandsdalsost	Suyama	Przedstawiciel handlowy	
+26.12.1996	Wenezuela	26,20 z³	70	Perth Pasties	Suyama	Przedstawiciel handlowy	
+27.12.1996	Portugalia	42,40 z³	18	Manjimup Dried Apples	Buchanan	Dyrektor ds. sprzeda¿y	
+27.12.1996	Portugalia	8,00 z³	10	Sir Rodney's Scones	Buchanan	Dyrektor ds. sprzeda¿y	
+27.12.1996	Niemcy	7,20 z³	40	Tunnbröd	Davolio	Przedstawiciel handlowy	WA
+27.12.1996	Niemcy	27,80 z³	21	Mozzarella di Giovanni	Davolio	Przedstawiciel handlowy	WA
+27.12.1996	Niemcy	17,20 z³	60	Flotemysost	Davolio	Przedstawiciel handlowy	WA
+30.12.1996	USA	19,20 z³	120	Pâte chinois	Fuller	Wiceprezes ds. sprzeda¿y	WA
+30.12.1996	USA	14,40 z³	30	Steeleye Stout	Fuller	Wiceprezes ds. sprzeda¿y	WA
+31.12.1996	Dania	14,40 z³	35	Lakkalikööri	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+31.12.1996	Dania	10,00 z³	60	Scottish Longbreads	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+31.12.1996	Dania	17,20 z³	30	Flotemysost	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+31.12.1996	Dania	10,40 z³	14	Original Frankfurter grüne Soße	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+01.01.1997	Wielka Brytania	99,00 z³	21	Thüringer Rostbratwurst	Davolio	Przedstawiciel handlowy	WA
+01.01.1997	USA	17,20 z³	60	Flotemysost	Davolio	Przedstawiciel handlowy	WA
+01.01.1997	USA	30,40 z³	70	Gnocchi di nonna Alice	Davolio	Przedstawiciel handlowy	WA
+01.01.1997	USA	20,70 z³	18	Nord-Ost Matjeshering	Davolio	Przedstawiciel handlowy	WA
+01.01.1997	Wielka Brytania	14,40 z³	35	Steeleye Stout	Davolio	Przedstawiciel handlowy	WA
+01.01.1997	Wielka Brytania	16,00 z³	30	Maxilaku	Davolio	Przedstawiciel handlowy	WA
+01.01.1997	USA	16,80 z³	20	Louisiana Fiery Hot Pepper Sauce	Davolio	Przedstawiciel handlowy	WA
+02.01.1997	Austria	35,10 z³	65	Vegie-spread	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+02.01.1997	Austria	7,20 z³	60	Tunnbröd	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+03.01.1997	Austria	10,20 z³	70	Chocolade	Peacock	Przedstawiciel handlowy	WA
+03.01.1997	W³ochy	24,90 z³	30	Gumbär Gummibärchen	Fuller	Wiceprezes ds. sprzeda¿y	WA
+03.01.1997	Austria	13,90 z³	21	Pavlova	Peacock	Przedstawiciel handlowy	WA
+03.01.1997	W³ochy	11,20 z³	40	Singaporean Hokkien Fried Mee	Fuller	Wiceprezes ds. sprzeda¿y	WA
+03.01.1997	W³ochy	16,00 z³	30	Maxilaku	Fuller	Wiceprezes ds. sprzeda¿y	WA
+06.01.1997	Wenezuela	8,00 z³	50	Aniseed Syrup	Davolio	Przedstawiciel handlowy	WA
+07.01.1997	Brazylia	14,40 z³	10	Chai	King	Przedstawiciel handlowy	
+07.01.1997	Niemcy	16,80 z³	30	Queso Cabrales	Fuller	Wiceprezes ds. sprzeda¿y	WA
+07.01.1997	Niemcy	28,80 z³	15	Gudbrandsdalsost	Fuller	Wiceprezes ds. sprzeda¿y	WA
+07.01.1997	Niemcy	17,20 z³	15	Flotemysost	Fuller	Wiceprezes ds. sprzeda¿y	WA
+07.01.1997	Brazylia	8,00 z³	30	Sir Rodney's Scones	King	Przedstawiciel handlowy	
+07.01.1997	Brazylia	14,70 z³	2	Boston Crab Meat	King	Przedstawiciel handlowy	
+07.01.1997	Brazylia	36,40 z³	42	Rössle Sauerkraut	King	Przedstawiciel handlowy	
+07.01.1997	Brazylia	15,20 z³	5	Inlagd Sill	King	Przedstawiciel handlowy	
+08.01.1997	Francja	5,90 z³	6	Tourtiere	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+08.01.1997	Francja	39,40 z³	35	Tarte au sucre	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+08.01.1997	Francja	20,80 z³	10	Gravad lax	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+09.01.1997	Argentyna	18,60 z³	12	Tofu	Leverling	Przedstawiciel handlowy	WA
+09.01.1997	Argentyna	8,00 z³	12	Sir Rodney's Scones	Leverling	Przedstawiciel handlowy	WA
+10.01.1997	Kanada	44,00 z³	9	Raclette Courdavault	Dodsworth	Przedstawiciel handlowy	
+10.01.1997	Kanada	2,00 z³	49	Geitost	Leverling	Przedstawiciel handlowy	WA
+10.01.1997	Kanada	44,00 z³	16	Raclette Courdavault	Leverling	Przedstawiciel handlowy	WA
+10.01.1997	Kanada	15,50 z³	40	Gula Malacca	Dodsworth	Przedstawiciel handlowy	
+10.01.1997	Kanada	7,70 z³	25	Jack's New England Clam Chowder	Dodsworth	Przedstawiciel handlowy	
+13.01.1997	Finlandia	18,60 z³	20	Tofu	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+14.01.1997	Francja	14,40 z³	14	Lakkalikööri	Leverling	Przedstawiciel handlowy	WA
+14.01.1997	Brazylia	2,00 z³	50	Geitost	Fuller	Wiceprezes ds. sprzeda¿y	WA
+14.01.1997	Francja	14,40 z³	24	Chai	Leverling	Przedstawiciel handlowy	WA
+14.01.1997	Francja	39,40 z³	40	Tarte au sucre	Leverling	Przedstawiciel handlowy	WA
+14.01.1997	Brazylia	7,30 z³	18	Teatime Chocolate Biscuits	Fuller	Wiceprezes ds. sprzeda¿y	WA
+15.01.1997	USA	31,20 z³	2	Alice Mutton	Leverling	Przedstawiciel handlowy	WA
+15.01.1997	USA	2,00 z³	20	Geitost	Leverling	Przedstawiciel handlowy	WA
+16.01.1997	Dania	10,40 z³	35	Original Frankfurter grüne Soße	Peacock	Przedstawiciel handlowy	WA
+16.01.1997	Finlandia	7,30 z³	20	Teatime Chocolate Biscuits	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+16.01.1997	Dania	9,60 z³	2	Spegesild	Peacock	Przedstawiciel handlowy	WA
+16.01.1997	Finlandia	15,60 z³	20	Ravioli Angelo	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+16.01.1997	Dania	10,00 z³	36	Scottish Longbreads	Peacock	Przedstawiciel handlowy	WA
+16.01.1997	Finlandia	26,20 z³	10	Perth Pasties	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+16.01.1997	Dania	210,80 z³	50	Côte de Blaye	Peacock	Przedstawiciel handlowy	WA
+17.01.1997	Niemcy	7,60 z³	55	Zaanse koeken	Peacock	Przedstawiciel handlowy	WA
+17.01.1997	Niemcy	15,20 z³	60	Chang	Peacock	Przedstawiciel handlowy	WA
+17.01.1997	Niemcy	8,00 z³	15	Longlife Tofu	Peacock	Przedstawiciel handlowy	WA
+17.01.1997	Niemcy	22,80 z³	16	Sirop d'érable	Peacock	Przedstawiciel handlowy	WA
+20.01.1997	Szwajcaria	28,80 z³	20	Gudbrandsdalsost	Peacock	Przedstawiciel handlowy	WA
+20.01.1997	Szwajcaria	27,20 z³	60	Camembert Pierrot	Peacock	Przedstawiciel handlowy	WA
+21.01.1997	Brazylia	12,00 z³	8	Outback Lager	Leverling	Przedstawiciel handlowy	WA
+21.01.1997	Brazylia	7,30 z³	4	Teatime Chocolate Biscuits	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+21.01.1997	Brazylia	4,80 z³	2	Konbu	Leverling	Przedstawiciel handlowy	WA
+21.01.1997	Brazylia	26,20 z³	15	Perth Pasties	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+21.01.1997	Brazylia	12,00 z³	20	Röd Kaviar	Leverling	Przedstawiciel handlowy	WA
+21.01.1997	Brazylia	10,40 z³	10	Original Frankfurter grüne Soße	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+21.01.1997	Brazylia	24,90 z³	30	Gumbär Gummibärchen	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+21.01.1997	Brazylia	77,60 z³	20	Mishi Kobe Niku	Leverling	Przedstawiciel handlowy	WA
+22.01.1997	W³ochy	24,90 z³	2	Gumbär Gummibärchen	Fuller	Wiceprezes ds. sprzeda¿y	WA
+23.01.1997	Brazylia	10,00 z³	14	Gorgonzola Telino	Suyama	Przedstawiciel handlowy	
+23.01.1997	Kanada	10,00 z³	30	Scottish Longbreads	King	Przedstawiciel handlowy	
+23.01.1997	Kanada	14,40 z³	60	Steeleye Stout	King	Przedstawiciel handlowy	
+23.01.1997	Brazylia	44,00 z³	20	Raclette Courdavault	Suyama	Przedstawiciel handlowy	
+23.01.1997	Kanada	210,80 z³	49	Côte de Blaye	King	Przedstawiciel handlowy	
+24.01.1997	Francja	14,40 z³	20	Lakkalikööri	Suyama	Przedstawiciel handlowy	
+24.01.1997	Francja	19,20 z³	10	Pâte chinois	Suyama	Przedstawiciel handlowy	
+27.01.1997	Hiszpania	30,40 z³	5	Gnocchi di nonna Alice	Peacock	Przedstawiciel handlowy	WA
+27.01.1997	Hiszpania	26,60 z³	7	Wimmers gute Semmelknödel	Peacock	Przedstawiciel handlowy	WA
+27.01.1997	Austria	18,60 z³	35	Tofu	Peacock	Przedstawiciel handlowy	WA
+28.01.1997	W³ochy	9,60 z³	20	Spegesild	King	Przedstawiciel handlowy	
+29.01.1997	Irlandia	35,10 z³	35	Vegie-spread	Leverling	Przedstawiciel handlowy	WA
+29.01.1997	Irlandia	13,00 z³	40	Valkoinen suklaa	Leverling	Przedstawiciel handlowy	WA
+30.01.1997	Kanada	7,60 z³	30	Zaanse koeken	Peacock	Przedstawiciel handlowy	WA
+30.01.1997	Austria	30,40 z³	30	Gnocchi di nonna Alice	Peacock	Przedstawiciel handlowy	WA
+30.01.1997	Austria	31,20 z³	45	Alice Mutton	Peacock	Przedstawiciel handlowy	WA
+30.01.1997	Kanada	14,70 z³	50	Boston Crab Meat	Peacock	Przedstawiciel handlowy	WA
+30.01.1997	Kanada	31,20 z³	50	Alice Mutton	Peacock	Przedstawiciel handlowy	WA
+30.01.1997	Austria	44,00 z³	70	Raclette Courdavault	Peacock	Przedstawiciel handlowy	WA
+30.01.1997	Austria	8,00 z³	50	Sir Rodney's Scones	Peacock	Przedstawiciel handlowy	WA
+31.01.1997	USA	5,90 z³	40	Tourtiere	Leverling	Przedstawiciel handlowy	WA
+31.01.1997	USA	24,90 z³	10	Gumbär Gummibärchen	Leverling	Przedstawiciel handlowy	WA
+03.02.1997	Portugalia	30,40 z³	28	Gnocchi di nonna Alice	Leverling	Przedstawiciel handlowy	WA
+03.02.1997	Szwecja	14,40 z³	18	Lakkalikööri	Leverling	Przedstawiciel handlowy	WA
+03.02.1997	Szwecja	16,80 z³	6	Queso Cabrales	Leverling	Przedstawiciel handlowy	WA
+04.02.1997	Wielka Brytania	27,80 z³	10	Mozzarella di Giovanni	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+04.02.1997	Wielka Brytania	16,80 z³	12	Gustaf's Knäckebröd	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+04.02.1997	Wielka Brytania	15,20 z³	10	Chang	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+05.02.1997	Francja	9,60 z³	5	Spegesild	Leverling	Przedstawiciel handlowy	WA
+05.02.1997	Finlandia	26,20 z³	15	Perth Pasties	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+05.02.1997	Francja	26,60 z³	30	Wimmers gute Semmelknödel	Leverling	Przedstawiciel handlowy	WA
+05.02.1997	Francja	6,20 z³	24	Rhönbräu Klosterbier	Leverling	Przedstawiciel handlowy	WA
+05.02.1997	Francja	30,40 z³	40	Gnocchi di nonna Alice	Leverling	Przedstawiciel handlowy	WA
+06.02.1997	Niemcy	11,20 z³	20	Sasquatch Ale	Leverling	Przedstawiciel handlowy	WA
+06.02.1997	Niemcy	15,60 z³	15	Ravioli Angelo	Leverling	Przedstawiciel handlowy	WA
+06.02.1997	Niemcy	7,30 z³	15	Teatime Chocolate Biscuits	Leverling	Przedstawiciel handlowy	WA
+07.02.1997	Kanada	8,00 z³	30	Longlife Tofu	Suyama	Przedstawiciel handlowy	
+07.02.1997	Kanada	26,60 z³	6	Wimmers gute Semmelknödel	Suyama	Przedstawiciel handlowy	
+07.02.1997	Kanada	30,40 z³	15	Queso Manchego La Pastora	Suyama	Przedstawiciel handlowy	
+07.02.1997	Kanada	13,90 z³	16	Pavlova	Suyama	Przedstawiciel handlowy	
+10.02.1997	USA	22,80 z³	90	Sirop d'érable	Peacock	Przedstawiciel handlowy	WA
+10.02.1997	USA	15,20 z³	45	Chang	Peacock	Przedstawiciel handlowy	WA
+10.02.1997	USA	35,10 z³	50	Schoggi Schokolade	Leverling	Przedstawiciel handlowy	WA
+10.02.1997	USA	99,00 z³	24	Thüringer Rostbratwurst	Peacock	Przedstawiciel handlowy	WA
+10.02.1997	USA	13,90 z³	49	Pavlova	Peacock	Przedstawiciel handlowy	WA
+11.02.1997	Austria	13,60 z³	60	Louisiana Hot Spiced Okra	Leverling	Przedstawiciel handlowy	WA
+11.02.1997	Austria	16,80 z³	30	Queso Cabrales	Leverling	Przedstawiciel handlowy	WA
+11.02.1997	Austria	5,90 z³	80	Tourtiere	Leverling	Przedstawiciel handlowy	WA
+12.02.1997	Szwecja	24,90 z³	15	Gumbär Gummibärchen	Leverling	Przedstawiciel handlowy	WA
+12.02.1997	W³ochy	16,80 z³	6	Queso Cabrales	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+12.02.1997	Szwecja	7,70 z³	30	Jack's New England Clam Chowder	Leverling	Przedstawiciel handlowy	WA
+12.02.1997	Szwecja	31,20 z³	10	Alice Mutton	Leverling	Przedstawiciel handlowy	WA
+12.02.1997	W³ochy	36,40 z³	12	Rössle Sauerkraut	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+12.02.1997	Szwecja	14,40 z³	8	Steeleye Stout	Leverling	Przedstawiciel handlowy	WA
+13.02.1997	Szwecja	5,90 z³	15	Tourtiere	Leverling	Przedstawiciel handlowy	WA
+13.02.1997	Szwecja	14,40 z³	6	Chartreuse verte	Leverling	Przedstawiciel handlowy	WA
+14.02.1997	Niemcy	3,60 z³	20	Guaraná Fantástica	Suyama	Przedstawiciel handlowy	
+14.02.1997	Brazylia	16,80 z³	35	Louisiana Fiery Hot Pepper Sauce	Peacock	Przedstawiciel handlowy	WA
+14.02.1997	Niemcy	5,60 z³	15	Filo Mix	Suyama	Przedstawiciel handlowy	
+14.02.1997	Brazylia	17,20 z³	2	Flotemysost	Peacock	Przedstawiciel handlowy	WA
+14.02.1997	Brazylia	7,30 z³	40	Teatime Chocolate Biscuits	Peacock	Przedstawiciel handlowy	WA
+14.02.1997	Niemcy	7,30 z³	12	Teatime Chocolate Biscuits	Suyama	Przedstawiciel handlowy	
+14.02.1997	Niemcy	10,00 z³	3	Gorgonzola Telino	Suyama	Przedstawiciel handlowy	
+17.02.1997	Argentyna	14,70 z³	20	Boston Crab Meat	Peacock	Przedstawiciel handlowy	WA
+17.02.1997	Argentyna	24,90 z³	6	Gumbär Gummibärchen	Peacock	Przedstawiciel handlowy	WA
+18.02.1997	Francja	5,60 z³	20	Filo Mix	Leverling	Przedstawiciel handlowy	WA
+18.02.1997	Francja	39,40 z³	35	Tarte au sucre	Leverling	Przedstawiciel handlowy	WA
+18.02.1997	Francja	24,80 z³	14	Ikura	Leverling	Przedstawiciel handlowy	WA
+19.02.1997	Niemcy	19,20 z³	120	Pâte chinois	Peacock	Przedstawiciel handlowy	WA
+19.02.1997	Niemcy	26,60 z³	35	Wimmers gute Semmelknödel	Peacock	Przedstawiciel handlowy	WA
+19.02.1997	Francja	5,90 z³	6	Tourtiere	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+19.02.1997	Niemcy	16,80 z³	28	Louisiana Fiery Hot Pepper Sauce	Peacock	Przedstawiciel handlowy	WA
+19.02.1997	Francja	24,80 z³	20	Ikura	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+19.02.1997	Niemcy	10,40 z³	55	Original Frankfurter grüne Soße	Peacock	Przedstawiciel handlowy	WA
+20.02.1997	USA	36,40 z³	15	Rössle Sauerkraut	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+20.02.1997	USA	15,50 z³	100	Gula Malacca	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+21.02.1997	Francja	13,90 z³	20	Pavlova	Peacock	Przedstawiciel handlowy	WA
+21.02.1997	Wielka Brytania	12,00 z³	25	Outback Lager	Davolio	Przedstawiciel handlowy	WA
+21.02.1997	Francja	9,60 z³	10	Spegesild	Peacock	Przedstawiciel handlowy	WA
+21.02.1997	Francja	2,00 z³	20	Geitost	Peacock	Przedstawiciel handlowy	WA
+21.02.1997	Wielka Brytania	10,20 z³	15	Chocolade	Davolio	Przedstawiciel handlowy	WA
+24.02.1997	Finlandia	17,20 z³	30	Flotemysost	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+24.02.1997	Finlandia	14,40 z³	20	Chartreuse verte	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+24.02.1997	Finlandia	26,20 z³	50	Perth Pasties	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+24.02.1997	Finlandia	22,80 z³	25	Sirop d'érable	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+25.02.1997	Niemcy	8,00 z³	40	Sir Rodney's Scones	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+25.02.1997	Niemcy	44,00 z³	36	Raclette Courdavault	Fuller	Wiceprezes ds. sprzeda¿y	WA
+25.02.1997	Niemcy	16,00 z³	21	Maxilaku	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+26.02.1997	Belgia	36,40 z³	30	Rössle Sauerkraut	King	Przedstawiciel handlowy	
+26.02.1997	Belgia	24,90 z³	30	Gumbär Gummibärchen	King	Przedstawiciel handlowy	
+26.02.1997	Belgia	17,20 z³	50	Flotemysost	King	Przedstawiciel handlowy	
+26.02.1997	Belgia	36,80 z³	20	Ipoh Coffee	King	Przedstawiciel handlowy	
+26.02.1997	Belgia	30,40 z³	15	Gnocchi di nonna Alice	King	Przedstawiciel handlowy	
+27.02.1997	Francja	27,80 z³	40	Mozzarella di Giovanni	Peacock	Przedstawiciel handlowy	WA
+27.02.1997	Francja	24,00 z³	16	Uncle Bob's Organic Dried Pears	Peacock	Przedstawiciel handlowy	WA
+27.02.1997	Francja	9,60 z³	20	Spegesild	Peacock	Przedstawiciel handlowy	WA
+28.02.1997	Szwecja	10,00 z³	21	Scottish Longbreads	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+28.02.1997	Wenezuela	20,70 z³	28	Nord-Ost Matjeshering	Davolio	Przedstawiciel handlowy	WA
+28.02.1997	Wenezuela	8,00 z³	40	Sir Rodney's Scones	Davolio	Przedstawiciel handlowy	WA
+28.02.1997	Szwecja	6,20 z³	4	Rhönbräu Klosterbier	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+28.02.1997	Wenezuela	19,20 z³	60	Pâte chinois	Davolio	Przedstawiciel handlowy	WA
+03.03.1997	Wielka Brytania	7,20 z³	21	Tunnbröd	Fuller	Wiceprezes ds. sprzeda¿y	WA
+03.03.1997	Wielka Brytania	4,80 z³	1	Konbu	Fuller	Wiceprezes ds. sprzeda¿y	WA
+04.03.1997	Portugalia	17,60 z³	16	Chef Anton's Cajun Seasoning	Peacock	Przedstawiciel handlowy	WA
+04.03.1997	Portugalia	27,20 z³	20	Camembert Pierrot	Peacock	Przedstawiciel handlowy	WA
+04.03.1997	Portugalia	36,80 z³	3	Ipoh Coffee	Peacock	Przedstawiciel handlowy	WA
+04.03.1997	Belgia	11,20 z³	50	Singaporean Hokkien Fried Mee	Buchanan	Dyrektor ds. sprzeda¿y	
+04.03.1997	Belgia	7,30 z³	21	Teatime Chocolate Biscuits	Buchanan	Dyrektor ds. sprzeda¿y	
+04.03.1997	Portugalia	30,40 z³	30	Gnocchi di nonna Alice	Peacock	Przedstawiciel handlowy	WA
+05.03.1997	Dania	3,60 z³	25	Guaraná Fantástica	Davolio	Przedstawiciel handlowy	WA
+05.03.1997	Dania	7,60 z³	30	Rogede sild	Davolio	Przedstawiciel handlowy	WA
+05.03.1997	Dania	13,00 z³	25	Valkoinen suklaa	Davolio	Przedstawiciel handlowy	WA
+05.03.1997	Dania	99,00 z³	18	Thüringer Rostbratwurst	Davolio	Przedstawiciel handlowy	WA
+05.03.1997	Dania	14,70 z³	20	Boston Crab Meat	Davolio	Przedstawiciel handlowy	WA
+06.03.1997	Brazylia	9,60 z³	5	Spegesild	Peacock	Przedstawiciel handlowy	WA
+06.03.1997	W³ochy	11,20 z³	12	NuNuCa Nuß-Nougat-Creme	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+06.03.1997	W³ochy	3,60 z³	28	Guaraná Fantástica	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+06.03.1997	Brazylia	16,80 z³	10	Queso Cabrales	Peacock	Przedstawiciel handlowy	WA
+07.03.1997	Niemcy	36,80 z³	15	Ipoh Coffee	Leverling	Przedstawiciel handlowy	WA
+07.03.1997	Niemcy	20,70 z³	8	Nord-Ost Matjeshering	Leverling	Przedstawiciel handlowy	WA
+10.03.1997	USA	15,50 z³	2	Gula Malacca	Davolio	Przedstawiciel handlowy	WA
+10.03.1997	USA	13,90 z³	35	Pavlova	Davolio	Przedstawiciel handlowy	WA
+10.03.1997	USA	15,20 z³	40	Chang	Davolio	Przedstawiciel handlowy	WA
+11.03.1997	Francja	7,20 z³	15	Tunnbröd	Peacock	Przedstawiciel handlowy	WA
+11.03.1997	Wielka Brytania	30,40 z³	20	Gnocchi di nonna Alice	Fuller	Wiceprezes ds. sprzeda¿y	WA
+11.03.1997	Francja	26,60 z³	8	Wimmers gute Semmelknödel	Peacock	Przedstawiciel handlowy	WA
+11.03.1997	Wielka Brytania	24,00 z³	30	Uncle Bob's Organic Dried Pears	Fuller	Wiceprezes ds. sprzeda¿y	WA
+11.03.1997	Francja	50,00 z³	30	Carnarvon Tigers	Peacock	Przedstawiciel handlowy	WA
+12.03.1997	Wielka Brytania	42,40 z³	18	Manjimup Dried Apples	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+12.03.1997	Wielka Brytania	3,60 z³	80	Guaraná Fantástica	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+13.03.1997	Meksyk	14,70 z³	21	Boston Crab Meat	Buchanan	Dyrektor ds. sprzeda¿y	
+13.03.1997	Meksyk	6,20 z³	10	Rhönbräu Klosterbier	Buchanan	Dyrektor ds. sprzeda¿y	
+13.03.1997	Meksyk	18,60 z³	12	Tofu	Buchanan	Dyrektor ds. sprzeda¿y	
+13.03.1997	Wielka Brytania	2,00 z³	12	Geitost	Davolio	Przedstawiciel handlowy	WA
+13.03.1997	Meksyk	36,40 z³	18	Rössle Sauerkraut	Buchanan	Dyrektor ds. sprzeda¿y	
+13.03.1997	Wielka Brytania	17,20 z³	12	Flotemysost	Davolio	Przedstawiciel handlowy	WA
+14.03.1997	Belgia	14,40 z³	42	Lakkalikööri	Dodsworth	Przedstawiciel handlowy	
+14.03.1997	Belgia	13,60 z³	60	Louisiana Hot Spiced Okra	Dodsworth	Przedstawiciel handlowy	
+14.03.1997	Belgia	10,00 z³	35	Gorgonzola Telino	Dodsworth	Przedstawiciel handlowy	
+17.03.1997	Portugalia	8,00 z³	21	Sir Rodney's Scones	Buchanan	Dyrektor ds. sprzeda¿y	
+17.03.1997	Wenezuela	19,20 z³	2	Pâte chinois	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+17.03.1997	Portugalia	14,40 z³	20	Chartreuse verte	Buchanan	Dyrektor ds. sprzeda¿y	
+17.03.1997	Wenezuela	12,00 z³	12	Outback Lager	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+17.03.1997	Portugalia	14,40 z³	15	Chai	Buchanan	Dyrektor ds. sprzeda¿y	
+18.03.1997	Francja	24,80 z³	20	Ikura	Fuller	Wiceprezes ds. sprzeda¿y	WA
+19.03.1997	USA	26,20 z³	28	Perth Pasties	Leverling	Przedstawiciel handlowy	WA
+19.03.1997	USA	210,80 z³	30	Côte de Blaye	Leverling	Przedstawiciel handlowy	WA
+19.03.1997	USA	26,60 z³	30	Wimmers gute Semmelknödel	Leverling	Przedstawiciel handlowy	WA
+19.03.1997	USA	44,00 z³	60	Raclette Courdavault	Leverling	Przedstawiciel handlowy	WA
+20.03.1997	Brazylia	27,20 z³	40	Camembert Pierrot	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+20.03.1997	Francja	7,60 z³	30	Zaanse koeken	Suyama	Przedstawiciel handlowy	
+20.03.1997	Brazylia	16,00 z³	24	Maxilaku	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+20.03.1997	Francja	44,00 z³	12	Raclette Courdavault	Suyama	Przedstawiciel handlowy	
+21.03.1997	USA	14,70 z³	10	Boston Crab Meat	Davolio	Przedstawiciel handlowy	WA
+24.03.1997	Wielka Brytania	14,70 z³	10	Boston Crab Meat	Leverling	Przedstawiciel handlowy	WA
+24.03.1997	USA	11,20 z³	35	Sasquatch Ale	King	Przedstawiciel handlowy	
+24.03.1997	Wielka Brytania	8,00 z³	14	Sir Rodney's Scones	Leverling	Przedstawiciel handlowy	WA
+24.03.1997	USA	10,40 z³	30	Original Frankfurter grüne Soße	King	Przedstawiciel handlowy	
+24.03.1997	Wielka Brytania	42,40 z³	3	Manjimup Dried Apples	Leverling	Przedstawiciel handlowy	WA
+25.03.1997	Wenezuela	19,20 z³	30	Pâte chinois	Peacock	Przedstawiciel handlowy	WA
+25.03.1997	Wenezuela	12,00 z³	60	Outback Lager	Peacock	Przedstawiciel handlowy	WA
+25.03.1997	Wenezuela	8,00 z³	20	Aniseed Syrup	Peacock	Przedstawiciel handlowy	WA
+25.03.1997	Wenezuela	15,20 z³	20	Chang	Peacock	Przedstawiciel handlowy	WA
+26.03.1997	Wenezuela	16,80 z³	5	Queso Cabrales	Davolio	Przedstawiciel handlowy	WA
+26.03.1997	Wenezuela	42,40 z³	25	Manjimup Dried Apples	Davolio	Przedstawiciel handlowy	WA
+26.03.1997	Brazylia	7,30 z³	5	Teatime Chocolate Biscuits	Fuller	Wiceprezes ds. sprzeda¿y	WA
+26.03.1997	Wenezuela	8,00 z³	16	Longlife Tofu	Davolio	Przedstawiciel handlowy	WA
+26.03.1997	Brazylia	5,90 z³	24	Tourtiere	Fuller	Wiceprezes ds. sprzeda¿y	WA
+26.03.1997	Brazylia	24,90 z³	30	Gumbär Gummibärchen	Fuller	Wiceprezes ds. sprzeda¿y	WA
+27.03.1997	Niemcy	44,00 z³	30	Raclette Courdavault	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+27.03.1997	Niemcy	12,00 z³	20	Röd Kaviar	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+28.03.1997	Austria	13,90 z³	18	Pavlova	Suyama	Przedstawiciel handlowy	
+28.03.1997	Austria	16,80 z³	15	Queso Cabrales	Suyama	Przedstawiciel handlowy	
+31.03.1997	Portugalia	15,50 z³	15	Gula Malacca	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+31.03.1997	Portugalia	10,40 z³	7	Original Frankfurter grüne Soße	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+31.03.1997	Wenezuela	6,20 z³	36	Rhönbräu Klosterbier	King	Przedstawiciel handlowy	
+31.03.1997	Wenezuela	44,00 z³	60	Raclette Courdavault	King	Przedstawiciel handlowy	
+31.03.1997	Wenezuela	10,00 z³	30	Scottish Longbreads	King	Przedstawiciel handlowy	
+01.04.1997	Kanada	11,20 z³	60	NuNuCa Nuß-Nougat-Creme	Leverling	Przedstawiciel handlowy	WA
+01.04.1997	Kanada	11,20 z³	20	Singaporean Hokkien Fried Mee	Leverling	Przedstawiciel handlowy	WA
+02.04.1997	Francja	16,80 z³	15	Louisiana Fiery Hot Pepper Sauce	Peacock	Przedstawiciel handlowy	WA
+02.04.1997	Francja	28,80 z³	10	Gudbrandsdalsost	Peacock	Przedstawiciel handlowy	WA
+02.04.1997	Francja	13,60 z³	10	Louisiana Hot Spiced Okra	Peacock	Przedstawiciel handlowy	WA
+02.04.1997	Brazylia	30,40 z³	30	Gnocchi di nonna Alice	Peacock	Przedstawiciel handlowy	WA
+03.04.1997	Kanada	7,70 z³	20	Jack's New England Clam Chowder	Leverling	Przedstawiciel handlowy	WA
+03.04.1997	Kanada	10,40 z³	5	Original Frankfurter grüne Soße	Leverling	Przedstawiciel handlowy	WA
+03.04.1997	Kanada	7,20 z³	10	Tunnbröd	Leverling	Przedstawiciel handlowy	WA
+04.04.1997	Niemcy	27,80 z³	25	Mozzarella di Giovanni	King	Przedstawiciel handlowy	
+04.04.1997	Niemcy	30,40 z³	14	Gnocchi di nonna Alice	King	Przedstawiciel handlowy	
+04.04.1997	Brazylia	10,00 z³	20	Gorgonzola Telino	King	Przedstawiciel handlowy	
+04.04.1997	Niemcy	10,40 z³	25	Original Frankfurter grüne Soße	King	Przedstawiciel handlowy	
+07.04.1997	Wenezuela	14,00 z³	30	Singaporean Hokkien Fried Mee	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+07.04.1997	Wenezuela	4,50 z³	14	Guaraná Fantástica	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+07.04.1997	Wenezuela	18,40 z³	5	Boston Crab Meat	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+08.04.1997	Wenezuela	45,60 z³	20	Rössle Sauerkraut	Peacock	Przedstawiciel handlowy	WA
+08.04.1997	Wenezuela	20,00 z³	25	Maxilaku	Peacock	Przedstawiciel handlowy	WA
+09.04.1997	Niemcy	7,45 z³	20	Tourtiere	Dodsworth	Przedstawiciel handlowy	
+09.04.1997	Francja	45,60 z³	8	Rössle Sauerkraut	Suyama	Przedstawiciel handlowy	
+09.04.1997	Francja	15,50 z³	12	Genen Shouyu	Suyama	Przedstawiciel handlowy	
+10.04.1997	Meksyk	9,50 z³	21	Rogede sild	Fuller	Wiceprezes ds. sprzeda¿y	WA
+10.04.1997	Meksyk	32,80 z³	6	Perth Pasties	Fuller	Wiceprezes ds. sprzeda¿y	WA
+10.04.1997	Meksyk	14,00 z³	30	Laughing Lumberjack Lager	Fuller	Wiceprezes ds. sprzeda¿y	WA
+11.04.1997	USA	19,00 z³	12	Chang	Peacock	Przedstawiciel handlowy	WA
+11.04.1997	Irlandia	23,25 z³	70	Tofu	Suyama	Przedstawiciel handlowy	
+11.04.1997	USA	10,00 z³	12	Sir Rodney's Scones	Peacock	Przedstawiciel handlowy	WA
+11.04.1997	Irlandia	21,05 z³	20	Louisiana Fiery Hot Pepper Sauce	Suyama	Przedstawiciel handlowy	
+11.04.1997	USA	28,50 z³	25	Sirop d'érable	Peacock	Przedstawiciel handlowy	WA
+11.04.1997	USA	32,80 z³	10	Perth Pasties	Peacock	Przedstawiciel handlowy	WA
+14.04.1997	Kanada	49,30 z³	3	Tarte au sucre	Leverling	Przedstawiciel handlowy	WA
+15.04.1997	Meksyk	12,75 z³	15	Chocolade	King	Przedstawiciel handlowy	
+15.04.1997	Niemcy	15,00 z³	14	Outback Lager	Dodsworth	Przedstawiciel handlowy	
+15.04.1997	Niemcy	14,00 z³	18	NuNuCa Nuß-Nougat-Creme	Dodsworth	Przedstawiciel handlowy	
+15.04.1997	Meksyk	46,00 z³	15	Ipoh Coffee	King	Przedstawiciel handlowy	
+16.04.1997	Niemcy	6,00 z³	10	Konbu	Davolio	Przedstawiciel handlowy	WA
+16.04.1997	Niemcy	18,00 z³	10	Chartreuse verte	Davolio	Przedstawiciel handlowy	WA
+17.04.1997	Niemcy	45,60 z³	3	Rössle Sauerkraut	Peacock	Przedstawiciel handlowy	WA
+18.04.1997	Francja	30,00 z³	50	Uncle Bob's Organic Dried Pears	Peacock	Przedstawiciel handlowy	WA
+18.04.1997	USA	7,75 z³	36	Rhönbräu Klosterbier	Suyama	Przedstawiciel handlowy	
+18.04.1997	Francja	22,00 z³	50	Chef Anton's Cajun Seasoning	Peacock	Przedstawiciel handlowy	WA
+18.04.1997	USA	123,79 z³	36	Thüringer Rostbratwurst	Suyama	Przedstawiciel handlowy	
+18.04.1997	Francja	40,00 z³	10	Northwoods Cranberry Sauce	Peacock	Przedstawiciel handlowy	WA
+21.04.1997	Brazylia	9,50 z³	6	Zaanse koeken	King	Przedstawiciel handlowy	
+21.04.1997	Brazylia	4,50 z³	10	Guaraná Fantástica	King	Przedstawiciel handlowy	
+21.04.1997	Brazylia	34,00 z³	12	Camembert Pierrot	King	Przedstawiciel handlowy	
+21.04.1997	Brazylia	12,00 z³	9	Spegesild	King	Przedstawiciel handlowy	
+22.04.1997	Austria	38,00 z³	70	Gnocchi di nonna Alice	Leverling	Przedstawiciel handlowy	WA
+22.04.1997	Austria	21,05 z³	39	Louisiana Fiery Hot Pepper Sauce	Leverling	Przedstawiciel handlowy	WA
+22.04.1997	Austria	81,00 z³	39	Sir Rodney's Marmalade	Leverling	Przedstawiciel handlowy	WA
+22.04.1997	Niemcy	32,00 z³	50	Mascarpone Fabioli	King	Przedstawiciel handlowy	
+22.04.1997	Austria	45,60 z³	35	Rössle Sauerkraut	Leverling	Przedstawiciel handlowy	WA
+22.04.1997	Niemcy	10,00 z³	40	Sir Rodney's Scones	King	Przedstawiciel handlowy	
+22.04.1997	Niemcy	28,50 z³	15	Sirop d'érable	King	Przedstawiciel handlowy	
+22.04.1997	Austria	7,75 z³	50	Rhönbräu Klosterbier	Leverling	Przedstawiciel handlowy	WA
+23.04.1997	Niemcy	2,50 z³	16	Geitost	Fuller	Wiceprezes ds. sprzeda¿y	WA
+23.04.1997	Niemcy	43,90 z³	120	Schoggi Schokolade	Fuller	Wiceprezes ds. sprzeda¿y	WA
+23.04.1997	Niemcy	97,00 z³	16	Mishi Kobe Niku	Fuller	Wiceprezes ds. sprzeda¿y	WA
+23.04.1997	Niemcy	17,45 z³	50	Pavlova	Fuller	Wiceprezes ds. sprzeda¿y	WA
+23.04.1997	Niemcy	34,00 z³	84	Camembert Pierrot	Fuller	Wiceprezes ds. sprzeda¿y	WA
+24.04.1997	Irlandia	9,65 z³	80	Jack's New England Clam Chowder	Fuller	Wiceprezes ds. sprzeda¿y	WA
+24.04.1997	Irlandia	62,50 z³	25	Carnarvon Tigers	Fuller	Wiceprezes ds. sprzeda¿y	WA
+24.04.1997	Irlandia	14,00 z³	20	Singaporean Hokkien Fried Mee	Fuller	Wiceprezes ds. sprzeda¿y	WA
+24.04.1997	Wielka Brytania	7,00 z³	6	Filo Mix	Leverling	Przedstawiciel handlowy	WA
+24.04.1997	Wielka Brytania	55,00 z³	4	Raclette Courdavault	Leverling	Przedstawiciel handlowy	WA
+24.04.1997	Wielka Brytania	15,00 z³	6	Outback Lager	Leverling	Przedstawiciel handlowy	WA
+25.04.1997	Meksyk	4,50 z³	5	Guaraná Fantástica	Peacock	Przedstawiciel handlowy	WA
+25.04.1997	Meksyk	263,50 z³	15	Côte de Blaye	Peacock	Przedstawiciel handlowy	WA
+25.04.1997	Meksyk	19,45 z³	9	Gula Malacca	Peacock	Przedstawiciel handlowy	WA
+28.04.1997	Szwajcaria	34,00 z³	10	Camembert Pierrot	Suyama	Przedstawiciel handlowy	
+28.04.1997	Szwajcaria	38,00 z³	40	Gnocchi di nonna Alice	Suyama	Przedstawiciel handlowy	
+28.04.1997	Szwajcaria	31,00 z³	16	Ikura	Suyama	Przedstawiciel handlowy	
+29.04.1997	Norwegia	4,50 z³	8	Guaraná Fantástica	King	Przedstawiciel handlowy	
+29.04.1997	Norwegia	32,80 z³	5	Perth Pasties	King	Przedstawiciel handlowy	
+29.04.1997	Argentyna	12,50 z³	6	Scottish Longbreads	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+29.04.1997	Argentyna	9,65 z³	10	Jack's New England Clam Chowder	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+29.04.1997	Argentyna	18,00 z³	3	Steeleye Stout	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+30.04.1997	Niemcy	25,89 z³	20	Nord-Ost Matjeshering	Peacock	Przedstawiciel handlowy	WA
+30.04.1997	Niemcy	18,40 z³	25	Boston Crab Meat	Peacock	Przedstawiciel handlowy	WA
+30.04.1997	Niemcy	18,00 z³	40	Chai	Peacock	Przedstawiciel handlowy	WA
+30.04.1997	Niemcy	40,00 z³	24	Northwoods Cranberry Sauce	Peacock	Przedstawiciel handlowy	WA
+01.05.1997	Wielka Brytania	9,65 z³	6	Jack's New England Clam Chowder	King	Przedstawiciel handlowy	
+01.05.1997	Szwecja	31,00 z³	2	Ikura	Davolio	Przedstawiciel handlowy	WA
+01.05.1997	Wielka Brytania	81,00 z³	15	Sir Rodney's Marmalade	King	Przedstawiciel handlowy	
+01.05.1997	Wielka Brytania	26,00 z³	18	Gravad lax	King	Przedstawiciel handlowy	
+01.05.1997	Szwecja	46,00 z³	60	Ipoh Coffee	Davolio	Przedstawiciel handlowy	WA
+01.05.1997	Szwecja	7,45 z³	15	Tourtiere	Davolio	Przedstawiciel handlowy	WA
+01.05.1997	Wielka Brytania	39,00 z³	25	Alice Mutton	King	Przedstawiciel handlowy	
+01.05.1997	Szwecja	25,89 z³	10	Nord-Ost Matjeshering	Davolio	Przedstawiciel handlowy	WA
+02.05.1997	Francja	18,40 z³	15	Boston Crab Meat	Davolio	Przedstawiciel handlowy	WA
+02.05.1997	Francja	19,00 z³	30	Inlagd Sill	Davolio	Przedstawiciel handlowy	WA
+05.05.1997	Finlandia	6,00 z³	10	Konbu	Peacock	Przedstawiciel handlowy	WA
+05.05.1997	Finlandia	18,00 z³	8	Chai	Peacock	Przedstawiciel handlowy	WA
+05.05.1997	Finlandia	38,00 z³	30	Gnocchi di nonna Alice	Peacock	Przedstawiciel handlowy	WA
+05.05.1997	Niemcy	22,00 z³	50	Chef Anton's Cajun Seasoning	King	Przedstawiciel handlowy	
+05.05.1997	Niemcy	19,00 z³	30	Inlagd Sill	King	Przedstawiciel handlowy	
+06.05.1997	USA	21,00 z³	3	Queso Cabrales	Suyama	Przedstawiciel handlowy	
+06.05.1997	USA	34,80 z³	9	Mozzarella di Giovanni	Suyama	Przedstawiciel handlowy	
+06.05.1997	USA	2,50 z³	8	Geitost	Suyama	Przedstawiciel handlowy	
+07.05.1997	Belgia	12,50 z³	20	Scottish Longbreads	Buchanan	Dyrektor ds. sprzeda¿y	
+07.05.1997	Belgia	24,00 z³	14	Pâte chinois	Buchanan	Dyrektor ds. sprzeda¿y	
+07.05.1997	Belgia	36,00 z³	10	Gudbrandsdalsost	Buchanan	Dyrektor ds. sprzeda¿y	
+08.05.1997	Austria	46,00 z³	25	Ipoh Coffee	Leverling	Przedstawiciel handlowy	WA
+08.05.1997	Austria	39,00 z³	40	Alice Mutton	Leverling	Przedstawiciel handlowy	WA
+08.05.1997	Austria	28,50 z³	20	Sirop d'érable	Leverling	Przedstawiciel handlowy	WA
+08.05.1997	Argentyna	55,00 z³	2	Raclette Courdavault	King	Przedstawiciel handlowy	
+08.05.1997	Austria	18,00 z³	50	Lakkalikööri	Leverling	Przedstawiciel handlowy	WA
+09.05.1997	Wielka Brytania	17,00 z³	24	Louisiana Hot Spiced Okra	King	Przedstawiciel handlowy	
+09.05.1997	Wielka Brytania	25,89 z³	15	Nord-Ost Matjeshering	King	Przedstawiciel handlowy	
+12.05.1997	Niemcy	18,40 z³	10	Boston Crab Meat	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+12.05.1997	Szwecja	15,00 z³	24	Röd Kaviar	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+12.05.1997	Szwecja	34,80 z³	24	Mozzarella di Giovanni	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+12.05.1997	Niemcy	7,45 z³	10	Tourtiere	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+12.05.1997	Niemcy	25,89 z³	10	Nord-Ost Matjeshering	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+12.05.1997	Szwecja	22,00 z³	50	Chef Anton's Cajun Seasoning	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+13.05.1997	Meksyk	21,00 z³	50	Queso Cabrales	Peacock	Przedstawiciel handlowy	WA
+13.05.1997	Meksyk	18,40 z³	10	Boston Crab Meat	Peacock	Przedstawiciel handlowy	WA
+13.05.1997	Meksyk	55,00 z³	15	Raclette Courdavault	Peacock	Przedstawiciel handlowy	WA
+13.05.1997	Meksyk	19,50 z³	5	Ravioli Angelo	Peacock	Przedstawiciel handlowy	WA
+14.05.1997	Szwajcaria	13,25 z³	20	Escargots de Bourgogne	Davolio	Przedstawiciel handlowy	WA
+14.05.1997	Szwajcaria	53,00 z³	6	Manjimup Dried Apples	Davolio	Przedstawiciel handlowy	WA
+14.05.1997	Niemcy	2,50 z³	30	Geitost	Leverling	Przedstawiciel handlowy	WA
+14.05.1997	Szwajcaria	15,00 z³	9	Röd Kaviar	Davolio	Przedstawiciel handlowy	WA
+14.05.1997	Niemcy	34,00 z³	35	Camembert Pierrot	Leverling	Przedstawiciel handlowy	WA
+14.05.1997	Szwajcaria	12,50 z³	30	Gorgonzola Telino	Davolio	Przedstawiciel handlowy	WA
+14.05.1997	Szwajcaria	34,80 z³	21	Mozzarella di Giovanni	Davolio	Przedstawiciel handlowy	WA
+14.05.1997	Niemcy	12,50 z³	20	Gorgonzola Telino	Leverling	Przedstawiciel handlowy	WA
+14.05.1997	Niemcy	38,00 z³	15	Queso Manchego La Pastora	Leverling	Przedstawiciel handlowy	WA
+15.05.1997	Wielka Brytania	15,00 z³	7	Outback Lager	Dodsworth	Przedstawiciel handlowy	
+15.05.1997	Wielka Brytania	34,80 z³	1	Mozzarella di Giovanni	Dodsworth	Przedstawiciel handlowy	
+16.05.1997	Wielka Brytania	10,00 z³	15	Sir Rodney's Scones	Suyama	Przedstawiciel handlowy	
+16.05.1997	Wielka Brytania	20,00 z³	6	Maxilaku	Suyama	Przedstawiciel handlowy	
+16.05.1997	Wielka Brytania	2,50 z³	15	Geitost	Suyama	Przedstawiciel handlowy	
+16.05.1997	Wielka Brytania	6,00 z³	8	Konbu	Suyama	Przedstawiciel handlowy	
+19.05.1997	Niemcy	31,23 z³	40	Gumbär Gummibärchen	Leverling	Przedstawiciel handlowy	WA
+19.05.1997	Niemcy	12,50 z³	35	Scottish Longbreads	Leverling	Przedstawiciel handlowy	WA
+19.05.1997	Brazylia	263,50 z³	4	Côte de Blaye	Fuller	Wiceprezes ds. sprzeda¿y	WA
+19.05.1997	Niemcy	263,50 z³	30	Côte de Blaye	Leverling	Przedstawiciel handlowy	WA
+19.05.1997	Brazylia	21,50 z³	9	Flotemysost	Fuller	Wiceprezes ds. sprzeda¿y	WA
+19.05.1997	Brazylia	4,50 z³	35	Guaraná Fantástica	Fuller	Wiceprezes ds. sprzeda¿y	WA
+19.05.1997	Brazylia	21,05 z³	36	Louisiana Fiery Hot Pepper Sauce	Fuller	Wiceprezes ds. sprzeda¿y	WA
+19.05.1997	Niemcy	10,00 z³	60	Aniseed Syrup	Leverling	Przedstawiciel handlowy	WA
+20.05.1997	Niemcy	7,45 z³	24	Tourtiere	Davolio	Przedstawiciel handlowy	WA
+20.05.1997	Niemcy	21,00 z³	15	Queso Cabrales	Davolio	Przedstawiciel handlowy	WA
+21.05.1997	USA	14,00 z³	7	Laughing Lumberjack Lager	Peacock	Przedstawiciel handlowy	WA
+21.05.1997	Wenezuela	9,00 z³	70	Tunnbröd	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+21.05.1997	USA	45,60 z³	7	Rössle Sauerkraut	Peacock	Przedstawiciel handlowy	WA
+21.05.1997	Wenezuela	38,00 z³	30	Queso Manchego La Pastora	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+22.05.1997	USA	21,00 z³	10	Queso Cabrales	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+23.05.1997	Wielka Brytania	32,00 z³	24	Mascarpone Fabioli	Leverling	Przedstawiciel handlowy	WA
+23.05.1997	Francja	18,00 z³	30	Steeleye Stout	Davolio	Przedstawiciel handlowy	WA
+23.05.1997	Wielka Brytania	19,00 z³	60	Inlagd Sill	Leverling	Przedstawiciel handlowy	WA
+23.05.1997	Francja	49,30 z³	40	Tarte au sucre	Davolio	Przedstawiciel handlowy	WA
+23.05.1997	Francja	30,00 z³	10	Uncle Bob's Organic Dried Pears	Davolio	Przedstawiciel handlowy	WA
+26.05.1997	Niemcy	14,00 z³	10	Sasquatch Ale	Leverling	Przedstawiciel handlowy	WA
+26.05.1997	Niemcy	9,65 z³	14	Jack's New England Clam Chowder	Leverling	Przedstawiciel handlowy	WA
+27.05.1997	Niemcy	9,50 z³	100	Rogede sild	Buchanan	Dyrektor ds. sprzeda¿y	
+27.05.1997	Niemcy	12,50 z³	55	Gorgonzola Telino	Buchanan	Dyrektor ds. sprzeda¿y	
+27.05.1997	Niemcy	53,00 z³	48	Manjimup Dried Apples	Buchanan	Dyrektor ds. sprzeda¿y	
+28.05.1997	Hiszpania	28,50 z³	10	Sirop d'érable	King	Przedstawiciel handlowy	
+28.05.1997	Hiszpania	10,00 z³	6	Sir Rodney's Scones	King	Przedstawiciel handlowy	
+28.05.1997	Portugalia	19,45 z³	40	Gula Malacca	Peacock	Przedstawiciel handlowy	WA
+28.05.1997	Portugalia	18,00 z³	20	Steeleye Stout	Peacock	Przedstawiciel handlowy	WA
+28.05.1997	Portugalia	17,45 z³	40	Pavlova	Peacock	Przedstawiciel handlowy	WA
+28.05.1997	Hiszpania	39,00 z³	8	Alice Mutton	King	Przedstawiciel handlowy	
+28.05.1997	Hiszpania	9,20 z³	10	Teatime Chocolate Biscuits	King	Przedstawiciel handlowy	
+29.05.1997	Wenezuela	7,75 z³	30	Rhönbräu Klosterbier	Fuller	Wiceprezes ds. sprzeda¿y	WA
+29.05.1997	Wenezuela	36,00 z³	18	Gudbrandsdalsost	Fuller	Wiceprezes ds. sprzeda¿y	WA
+30.05.1997	Finlandia	17,45 z³	14	Pavlova	Fuller	Wiceprezes ds. sprzeda¿y	WA
+30.05.1997	Niemcy	49,30 z³	20	Tarte au sucre	Peacock	Przedstawiciel handlowy	WA
+30.05.1997	Finlandia	12,50 z³	30	Gorgonzola Telino	Fuller	Wiceprezes ds. sprzeda¿y	WA
+30.05.1997	Finlandia	21,00 z³	15	Queso Cabrales	Fuller	Wiceprezes ds. sprzeda¿y	WA
+30.05.1997	Finlandia	18,00 z³	6	Steeleye Stout	Fuller	Wiceprezes ds. sprzeda¿y	WA
+30.05.1997	Niemcy	9,00 z³	20	Tunnbröd	Peacock	Przedstawiciel handlowy	WA
+30.05.1997	Finlandia	21,00 z³	24	Gustaf's Knäckebröd	Fuller	Wiceprezes ds. sprzeda¿y	WA
+30.05.1997	Niemcy	13,00 z³	10	Original Frankfurter grüne Soße	Peacock	Przedstawiciel handlowy	WA
+30.05.1997	Niemcy	17,45 z³	30	Pavlova	Peacock	Przedstawiciel handlowy	WA
+02.06.1997	USA	53,00 z³	20	Manjimup Dried Apples	Suyama	Przedstawiciel handlowy	
+02.06.1997	USA	38,00 z³	40	Gnocchi di nonna Alice	Suyama	Przedstawiciel handlowy	
+02.06.1997	USA	9,20 z³	35	Teatime Chocolate Biscuits	Suyama	Przedstawiciel handlowy	
+02.06.1997	USA	23,25 z³	30	Tofu	Suyama	Przedstawiciel handlowy	
+02.06.1997	USA	4,50 z³	18	Guaraná Fantástica	Suyama	Przedstawiciel handlowy	
+03.06.1997	Niemcy	33,25 z³	30	Wimmers gute Semmelknödel	Dodsworth	Przedstawiciel handlowy	
+03.06.1997	Niemcy	7,75 z³	20	Rhönbräu Klosterbier	Dodsworth	Przedstawiciel handlowy	
+03.06.1997	Dania	34,80 z³	24	Mozzarella di Giovanni	Fuller	Wiceprezes ds. sprzeda¿y	WA
+04.06.1997	Wielka Brytania	32,80 z³	18	Perth Pasties	Davolio	Przedstawiciel handlowy	WA
+04.06.1997	Wielka Brytania	53,00 z³	20	Manjimup Dried Apples	Davolio	Przedstawiciel handlowy	WA
+04.06.1997	Wielka Brytania	15,00 z³	3	Röd Kaviar	Davolio	Przedstawiciel handlowy	WA
+04.06.1997	Wielka Brytania	7,00 z³	30	Filo Mix	Davolio	Przedstawiciel handlowy	WA
+04.06.1997	Wielka Brytania	9,50 z³	25	Zaanse koeken	Davolio	Przedstawiciel handlowy	WA
+05.06.1997	Francja	24,00 z³	18	Pâte chinois	Suyama	Przedstawiciel handlowy	
+05.06.1997	Francja	9,65 z³	12	Jack's New England Clam Chowder	Suyama	Przedstawiciel handlowy	
+06.06.1997	Niemcy	49,30 z³	15	Tarte au sucre	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+06.06.1997	Szwecja	19,45 z³	10	Gula Malacca	Fuller	Wiceprezes ds. sprzeda¿y	WA
+06.06.1997	Szwecja	53,00 z³	50	Manjimup Dried Apples	Fuller	Wiceprezes ds. sprzeda¿y	WA
+06.06.1997	Niemcy	25,89 z³	20	Nord-Ost Matjeshering	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+09.06.1997	W³ochy	2,50 z³	20	Geitost	Davolio	Przedstawiciel handlowy	WA
+09.06.1997	W³ochy	49,30 z³	10	Tarte au sucre	Davolio	Przedstawiciel handlowy	WA
+10.06.1997	USA	39,00 z³	16	Alice Mutton	Peacock	Przedstawiciel handlowy	WA
+10.06.1997	Brazylia	19,00 z³	25	Inlagd Sill	Fuller	Wiceprezes ds. sprzeda¿y	WA
+10.06.1997	USA	12,50 z³	6	Gorgonzola Telino	Peacock	Przedstawiciel handlowy	WA
+10.06.1997	USA	24,00 z³	25	Pâte chinois	Peacock	Przedstawiciel handlowy	WA
+10.06.1997	Brazylia	7,00 z³	70	Filo Mix	Fuller	Wiceprezes ds. sprzeda¿y	WA
+11.06.1997	Kanada	33,25 z³	18	Wimmers gute Semmelknödel	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+11.06.1997	Kanada	4,50 z³	25	Guaraná Fantástica	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+12.06.1997	Francja	21,00 z³	35	Queso Cabrales	Dodsworth	Przedstawiciel handlowy	
+12.06.1997	Irlandia	55,00 z³	40	Raclette Courdavault	Davolio	Przedstawiciel handlowy	WA
+12.06.1997	Irlandia	12,50 z³	60	Gorgonzola Telino	Davolio	Przedstawiciel handlowy	WA
+12.06.1997	Francja	18,00 z³	10	Lakkalikööri	Dodsworth	Przedstawiciel handlowy	
+12.06.1997	Irlandia	53,00 z³	3	Manjimup Dried Apples	Davolio	Przedstawiciel handlowy	WA
+12.06.1997	Francja	62,50 z³	18	Carnarvon Tigers	Dodsworth	Przedstawiciel handlowy	
+13.06.1997	Hiszpania	31,00 z³	5	Ikura	Leverling	Przedstawiciel handlowy	WA
+16.06.1997	USA	12,50 z³	35	Gorgonzola Telino	Buchanan	Dyrektor ds. sprzeda¿y	
+16.06.1997	USA	18,00 z³	30	Lakkalikööri	Buchanan	Dyrektor ds. sprzeda¿y	
+17.06.1997	Kanada	38,00 z³	60	Gnocchi di nonna Alice	Leverling	Przedstawiciel handlowy	WA
+17.06.1997	Kanada	21,00 z³	15	Queso Cabrales	Leverling	Przedstawiciel handlowy	WA
+17.06.1997	Austria	14,00 z³	28	Singaporean Hokkien Fried Mee	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+17.06.1997	Austria	23,25 z³	11	Tofu	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+18.06.1997	Szwecja	17,45 z³	12	Pavlova	Leverling	Przedstawiciel handlowy	WA
+18.06.1997	Szwecja	32,00 z³	10	Mascarpone Fabioli	Leverling	Przedstawiciel handlowy	WA
+18.06.1997	Szwecja	7,75 z³	15	Rhönbräu Klosterbier	Leverling	Przedstawiciel handlowy	WA
+18.06.1997	Szwecja	18,40 z³	50	Boston Crab Meat	Leverling	Przedstawiciel handlowy	WA
+19.06.1997	USA	33,25 z³	6	Wimmers gute Semmelknödel	Peacock	Przedstawiciel handlowy	WA
+19.06.1997	Meksyk	32,80 z³	25	Perth Pasties	King	Przedstawiciel handlowy	
+19.06.1997	Meksyk	14,00 z³	40	Sasquatch Ale	King	Przedstawiciel handlowy	
+19.06.1997	USA	18,40 z³	2	Boston Crab Meat	Peacock	Przedstawiciel handlowy	WA
+19.06.1997	USA	2,50 z³	14	Geitost	Peacock	Przedstawiciel handlowy	WA
+19.06.1997	USA	49,30 z³	10	Tarte au sucre	Peacock	Przedstawiciel handlowy	WA
+19.06.1997	Meksyk	39,00 z³	18	Alice Mutton	King	Przedstawiciel handlowy	
+20.06.1997	Niemcy	34,80 z³	30	Mozzarella di Giovanni	Buchanan	Dyrektor ds. sprzeda¿y	
+20.06.1997	Niemcy	55,00 z³	12	Raclette Courdavault	Buchanan	Dyrektor ds. sprzeda¿y	
+20.06.1997	Niemcy	43,90 z³	6	Vegie-spread	Buchanan	Dyrektor ds. sprzeda¿y	
+20.06.1997	Niemcy	18,00 z³	10	Lakkalikööri	Buchanan	Dyrektor ds. sprzeda¿y	
+23.06.1997	USA	13,00 z³	18	Original Frankfurter grüne Soße	Dodsworth	Przedstawiciel handlowy	
+23.06.1997	Meksyk	12,50 z³	20	Gorgonzola Telino	Leverling	Przedstawiciel handlowy	WA
+23.06.1997	USA	18,00 z³	10	Chartreuse verte	Dodsworth	Przedstawiciel handlowy	
+23.06.1997	USA	7,75 z³	20	Rhönbräu Klosterbier	Dodsworth	Przedstawiciel handlowy	
+23.06.1997	Meksyk	19,45 z³	21	Gula Malacca	Leverling	Przedstawiciel handlowy	WA
+23.06.1997	Meksyk	18,00 z³	10	Chai	Leverling	Przedstawiciel handlowy	WA
+24.06.1997	Wielka Brytania	19,50 z³	6	Ravioli Angelo	Peacock	Przedstawiciel handlowy	WA
+24.06.1997	Wielka Brytania	18,00 z³	20	Steeleye Stout	Peacock	Przedstawiciel handlowy	WA
+25.06.1997	USA	7,75 z³	21	Rhönbräu Klosterbier	Davolio	Przedstawiciel handlowy	WA
+25.06.1997	USA	15,50 z³	10	Genen Shouyu	Davolio	Przedstawiciel handlowy	WA
+26.06.1997	Niemcy	23,25 z³	15	Tofu	Peacock	Przedstawiciel handlowy	WA
+26.06.1997	Niemcy	9,65 z³	9	Jack's New England Clam Chowder	Peacock	Przedstawiciel handlowy	WA
+26.06.1997	Brazylia	7,75 z³	50	Rhönbräu Klosterbier	Leverling	Przedstawiciel handlowy	WA
+26.06.1997	Niemcy	21,05 z³	30	Louisiana Fiery Hot Pepper Sauce	Peacock	Przedstawiciel handlowy	WA
+27.06.1997	Niemcy	18,00 z³	14	Lakkalikööri	Leverling	Przedstawiciel handlowy	WA
+27.06.1997	Niemcy	19,50 z³	4	Ravioli Angelo	Leverling	Przedstawiciel handlowy	WA
+30.06.1997	Finlandia	34,00 z³	24	Camembert Pierrot	Fuller	Wiceprezes ds. sprzeda¿y	WA
+30.06.1997	Finlandia	36,00 z³	10	Gudbrandsdalsost	Fuller	Wiceprezes ds. sprzeda¿y	WA
+30.06.1997	Francja	12,50 z³	50	Gorgonzola Telino	Peacock	Przedstawiciel handlowy	WA
+30.06.1997	Finlandia	123,79 z³	10	Thüringer Rostbratwurst	Fuller	Wiceprezes ds. sprzeda¿y	WA
+01.07.1997	Brazylia	9,50 z³	15	Zaanse koeken	King	Przedstawiciel handlowy	
+02.07.1997	W³ochy	7,00 z³	4	Filo Mix	Dodsworth	Przedstawiciel handlowy	
+02.07.1997	Brazylia	31,23 z³	6	Gumbär Gummibärchen	Davolio	Przedstawiciel handlowy	WA
+02.07.1997	Brazylia	13,00 z³	20	Original Frankfurter grüne Soße	Davolio	Przedstawiciel handlowy	WA
+02.07.1997	Brazylia	18,00 z³	20	Steeleye Stout	Davolio	Przedstawiciel handlowy	WA
+03.07.1997	Niemcy	14,00 z³	100	Singaporean Hokkien Fried Mee	Fuller	Wiceprezes ds. sprzeda¿y	WA
+03.07.1997	Niemcy	62,50 z³	40	Carnarvon Tigers	Fuller	Wiceprezes ds. sprzeda¿y	WA
+04.07.1997	USA	18,00 z³	4	Steeleye Stout	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+07.07.1997	Dania	7,45 z³	50	Tourtiere	Davolio	Przedstawiciel handlowy	WA
+07.07.1997	Kanada	18,00 z³	20	Chai	Peacock	Przedstawiciel handlowy	WA
+07.07.1997	Dania	10,00 z³	14	Aniseed Syrup	Davolio	Przedstawiciel handlowy	WA
+07.07.1997	Kanada	13,00 z³	60	Original Frankfurter grüne Soße	Peacock	Przedstawiciel handlowy	WA
+07.07.1997	Dania	30,00 z³	10	Uncle Bob's Organic Dried Pears	Davolio	Przedstawiciel handlowy	WA
+08.07.1997	Niemcy	15,50 z³	25	Genen Shouyu	Leverling	Przedstawiciel handlowy	WA
+08.07.1997	Niemcy	31,23 z³	5	Gumbär Gummibärchen	Leverling	Przedstawiciel handlowy	WA
+09.07.1997	USA	13,25 z³	30	Escargots de Bourgogne	Leverling	Przedstawiciel handlowy	WA
+09.07.1997	Niemcy	81,00 z³	21	Sir Rodney's Marmalade	King	Przedstawiciel handlowy	
+09.07.1997	Niemcy	36,00 z³	20	Gudbrandsdalsost	King	Przedstawiciel handlowy	
+09.07.1997	USA	7,00 z³	24	Filo Mix	Leverling	Przedstawiciel handlowy	WA
+09.07.1997	Niemcy	18,00 z³	4	Lakkalikööri	King	Przedstawiciel handlowy	
+10.07.1997	Austria	18,00 z³	30	Steeleye Stout	Fuller	Wiceprezes ds. sprzeda¿y	WA
+10.07.1997	Austria	36,00 z³	65	Gudbrandsdalsost	Fuller	Wiceprezes ds. sprzeda¿y	WA
+10.07.1997	Austria	28,50 z³	120	Sirop d'érable	Fuller	Wiceprezes ds. sprzeda¿y	WA
+11.07.1997	Austria	4,50 z³	35	Guaraná Fantástica	King	Przedstawiciel handlowy	
+11.07.1997	USA	7,75 z³	30	Rhönbräu Klosterbier	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+11.07.1997	Austria	21,05 z³	12	Louisiana Fiery Hot Pepper Sauce	King	Przedstawiciel handlowy	
+11.07.1997	Austria	19,50 z³	20	Ravioli Angelo	King	Przedstawiciel handlowy	
+11.07.1997	USA	43,90 z³	24	Vegie-spread	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+11.07.1997	USA	38,00 z³	5	Gnocchi di nonna Alice	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+14.07.1997	USA	21,50 z³	9	Flotemysost	Davolio	Przedstawiciel handlowy	WA
+14.07.1997	USA	43,90 z³	50	Schoggi Schokolade	Davolio	Przedstawiciel handlowy	WA
+15.07.1997	Wielka Brytania	49,30 z³	10	Tarte au sucre	Suyama	Przedstawiciel handlowy	
+16.07.1997	Wenezuela	6,00 z³	60	Konbu	King	Przedstawiciel handlowy	
+16.07.1997	Wenezuela	55,00 z³	35	Raclette Courdavault	King	Przedstawiciel handlowy	
+16.07.1997	USA	7,45 z³	4	Tourtiere	Peacock	Przedstawiciel handlowy	WA
+16.07.1997	USA	15,00 z³	30	Röd Kaviar	Peacock	Przedstawiciel handlowy	WA
+17.07.1997	Dania	13,00 z³	5	Original Frankfurter grüne Soße	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+18.07.1997	USA	21,00 z³	48	Gustaf's Knäckebröd	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+18.07.1997	Portugalia	18,00 z³	10	Lakkalikööri	Davolio	Przedstawiciel handlowy	WA
+18.07.1997	USA	20,00 z³	25	Maxilaku	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+18.07.1997	Portugalia	12,75 z³	6	Chocolade	Davolio	Przedstawiciel handlowy	WA
+21.07.1997	Kanada	34,00 z³	70	Camembert Pierrot	Davolio	Przedstawiciel handlowy	WA
+21.07.1997	Kanada	55,00 z³	20	Raclette Courdavault	Davolio	Przedstawiciel handlowy	WA
+21.07.1997	Kanada	21,50 z³	15	Flotemysost	Davolio	Przedstawiciel handlowy	WA
+21.07.1997	Kanada	17,45 z³	30	Pavlova	Davolio	Przedstawiciel handlowy	WA
+22.07.1997	USA	30,00 z³	45	Uncle Bob's Organic Dried Pears	Buchanan	Dyrektor ds. sprzeda¿y	
+22.07.1997	Brazylia	22,00 z³	20	Chef Anton's Cajun Seasoning	Peacock	Przedstawiciel handlowy	WA
+22.07.1997	USA	39,00 z³	100	Alice Mutton	Buchanan	Dyrektor ds. sprzeda¿y	
+22.07.1997	Brazylia	49,30 z³	10	Tarte au sucre	Peacock	Przedstawiciel handlowy	WA
+22.07.1997	USA	2,50 z³	14	Geitost	Buchanan	Dyrektor ds. sprzeda¿y	
+22.07.1997	USA	18,40 z³	42	Boston Crab Meat	Buchanan	Dyrektor ds. sprzeda¿y	
+22.07.1997	USA	34,80 z³	12	Mozzarella di Giovanni	Buchanan	Dyrektor ds. sprzeda¿y	
+22.07.1997	Brazylia	24,00 z³	20	Pâte chinois	Peacock	Przedstawiciel handlowy	WA
+23.07.1997	Niemcy	38,00 z³	28	Gnocchi di nonna Alice	Peacock	Przedstawiciel handlowy	WA
+24.07.1997	Francja	10,00 z³	6	Sir Rodney's Scones	King	Przedstawiciel handlowy	
+24.07.1997	Francja	31,00 z³	10	Ikura	King	Przedstawiciel handlowy	
+24.07.1997	Francja	18,00 z³	3	Chai	King	Przedstawiciel handlowy	
+25.07.1997	Polska	18,00 z³	6	Chai	Suyama	Przedstawiciel handlowy	
+25.07.1997	Francja	19,00 z³	21	Inlagd Sill	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+25.07.1997	Polska	19,00 z³	10	Chang	Suyama	Przedstawiciel handlowy	
+25.07.1997	Polska	34,00 z³	15	Camembert Pierrot	Suyama	Przedstawiciel handlowy	
+28.07.1997	USA	31,00 z³	70	Ikura	Davolio	Przedstawiciel handlowy	WA
+28.07.1997	USA	19,00 z³	55	Inlagd Sill	Davolio	Przedstawiciel handlowy	WA
+28.07.1997	USA	20,00 z³	18	Maxilaku	Davolio	Przedstawiciel handlowy	WA
+28.07.1997	USA	34,00 z³	40	Camembert Pierrot	Davolio	Przedstawiciel handlowy	WA
+28.07.1997	USA	18,00 z³	80	Lakkalikööri	Davolio	Przedstawiciel handlowy	WA
+29.07.1997	Wenezuela	7,75 z³	40	Rhönbräu Klosterbier	Peacock	Przedstawiciel handlowy	WA
+29.07.1997	Niemcy	10,00 z³	8	Sir Rodney's Scones	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+29.07.1997	Niemcy	18,00 z³	5	Chartreuse verte	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+29.07.1997	Niemcy	21,00 z³	14	Queso Cabrales	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+29.07.1997	Wenezuela	6,00 z³	8	Konbu	Peacock	Przedstawiciel handlowy	WA
+30.07.1997	Finlandia	24,00 z³	5	Pâte chinois	Fuller	Wiceprezes ds. sprzeda¿y	WA
+31.07.1997	USA	263,50 z³	15	Côte de Blaye	Davolio	Przedstawiciel handlowy	WA
+31.07.1997	USA	55,00 z³	30	Raclette Courdavault	Peacock	Przedstawiciel handlowy	WA
+31.07.1997	USA	38,00 z³	14	Gnocchi di nonna Alice	Davolio	Przedstawiciel handlowy	WA
+31.07.1997	USA	21,50 z³	15	Flotemysost	Davolio	Przedstawiciel handlowy	WA
+31.07.1997	USA	15,00 z³	15	Outback Lager	Davolio	Przedstawiciel handlowy	WA
+01.08.1997	Kanada	12,50 z³	15	Scottish Longbreads	Davolio	Przedstawiciel handlowy	WA
+01.08.1997	Kanada	38,00 z³	20	Gnocchi di nonna Alice	Davolio	Przedstawiciel handlowy	WA
+01.08.1997	Kanada	25,00 z³	70	Grandma's Boysenberry Spread	Davolio	Przedstawiciel handlowy	WA
+04.08.1997	Kanada	10,00 z³	42	Sir Rodney's Scones	Leverling	Przedstawiciel handlowy	WA
+04.08.1997	Kanada	21,00 z³	40	Gustaf's Knäckebröd	Leverling	Przedstawiciel handlowy	WA
+05.08.1997	Wielka Brytania	21,50 z³	15	Flotemysost	Peacock	Przedstawiciel handlowy	WA
+05.08.1997	Wielka Brytania	9,20 z³	5	Teatime Chocolate Biscuits	Peacock	Przedstawiciel handlowy	WA
+05.08.1997	Kanada	4,50 z³	5	Guaraná Fantástica	Fuller	Wiceprezes ds. sprzeda¿y	WA
+05.08.1997	Kanada	7,00 z³	5	Filo Mix	Fuller	Wiceprezes ds. sprzeda¿y	WA
+05.08.1997	Wielka Brytania	9,00 z³	10	Tunnbröd	Peacock	Przedstawiciel handlowy	WA
+05.08.1997	Wielka Brytania	15,00 z³	20	Outback Lager	Peacock	Przedstawiciel handlowy	WA
+06.08.1997	Brazylia	12,50 z³	18	Scottish Longbreads	Peacock	Przedstawiciel handlowy	WA
+06.08.1997	Brazylia	19,00 z³	20	Chang	Peacock	Przedstawiciel handlowy	WA
+07.08.1997	Niemcy	9,20 z³	15	Teatime Chocolate Biscuits	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+07.08.1997	USA	123,79 z³	6	Thüringer Rostbratwurst	Peacock	Przedstawiciel handlowy	WA
+07.08.1997	Niemcy	18,00 z³	30	Steeleye Stout	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+07.08.1997	USA	45,60 z³	10	Rössle Sauerkraut	Peacock	Przedstawiciel handlowy	WA
+07.08.1997	USA	19,45 z³	10	Gula Malacca	Peacock	Przedstawiciel handlowy	WA
+07.08.1997	Niemcy	4,50 z³	3	Guaraná Fantástica	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+07.08.1997	Niemcy	23,25 z³	21	Tofu	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+07.08.1997	Niemcy	10,00 z³	25	Sir Rodney's Scones	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+08.08.1997	Meksyk	23,25 z³	3	Tofu	Leverling	Przedstawiciel handlowy	WA
+08.08.1997	Meksyk	14,00 z³	5	Singaporean Hokkien Fried Mee	Leverling	Przedstawiciel handlowy	WA
+08.08.1997	Meksyk	34,00 z³	10	Camembert Pierrot	Leverling	Przedstawiciel handlowy	WA
+11.08.1997	USA	15,00 z³	35	Röd Kaviar	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+11.08.1997	Szwecja	34,00 z³	20	Camembert Pierrot	Davolio	Przedstawiciel handlowy	WA
+11.08.1997	Szwecja	32,80 z³	12	Perth Pasties	Davolio	Przedstawiciel handlowy	WA
+11.08.1997	USA	49,30 z³	15	Tarte au sucre	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+11.08.1997	Szwecja	21,50 z³	20	Flotemysost	Davolio	Przedstawiciel handlowy	WA
+12.08.1997	Hiszpania	123,79 z³	20	Thüringer Rostbratwurst	Peacock	Przedstawiciel handlowy	WA
+12.08.1997	Hiszpania	33,25 z³	9	Wimmers gute Semmelknödel	Peacock	Przedstawiciel handlowy	WA
+12.08.1997	Francja	18,00 z³	25	Chai	Peacock	Przedstawiciel handlowy	WA
+13.08.1997	Niemcy	18,00 z³	35	Lakkalikööri	Davolio	Przedstawiciel handlowy	WA
+13.08.1997	Niemcy	24,00 z³	12	Pâte chinois	Davolio	Przedstawiciel handlowy	WA
+14.08.1997	Niemcy	2,50 z³	20	Geitost	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+14.08.1997	Francja	7,75 z³	8	Rhönbräu Klosterbier	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+14.08.1997	Niemcy	19,00 z³	30	Chang	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+15.08.1997	Austria	49,30 z³	80	Tarte au sucre	King	Przedstawiciel handlowy	
+15.08.1997	Francja	53,00 z³	15	Manjimup Dried Apples	Peacock	Przedstawiciel handlowy	WA
+15.08.1997	Austria	38,00 z³	36	Queso Manchego La Pastora	King	Przedstawiciel handlowy	
+15.08.1997	Francja	7,75 z³	2	Rhönbräu Klosterbier	Peacock	Przedstawiciel handlowy	WA
+15.08.1997	Francja	62,50 z³	50	Carnarvon Tigers	Peacock	Przedstawiciel handlowy	WA
+15.08.1997	Francja	30,00 z³	35	Uncle Bob's Organic Dried Pears	Peacock	Przedstawiciel handlowy	WA
+15.08.1997	Austria	6,00 z³	13	Konbu	King	Przedstawiciel handlowy	
+15.08.1997	Austria	31,23 z³	35	Gumbär Gummibärchen	King	Przedstawiciel handlowy	
+18.08.1997	W³ochy	22,00 z³	10	Chef Anton's Cajun Seasoning	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+18.08.1997	W³ochy	21,00 z³	40	Gustaf's Knäckebröd	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+18.08.1997	W³ochy	21,35 z³	15	Chef Anton's Gumbo Mix	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+19.08.1997	Brazylia	16,25 z³	25	Valkoinen suklaa	Suyama	Przedstawiciel handlowy	
+19.08.1997	Finlandia	22,00 z³	25	Chef Anton's Cajun Seasoning	Peacock	Przedstawiciel handlowy	WA
+19.08.1997	Brazylia	21,00 z³	10	Queso Cabrales	Suyama	Przedstawiciel handlowy	
+19.08.1997	Brazylia	38,00 z³	60	Gnocchi di nonna Alice	Suyama	Przedstawiciel handlowy	
+19.08.1997	Finlandia	13,25 z³	6	Escargots de Bourgogne	Peacock	Przedstawiciel handlowy	WA
+20.08.1997	Norwegia	62,50 z³	8	Carnarvon Tigers	King	Przedstawiciel handlowy	
+20.08.1997	Wenezuela	21,05 z³	21	Louisiana Fiery Hot Pepper Sauce	Leverling	Przedstawiciel handlowy	WA
+20.08.1997	Wenezuela	9,50 z³	20	Rogede sild	Leverling	Przedstawiciel handlowy	WA
+20.08.1997	Wenezuela	34,80 z³	60	Mozzarella di Giovanni	Leverling	Przedstawiciel handlowy	WA
+21.08.1997	Niemcy	36,00 z³	20	Gudbrandsdalsost	Peacock	Przedstawiciel handlowy	WA
+21.08.1997	Niemcy	15,00 z³	15	Outback Lager	Peacock	Przedstawiciel handlowy	WA
+22.08.1997	Wenezuela	19,00 z³	50	Chang	Peacock	Przedstawiciel handlowy	WA
+22.08.1997	Dania	10,00 z³	30	Sir Rodney's Scones	King	Przedstawiciel handlowy	
+22.08.1997	Dania	28,50 z³	20	Sirop d'érable	King	Przedstawiciel handlowy	
+22.08.1997	Wenezuela	18,40 z³	60	Boston Crab Meat	Peacock	Przedstawiciel handlowy	WA
+25.08.1997	Brazylia	46,00 z³	20	Ipoh Coffee	Leverling	Przedstawiciel handlowy	WA
+25.08.1997	Brazylia	62,50 z³	4	Carnarvon Tigers	Leverling	Przedstawiciel handlowy	WA
+25.08.1997	Brazylia	12,00 z³	21	Spegesild	Leverling	Przedstawiciel handlowy	WA
+25.08.1997	Wielka Brytania	45,60 z³	15	Rössle Sauerkraut	Suyama	Przedstawiciel handlowy	
+25.08.1997	Wielka Brytania	12,00 z³	2	Spegesild	Suyama	Przedstawiciel handlowy	
+25.08.1997	Wielka Brytania	18,00 z³	21	Chartreuse verte	Suyama	Przedstawiciel handlowy	
+26.08.1997	Brazylia	19,00 z³	15	Inlagd Sill	Peacock	Przedstawiciel handlowy	WA
+26.08.1997	Brazylia	62,50 z³	20	Carnarvon Tigers	Peacock	Przedstawiciel handlowy	WA
+27.08.1997	Brazylia	18,00 z³	20	Chartreuse verte	Peacock	Przedstawiciel handlowy	WA
+27.08.1997	Irlandia	21,50 z³	30	Flotemysost	Dodsworth	Przedstawiciel handlowy	
+27.08.1997	Irlandia	18,00 z³	15	Chai	Dodsworth	Przedstawiciel handlowy	
+27.08.1997	Brazylia	9,20 z³	30	Teatime Chocolate Biscuits	Peacock	Przedstawiciel handlowy	WA
+27.08.1997	Irlandia	31,00 z³	18	Ikura	Dodsworth	Przedstawiciel handlowy	
+27.08.1997	Irlandia	13,00 z³	35	Original Frankfurter grüne Soße	Dodsworth	Przedstawiciel handlowy	
+28.08.1997	Belgia	45,60 z³	20	Rössle Sauerkraut	Buchanan	Dyrektor ds. sprzeda¿y	
+28.08.1997	Brazylia	21,00 z³	15	Gustaf's Knäckebröd	Buchanan	Dyrektor ds. sprzeda¿y	
+28.08.1997	Belgia	34,80 z³	15	Mozzarella di Giovanni	Buchanan	Dyrektor ds. sprzeda¿y	
+28.08.1997	Brazylia	4,50 z³	15	Guaraná Fantástica	Buchanan	Dyrektor ds. sprzeda¿y	
+29.08.1997	Brazylia	25,89 z³	30	Nord-Ost Matjeshering	Buchanan	Dyrektor ds. sprzeda¿y	
+29.08.1997	Brazylia	32,80 z³	25	Perth Pasties	Buchanan	Dyrektor ds. sprzeda¿y	
+29.08.1997	Brazylia	7,45 z³	30	Tourtiere	Buchanan	Dyrektor ds. sprzeda¿y	
+01.09.1997	Niemcy	9,20 z³	12	Teatime Chocolate Biscuits	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+01.09.1997	Niemcy	21,00 z³	20	Gustaf's Knäckebröd	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+01.09.1997	Brazylia	25,89 z³	2	Nord-Ost Matjeshering	Peacock	Przedstawiciel handlowy	WA
+01.09.1997	Brazylia	14,00 z³	20	Singaporean Hokkien Fried Mee	Peacock	Przedstawiciel handlowy	WA
+02.09.1997	Szwecja	7,45 z³	6	Tourtiere	Buchanan	Dyrektor ds. sprzeda¿y	
+02.09.1997	Szwecja	18,00 z³	20	Chartreuse verte	Buchanan	Dyrektor ds. sprzeda¿y	
+02.09.1997	Niemcy	17,45 z³	30	Pavlova	Davolio	Przedstawiciel handlowy	WA
+02.09.1997	Niemcy	34,00 z³	20	Camembert Pierrot	Davolio	Przedstawiciel handlowy	WA
+02.09.1997	Szwecja	22,00 z³	12	Chef Anton's Cajun Seasoning	Buchanan	Dyrektor ds. sprzeda¿y	
+03.09.1997	W³ochy	9,65 z³	20	Jack's New England Clam Chowder	Davolio	Przedstawiciel handlowy	WA
+04.09.1997	USA	38,00 z³	45	Gnocchi di nonna Alice	Fuller	Wiceprezes ds. sprzeda¿y	WA
+04.09.1997	USA	9,50 z³	10	Zaanse koeken	Fuller	Wiceprezes ds. sprzeda¿y	WA
+04.09.1997	USA	9,50 z³	6	Zaanse koeken	Suyama	Przedstawiciel handlowy	
+04.09.1997	USA	23,25 z³	3	Tofu	Suyama	Przedstawiciel handlowy	
+04.09.1997	USA	19,45 z³	28	Gula Malacca	Suyama	Przedstawiciel handlowy	
+04.09.1997	USA	15,50 z³	50	Genen Shouyu	Fuller	Wiceprezes ds. sprzeda¿y	WA
+04.09.1997	USA	12,00 z³	45	Spegesild	Fuller	Wiceprezes ds. sprzeda¿y	WA
+04.09.1997	USA	34,00 z³	30	Camembert Pierrot	Fuller	Wiceprezes ds. sprzeda¿y	WA
+04.09.1997	USA	9,65 z³	24	Jack's New England Clam Chowder	Fuller	Wiceprezes ds. sprzeda¿y	WA
+05.09.1997	Niemcy	13,00 z³	70	Original Frankfurter grüne Soße	Peacock	Przedstawiciel handlowy	WA
+05.09.1997	Brazylia	15,00 z³	40	Outback Lager	King	Przedstawiciel handlowy	
+05.09.1997	Brazylia	12,50 z³	20	Gorgonzola Telino	King	Przedstawiciel handlowy	
+05.09.1997	Niemcy	34,00 z³	55	Camembert Pierrot	Peacock	Przedstawiciel handlowy	WA
+05.09.1997	Brazylia	18,40 z³	24	Boston Crab Meat	King	Przedstawiciel handlowy	
+05.09.1997	Niemcy	10,00 z³	60	Sir Rodney's Scones	Peacock	Przedstawiciel handlowy	WA
+05.09.1997	Niemcy	18,40 z³	70	Boston Crab Meat	Peacock	Przedstawiciel handlowy	WA
+08.09.1997	USA	81,00 z³	21	Sir Rodney's Marmalade	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+09.09.1997	USA	12,50 z³	10	Scottish Longbreads	Leverling	Przedstawiciel handlowy	WA
+09.09.1997	Irlandia	13,25 z³	49	Escargots de Bourgogne	King	Przedstawiciel handlowy	
+09.09.1997	Irlandia	18,00 z³	3	Chartreuse verte	King	Przedstawiciel handlowy	
+10.09.1997	Portugalia	38,00 z³	12	Gnocchi di nonna Alice	Davolio	Przedstawiciel handlowy	WA
+10.09.1997	Francja	14,00 z³	30	Singaporean Hokkien Fried Mee	Fuller	Wiceprezes ds. sprzeda¿y	WA
+10.09.1997	Portugalia	21,05 z³	15	Louisiana Fiery Hot Pepper Sauce	Davolio	Przedstawiciel handlowy	WA
+10.09.1997	Francja	53,00 z³	20	Manjimup Dried Apples	Fuller	Wiceprezes ds. sprzeda¿y	WA
+10.09.1997	Francja	18,40 z³	30	Boston Crab Meat	Fuller	Wiceprezes ds. sprzeda¿y	WA
+10.09.1997	Portugalia	31,00 z³	24	Ikura	Davolio	Przedstawiciel handlowy	WA
+11.09.1997	USA	18,00 z³	10	Lakkalikööri	Davolio	Przedstawiciel handlowy	WA
+11.09.1997	USA	53,00 z³	20	Manjimup Dried Apples	Davolio	Przedstawiciel handlowy	WA
+11.09.1997	USA	55,00 z³	1	Raclette Courdavault	Davolio	Przedstawiciel handlowy	WA
+12.09.1997	Szwajcaria	123,79 z³	36	Thüringer Rostbratwurst	King	Przedstawiciel handlowy	
+12.09.1997	Austria	36,00 z³	45	Gudbrandsdalsost	King	Przedstawiciel handlowy	
+12.09.1997	Szwajcaria	21,05 z³	10	Louisiana Fiery Hot Pepper Sauce	King	Przedstawiciel handlowy	
+12.09.1997	Austria	21,50 z³	14	Flotemysost	King	Przedstawiciel handlowy	
+15.09.1997	Niemcy	33,25 z³	15	Wimmers gute Semmelknödel	Davolio	Przedstawiciel handlowy	WA
+15.09.1997	Dania	19,00 z³	30	Inlagd Sill	Fuller	Wiceprezes ds. sprzeda¿y	WA
+15.09.1997	Niemcy	12,50 z³	8	Gorgonzola Telino	Davolio	Przedstawiciel handlowy	WA
+15.09.1997	Niemcy	24,00 z³	4	Pâte chinois	Davolio	Przedstawiciel handlowy	WA
+16.09.1997	Niemcy	14,00 z³	25	Laughing Lumberjack Lager	Peacock	Przedstawiciel handlowy	WA
+16.09.1997	Niemcy	15,00 z³	50	Röd Kaviar	Peacock	Przedstawiciel handlowy	WA
+16.09.1997	Niemcy	12,00 z³	60	Spegesild	Peacock	Przedstawiciel handlowy	WA
+16.09.1997	Niemcy	9,00 z³	32	Tunnbröd	Peacock	Przedstawiciel handlowy	WA
+16.09.1997	Niemcy	7,75 z³	25	Rhönbräu Klosterbier	Peacock	Przedstawiciel handlowy	WA
+17.09.1997	Francja	21,05 z³	12	Louisiana Fiery Hot Pepper Sauce	Davolio	Przedstawiciel handlowy	WA
+17.09.1997	Francja	17,45 z³	10	Pavlova	Davolio	Przedstawiciel handlowy	WA
+17.09.1997	Szwecja	21,50 z³	12	Flotemysost	Dodsworth	Przedstawiciel handlowy	
+17.09.1997	Szwecja	263,50 z³	15	Côte de Blaye	Dodsworth	Przedstawiciel handlowy	
+17.09.1997	Francja	49,30 z³	10	Tarte au sucre	Davolio	Przedstawiciel handlowy	WA
+18.09.1997	Finlandia	17,45 z³	3	Pavlova	Fuller	Wiceprezes ds. sprzeda¿y	WA
+18.09.1997	Wielka Brytania	9,00 z³	5	Tunnbröd	Peacock	Przedstawiciel handlowy	WA
+18.09.1997	Finlandia	14,00 z³	6	Singaporean Hokkien Fried Mee	Fuller	Wiceprezes ds. sprzeda¿y	WA
+18.09.1997	Finlandia	46,00 z³	6	Ipoh Coffee	Fuller	Wiceprezes ds. sprzeda¿y	WA
+19.09.1997	Niemcy	32,80 z³	10	Perth Pasties	Buchanan	Dyrektor ds. sprzeda¿y	
+19.09.1997	Niemcy	13,25 z³	30	Escargots de Bourgogne	Buchanan	Dyrektor ds. sprzeda¿y	
+19.09.1997	Niemcy	23,25 z³	30	Tofu	Buchanan	Dyrektor ds. sprzeda¿y	
+22.09.1997	Meksyk	31,00 z³	2	Ikura	Fuller	Wiceprezes ds. sprzeda¿y	WA
+22.09.1997	Meksyk	2,50 z³	8	Geitost	Davolio	Przedstawiciel handlowy	WA
+22.09.1997	Meksyk	19,45 z³	21	Gula Malacca	Fuller	Wiceprezes ds. sprzeda¿y	WA
+22.09.1997	Meksyk	31,23 z³	30	Gumbär Gummibärchen	Davolio	Przedstawiciel handlowy	WA
+22.09.1997	Meksyk	9,20 z³	7	Teatime Chocolate Biscuits	Fuller	Wiceprezes ds. sprzeda¿y	WA
+23.09.1997	USA	7,45 z³	30	Tourtiere	King	Przedstawiciel handlowy	
+23.09.1997	USA	38,00 z³	100	Queso Manchego La Pastora	King	Przedstawiciel handlowy	
+23.09.1997	Francja	55,00 z³	12	Raclette Courdavault	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+23.09.1997	USA	2,50 z³	30	Geitost	King	Przedstawiciel handlowy	
+23.09.1997	USA	9,65 z³	120	Jack's New England Clam Chowder	King	Przedstawiciel handlowy	
+24.09.1997	USA	14,00 z³	40	Singaporean Hokkien Fried Mee	Davolio	Przedstawiciel handlowy	WA
+24.09.1997	USA	17,45 z³	50	Pavlova	Davolio	Przedstawiciel handlowy	WA
+24.09.1997	USA	12,50 z³	20	Gorgonzola Telino	Davolio	Przedstawiciel handlowy	WA
+25.09.1997	USA	9,20 z³	30	Teatime Chocolate Biscuits	Leverling	Przedstawiciel handlowy	WA
+25.09.1997	USA	10,00 z³	12	Sir Rodney's Scones	Leverling	Przedstawiciel handlowy	WA
+25.09.1997	Meksyk	2,50 z³	30	Geitost	Leverling	Przedstawiciel handlowy	WA
+25.09.1997	Meksyk	7,75 z³	30	Rhönbräu Klosterbier	Leverling	Przedstawiciel handlowy	WA
+25.09.1997	Meksyk	17,00 z³	4	Louisiana Hot Spiced Okra	Leverling	Przedstawiciel handlowy	WA
+25.09.1997	USA	33,25 z³	28	Wimmers gute Semmelknödel	Leverling	Przedstawiciel handlowy	WA
+26.09.1997	Niemcy	9,50 z³	40	Zaanse koeken	Leverling	Przedstawiciel handlowy	WA
+26.09.1997	Niemcy	18,40 z³	20	Boston Crab Meat	Leverling	Przedstawiciel handlowy	WA
+26.09.1997	Niemcy	34,00 z³	30	Camembert Pierrot	Leverling	Przedstawiciel handlowy	WA
+26.09.1997	Francja	7,00 z³	9	Filo Mix	Fuller	Wiceprezes ds. sprzeda¿y	WA
+29.09.1997	Brazylia	9,50 z³	15	Zaanse koeken	Peacock	Przedstawiciel handlowy	WA
+29.09.1997	Brazylia	31,00 z³	20	Ikura	Peacock	Przedstawiciel handlowy	WA
+29.09.1997	Brazylia	9,65 z³	4	Jack's New England Clam Chowder	Peacock	Przedstawiciel handlowy	WA
+30.09.1997	Austria	31,23 z³	15	Gumbär Gummibärchen	Fuller	Wiceprezes ds. sprzeda¿y	WA
+30.09.1997	Irlandia	97,00 z³	50	Mishi Kobe Niku	Dodsworth	Przedstawiciel handlowy	
+30.09.1997	Austria	39,00 z³	30	Alice Mutton	Fuller	Wiceprezes ds. sprzeda¿y	WA
+30.09.1997	Irlandia	123,79 z³	10	Thüringer Rostbratwurst	Dodsworth	Przedstawiciel handlowy	
+30.09.1997	Irlandia	19,00 z³	6	Inlagd Sill	Dodsworth	Przedstawiciel handlowy	
+01.10.1997	Dania	31,00 z³	18	Ikura	Peacock	Przedstawiciel handlowy	WA
+01.10.1997	Dania	14,00 z³	14	Sasquatch Ale	Peacock	Przedstawiciel handlowy	WA
+01.10.1997	Szwecja	18,00 z³	35	Chai	Davolio	Przedstawiciel handlowy	WA
+01.10.1997	Dania	45,60 z³	60	Rössle Sauerkraut	Peacock	Przedstawiciel handlowy	WA
+02.10.1997	Brazylia	13,00 z³	30	Original Frankfurter grüne Soße	Davolio	Przedstawiciel handlowy	WA
+02.10.1997	Brazylia	38,00 z³	20	Gnocchi di nonna Alice	Davolio	Przedstawiciel handlowy	WA
+03.10.1997	Niemcy	46,00 z³	40	Ipoh Coffee	Fuller	Wiceprezes ds. sprzeda¿y	WA
+03.10.1997	Niemcy	123,79 z³	40	Thüringer Rostbratwurst	Fuller	Wiceprezes ds. sprzeda¿y	WA
+03.10.1997	Niemcy	49,30 z³	48	Tarte au sucre	Fuller	Wiceprezes ds. sprzeda¿y	WA
+03.10.1997	Niemcy	43,90 z³	20	Vegie-spread	Peacock	Przedstawiciel handlowy	WA
+03.10.1997	Niemcy	18,00 z³	30	Chai	Fuller	Wiceprezes ds. sprzeda¿y	WA
+03.10.1997	Niemcy	19,45 z³	24	Gula Malacca	Fuller	Wiceprezes ds. sprzeda¿y	WA
+06.10.1997	USA	7,45 z³	60	Tourtiere	Leverling	Przedstawiciel handlowy	WA
+06.10.1997	USA	97,00 z³	6	Mishi Kobe Niku	Leverling	Przedstawiciel handlowy	WA
+06.10.1997	USA	36,00 z³	30	Gudbrandsdalsost	Leverling	Przedstawiciel handlowy	WA
+06.10.1997	Niemcy	55,00 z³	25	Raclette Courdavault	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+06.10.1997	Niemcy	30,00 z³	90	Uncle Bob's Organic Dried Pears	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+06.10.1997	USA	15,00 z³	15	Röd Kaviar	Leverling	Przedstawiciel handlowy	WA
+06.10.1997	Niemcy	15,00 z³	50	Outback Lager	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+07.10.1997	Finlandia	40,00 z³	10	Northwoods Cranberry Sauce	King	Przedstawiciel handlowy	
+07.10.1997	Finlandia	38,00 z³	4	Queso Manchego La Pastora	King	Przedstawiciel handlowy	
+07.10.1997	Finlandia	4,50 z³	20	Guaraná Fantástica	King	Przedstawiciel handlowy	
+08.10.1997	Wenezuela	13,25 z³	30	Escargots de Bourgogne	Leverling	Przedstawiciel handlowy	WA
+08.10.1997	Wenezuela	15,00 z³	30	Outback Lager	Leverling	Przedstawiciel handlowy	WA
+08.10.1997	USA	12,00 z³	18	Spegesild	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+08.10.1997	Wenezuela	9,20 z³	7	Teatime Chocolate Biscuits	Leverling	Przedstawiciel handlowy	WA
+08.10.1997	Wenezuela	18,00 z³	9	Steeleye Stout	Leverling	Przedstawiciel handlowy	WA
+08.10.1997	USA	39,00 z³	20	Alice Mutton	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+09.10.1997	Austria	21,05 z³	65	Louisiana Fiery Hot Pepper Sauce	Peacock	Przedstawiciel handlowy	WA
+09.10.1997	Austria	15,00 z³	8	Outback Lager	Peacock	Przedstawiciel handlowy	WA
+09.10.1997	Austria	21,00 z³	15	Queso Cabrales	Peacock	Przedstawiciel handlowy	WA
+09.10.1997	Niemcy	9,50 z³	12	Zaanse koeken	Leverling	Przedstawiciel handlowy	WA
+09.10.1997	Austria	39,00 z³	8	Alice Mutton	Peacock	Przedstawiciel handlowy	WA
+09.10.1997	Austria	123,79 z³	12	Thüringer Rostbratwurst	Peacock	Przedstawiciel handlowy	WA
+10.10.1997	USA	21,50 z³	60	Flotemysost	Leverling	Przedstawiciel handlowy	WA
+10.10.1997	USA	12,50 z³	40	Scottish Longbreads	Leverling	Przedstawiciel handlowy	WA
+10.10.1997	USA	18,00 z³	5	Chai	Leverling	Przedstawiciel handlowy	WA
+10.10.1997	USA	14,00 z³	12	Sasquatch Ale	Leverling	Przedstawiciel handlowy	WA
+13.10.1997	Niemcy	10,00 z³	6	Aniseed Syrup	Peacock	Przedstawiciel handlowy	WA
+13.10.1997	Irlandia	18,00 z³	35	Lakkalikööri	Suyama	Przedstawiciel handlowy	
+13.10.1997	Irlandia	55,00 z³	42	Raclette Courdavault	Suyama	Przedstawiciel handlowy	
+13.10.1997	Irlandia	21,50 z³	20	Flotemysost	Suyama	Przedstawiciel handlowy	
+13.10.1997	Niemcy	18,00 z³	15	Lakkalikööri	Peacock	Przedstawiciel handlowy	WA
+14.10.1997	Brazylia	4,50 z³	35	Guaraná Fantástica	Suyama	Przedstawiciel handlowy	
+14.10.1997	Szwecja	15,00 z³	35	Röd Kaviar	Suyama	Przedstawiciel handlowy	
+14.10.1997	Brazylia	22,00 z³	6	Chef Anton's Cajun Seasoning	Suyama	Przedstawiciel handlowy	
+14.10.1997	Szwecja	55,00 z³	35	Raclette Courdavault	Suyama	Przedstawiciel handlowy	
+14.10.1997	Szwecja	19,00 z³	5	Chang	Suyama	Przedstawiciel handlowy	
+14.10.1997	Brazylia	12,75 z³	24	Chocolade	Suyama	Przedstawiciel handlowy	
+15.10.1997	Wenezuela	12,50 z³	20	Gorgonzola Telino	Dodsworth	Przedstawiciel handlowy	
+15.10.1997	Wenezuela	32,00 z³	4	Mascarpone Fabioli	Dodsworth	Przedstawiciel handlowy	
+16.10.1997	Wielka Brytania	15,00 z³	28	Outback Lager	Peacock	Przedstawiciel handlowy	WA
+16.10.1997	Wielka Brytania	24,00 z³	21	Pâte chinois	Peacock	Przedstawiciel handlowy	WA
+16.10.1997	Wielka Brytania	19,50 z³	40	Ravioli Angelo	Peacock	Przedstawiciel handlowy	WA
+16.10.1997	USA	46,00 z³	24	Ipoh Coffee	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+16.10.1997	USA	55,00 z³	8	Raclette Courdavault	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+16.10.1997	USA	17,45 z³	20	Pavlova	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+17.10.1997	Brazylia	34,00 z³	10	Camembert Pierrot	Davolio	Przedstawiciel handlowy	WA
+17.10.1997	USA	21,35 z³	4	Chef Anton's Gumbo Mix	Suyama	Przedstawiciel handlowy	
+17.10.1997	Brazylia	53,00 z³	28	Manjimup Dried Apples	Davolio	Przedstawiciel handlowy	WA
+17.10.1997	Brazylia	40,00 z³	40	Northwoods Cranberry Sauce	Davolio	Przedstawiciel handlowy	WA
+17.10.1997	USA	19,00 z³	5	Inlagd Sill	Suyama	Przedstawiciel handlowy	
+20.10.1997	W³ochy	9,20 z³	5	Teatime Chocolate Biscuits	Davolio	Przedstawiciel handlowy	WA
+20.10.1997	W³ochy	9,50 z³	5	Zaanse koeken	Davolio	Przedstawiciel handlowy	WA
+21.10.1997	Irlandia	32,80 z³	3	Perth Pasties	Leverling	Przedstawiciel handlowy	WA
+21.10.1997	Irlandia	38,00 z³	30	Gnocchi di nonna Alice	Leverling	Przedstawiciel handlowy	WA
+21.10.1997	USA	9,65 z³	42	Jack's New England Clam Chowder	Buchanan	Dyrektor ds. sprzeda¿y	
+21.10.1997	USA	32,80 z³	120	Perth Pasties	Buchanan	Dyrektor ds. sprzeda¿y	
+21.10.1997	USA	9,20 z³	12	Teatime Chocolate Biscuits	Buchanan	Dyrektor ds. sprzeda¿y	
+22.10.1997	USA	31,23 z³	30	Gumbär Gummibärchen	Davolio	Przedstawiciel handlowy	WA
+22.10.1997	USA	9,50 z³	50	Zaanse koeken	Buchanan	Dyrektor ds. sprzeda¿y	
+22.10.1997	USA	39,00 z³	27	Alice Mutton	Buchanan	Dyrektor ds. sprzeda¿y	
+22.10.1997	USA	38,00 z³	18	Gnocchi di nonna Alice	Buchanan	Dyrektor ds. sprzeda¿y	
+22.10.1997	USA	19,00 z³	30	Chang	Buchanan	Dyrektor ds. sprzeda¿y	
+22.10.1997	USA	9,50 z³	110	Rogede sild	Davolio	Przedstawiciel handlowy	WA
+22.10.1997	USA	12,00 z³	24	Spegesild	Davolio	Przedstawiciel handlowy	WA
+22.10.1997	USA	13,25 z³	12	Escargots de Bourgogne	Buchanan	Dyrektor ds. sprzeda¿y	
+22.10.1997	USA	31,00 z³	18	Ikura	Davolio	Przedstawiciel handlowy	WA
+23.10.1997	Francja	21,50 z³	30	Flotemysost	Leverling	Przedstawiciel handlowy	WA
+23.10.1997	Francja	31,00 z³	21	Ikura	Leverling	Przedstawiciel handlowy	WA
+24.10.1997	Niemcy	10,00 z³	32	Sir Rodney's Scones	Davolio	Przedstawiciel handlowy	WA
+24.10.1997	Niemcy	7,45 z³	15	Tourtiere	Davolio	Przedstawiciel handlowy	WA
+24.10.1997	Argentyna	53,00 z³	7	Manjimup Dried Apples	Peacock	Przedstawiciel handlowy	WA
+24.10.1997	Argentyna	28,50 z³	10	Sirop d'érable	Peacock	Przedstawiciel handlowy	WA
+24.10.1997	Niemcy	36,00 z³	25	Gudbrandsdalsost	Davolio	Przedstawiciel handlowy	WA
+24.10.1997	Argentyna	10,00 z³	5	Sir Rodney's Scones	Peacock	Przedstawiciel handlowy	WA
+27.10.1997	Niemcy	19,00 z³	40	Inlagd Sill	Davolio	Przedstawiciel handlowy	WA
+27.10.1997	Niemcy	49,30 z³	20	Tarte au sucre	Davolio	Przedstawiciel handlowy	WA
+27.10.1997	Niemcy	38,00 z³	36	Queso Manchego La Pastora	Davolio	Przedstawiciel handlowy	WA
+27.10.1997	USA	62,50 z³	12	Carnarvon Tigers	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+27.10.1997	USA	7,45 z³	40	Tourtiere	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+27.10.1997	USA	25,89 z³	3	Nord-Ost Matjeshering	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+27.10.1997	Niemcy	17,45 z³	20	Pavlova	Davolio	Przedstawiciel handlowy	WA
+28.10.1997	Brazylia	18,00 z³	21	Steeleye Stout	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+28.10.1997	Brazylia	21,50 z³	8	Flotemysost	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+29.10.1997	USA	19,00 z³	3	Chang	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+29.10.1997	Niemcy	19,45 z³	50	Gula Malacca	Buchanan	Dyrektor ds. sprzeda¿y	
+29.10.1997	USA	12,50 z³	45	Scottish Longbreads	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+29.10.1997	USA	12,50 z³	50	Gorgonzola Telino	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+29.10.1997	USA	7,75 z³	42	Rhönbräu Klosterbier	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+30.10.1997	Kanada	31,00 z³	16	Ikura	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+30.10.1997	USA	31,23 z³	15	Gumbär Gummibärchen	Leverling	Przedstawiciel handlowy	WA
+30.10.1997	Kanada	28,50 z³	5	Sirop d'érable	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+31.10.1997	Brazylia	7,00 z³	4	Filo Mix	Peacock	Przedstawiciel handlowy	WA
+31.10.1997	Brazylia	24,00 z³	6	Pâte chinois	Peacock	Przedstawiciel handlowy	WA
+31.10.1997	Brazylia	9,65 z³	12	Jack's New England Clam Chowder	Peacock	Przedstawiciel handlowy	WA
+03.11.1997	W³ochy	55,00 z³	10	Raclette Courdavault	Fuller	Wiceprezes ds. sprzeda¿y	WA
+03.11.1997	W³ochy	38,00 z³	10	Gnocchi di nonna Alice	Fuller	Wiceprezes ds. sprzeda¿y	WA
+03.11.1997	Wielka Brytania	21,00 z³	5	Queso Cabrales	Peacock	Przedstawiciel handlowy	WA
+03.11.1997	W³ochy	39,00 z³	20	Alice Mutton	Fuller	Wiceprezes ds. sprzeda¿y	WA
+03.11.1997	Wielka Brytania	22,00 z³	25	Chef Anton's Cajun Seasoning	Peacock	Przedstawiciel handlowy	WA
+04.11.1997	Brazylia	34,00 z³	15	Camembert Pierrot	Peacock	Przedstawiciel handlowy	WA
+04.11.1997	Brazylia	24,00 z³	12	Pâte chinois	Peacock	Przedstawiciel handlowy	WA
+04.11.1997	Brazylia	18,40 z³	6	Boston Crab Meat	Peacock	Przedstawiciel handlowy	WA
+04.11.1997	Wenezuela	18,00 z³	50	Chai	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+04.11.1997	Brazylia	25,89 z³	15	Nord-Ost Matjeshering	Peacock	Przedstawiciel handlowy	WA
+04.11.1997	Wenezuela	10,00 z³	30	Sir Rodney's Scones	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+04.11.1997	Wenezuela	16,25 z³	40	Valkoinen suklaa	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+05.11.1997	Francja	17,45 z³	15	Pavlova	Buchanan	Dyrektor ds. sprzeda¿y	
+05.11.1997	Francja	21,05 z³	10	Louisiana Fiery Hot Pepper Sauce	Buchanan	Dyrektor ds. sprzeda¿y	
+05.11.1997	Francja	12,50 z³	3	Gorgonzola Telino	Buchanan	Dyrektor ds. sprzeda¿y	
+06.11.1997	Szwajcaria	10,00 z³	40	Sir Rodney's Scones	King	Przedstawiciel handlowy	
+06.11.1997	Francja	18,00 z³	20	Lakkalikööri	Leverling	Przedstawiciel handlowy	WA
+06.11.1997	Szwajcaria	53,00 z³	30	Manjimup Dried Apples	King	Przedstawiciel handlowy	
+07.11.1997	Szwecja	45,60 z³	20	Rössle Sauerkraut	Davolio	Przedstawiciel handlowy	WA
+07.11.1997	Szwecja	23,25 z³	16	Tofu	Davolio	Przedstawiciel handlowy	WA
+07.11.1997	Brazylia	18,00 z³	20	Lakkalikööri	Fuller	Wiceprezes ds. sprzeda¿y	WA
+07.11.1997	Brazylia	25,89 z³	15	Nord-Ost Matjeshering	Fuller	Wiceprezes ds. sprzeda¿y	WA
+07.11.1997	Brazylia	25,00 z³	30	Grandma's Boysenberry Spread	Fuller	Wiceprezes ds. sprzeda¿y	WA
+07.11.1997	Szwecja	7,00 z³	25	Filo Mix	Davolio	Przedstawiciel handlowy	WA
+10.11.1997	USA	28,50 z³	20	Sirop d'érable	Suyama	Przedstawiciel handlowy	
+10.11.1997	USA	13,00 z³	2	Original Frankfurter grüne Soße	Suyama	Przedstawiciel handlowy	
+11.11.1997	Irlandia	21,05 z³	40	Louisiana Fiery Hot Pepper Sauce	Dodsworth	Przedstawiciel handlowy	
+11.11.1997	Francja	6,00 z³	4	Konbu	Fuller	Wiceprezes ds. sprzeda¿y	WA
+11.11.1997	Francja	9,65 z³	12	Jack's New England Clam Chowder	Fuller	Wiceprezes ds. sprzeda¿y	WA
+11.11.1997	Irlandia	7,75 z³	20	Rhönbräu Klosterbier	Dodsworth	Przedstawiciel handlowy	
+12.11.1997	Francja	19,00 z³	6	Inlagd Sill	Leverling	Przedstawiciel handlowy	WA
+12.11.1997	Francja	7,00 z³	18	Filo Mix	Leverling	Przedstawiciel handlowy	WA
+12.11.1997	Francja	17,45 z³	3	Pavlova	Fuller	Wiceprezes ds. sprzeda¿y	WA
+13.11.1997	USA	45,60 z³	5	Rössle Sauerkraut	Peacock	Przedstawiciel handlowy	WA
+13.11.1997	USA	38,00 z³	14	Gnocchi di nonna Alice	Peacock	Przedstawiciel handlowy	WA
+13.11.1997	USA	18,00 z³	35	Steeleye Stout	Peacock	Przedstawiciel handlowy	WA
+13.11.1997	USA	9,50 z³	40	Rogede sild	Peacock	Przedstawiciel handlowy	WA
+14.11.1997	Kanada	34,80 z³	35	Mozzarella di Giovanni	Leverling	Przedstawiciel handlowy	WA
+14.11.1997	Wielka Brytania	19,00 z³	15	Chang	Peacock	Przedstawiciel handlowy	WA
+14.11.1997	Kanada	34,00 z³	50	Camembert Pierrot	Leverling	Przedstawiciel handlowy	WA
+14.11.1997	Kanada	10,00 z³	20	Aniseed Syrup	Leverling	Przedstawiciel handlowy	WA
+17.11.1997	Dania	18,40 z³	50	Boston Crab Meat	Suyama	Przedstawiciel handlowy	
+17.11.1997	Wielka Brytania	12,00 z³	28	Spegesild	Davolio	Przedstawiciel handlowy	WA
+18.11.1997	Niemcy	62,50 z³	24	Carnarvon Tigers	Dodsworth	Przedstawiciel handlowy	
+18.11.1997	Niemcy	55,00 z³	45	Raclette Courdavault	Dodsworth	Przedstawiciel handlowy	
+18.11.1997	Niemcy	19,45 z³	16	Gula Malacca	Dodsworth	Przedstawiciel handlowy	
+18.11.1997	Niemcy	34,80 z³	7	Mozzarella di Giovanni	Dodsworth	Przedstawiciel handlowy	
+19.11.1997	Szwajcaria	14,00 z³	28	Singaporean Hokkien Fried Mee	Davolio	Przedstawiciel handlowy	WA
+19.11.1997	Austria	43,90 z³	9	Vegie-spread	Suyama	Przedstawiciel handlowy	
+19.11.1997	Szwajcaria	36,00 z³	40	Gudbrandsdalsost	Davolio	Przedstawiciel handlowy	WA
+19.11.1997	Austria	9,65 z³	35	Jack's New England Clam Chowder	Suyama	Przedstawiciel handlowy	
+19.11.1997	Szwajcaria	6,00 z³	6	Konbu	Davolio	Przedstawiciel handlowy	WA
+19.11.1997	Austria	12,50 z³	8	Gorgonzola Telino	Suyama	Przedstawiciel handlowy	
+19.11.1997	Szwajcaria	49,30 z³	9	Tarte au sucre	Davolio	Przedstawiciel handlowy	WA
+19.11.1997	Austria	36,00 z³	30	Gudbrandsdalsost	Suyama	Przedstawiciel handlowy	
+20.11.1997	USA	9,00 z³	44	Tunnbröd	Leverling	Przedstawiciel handlowy	WA
+20.11.1997	USA	38,00 z³	28	Gnocchi di nonna Alice	Leverling	Przedstawiciel handlowy	WA
+20.11.1997	Wielka Brytania	55,00 z³	6	Raclette Courdavault	Peacock	Przedstawiciel handlowy	WA
+20.11.1997	Wielka Brytania	18,00 z³	10	Lakkalikööri	Peacock	Przedstawiciel handlowy	WA
+20.11.1997	Wielka Brytania	38,00 z³	15	Gnocchi di nonna Alice	Peacock	Przedstawiciel handlowy	WA
+20.11.1997	USA	18,40 z³	40	Boston Crab Meat	Leverling	Przedstawiciel handlowy	WA
+21.11.1997	Finlandia	9,50 z³	40	Rogede sild	Dodsworth	Przedstawiciel handlowy	
+21.11.1997	Finlandia	55,00 z³	25	Raclette Courdavault	Dodsworth	Przedstawiciel handlowy	
+21.11.1997	Finlandia	23,25 z³	5	Tofu	Dodsworth	Przedstawiciel handlowy	
+24.11.1997	Szwajcaria	15,00 z³	15	Röd Kaviar	Leverling	Przedstawiciel handlowy	WA
+24.11.1997	Szwajcaria	31,23 z³	12	Gumbär Gummibärchen	Leverling	Przedstawiciel handlowy	WA
+24.11.1997	Szwajcaria	25,89 z³	30	Nord-Ost Matjeshering	Leverling	Przedstawiciel handlowy	WA
+24.11.1997	Wielka Brytania	18,00 z³	8	Chai	Fuller	Wiceprezes ds. sprzeda¿y	WA
+24.11.1997	Szwajcaria	16,25 z³	20	Valkoinen suklaa	Leverling	Przedstawiciel handlowy	WA
+24.11.1997	Wielka Brytania	36,00 z³	3	Gudbrandsdalsost	Fuller	Wiceprezes ds. sprzeda¿y	WA
+25.11.1997	W³ochy	9,50 z³	4	Rogede sild	Leverling	Przedstawiciel handlowy	WA
+25.11.1997	W³ochy	10,00 z³	5	Longlife Tofu	Leverling	Przedstawiciel handlowy	WA
+25.11.1997	W³ochy	18,40 z³	3	Boston Crab Meat	Suyama	Przedstawiciel handlowy	
+26.11.1997	Francja	9,50 z³	30	Zaanse koeken	Peacock	Przedstawiciel handlowy	WA
+26.11.1997	Francja	19,50 z³	14	Ravioli Angelo	Peacock	Przedstawiciel handlowy	WA
+26.11.1997	Francja	38,00 z³	30	Gnocchi di nonna Alice	Peacock	Przedstawiciel handlowy	WA
+26.11.1997	Francja	36,00 z³	25	Gudbrandsdalsost	Peacock	Przedstawiciel handlowy	WA
+27.11.1997	USA	12,50 z³	6	Scottish Longbreads	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+27.11.1997	USA	33,25 z³	24	Wimmers gute Semmelknödel	Suyama	Przedstawiciel handlowy	
+27.11.1997	USA	49,30 z³	30	Tarte au sucre	Suyama	Przedstawiciel handlowy	
+27.11.1997	USA	19,00 z³	20	Inlagd Sill	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+27.11.1997	USA	36,00 z³	20	Gudbrandsdalsost	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+27.11.1997	USA	14,00 z³	30	Sasquatch Ale	Suyama	Przedstawiciel handlowy	
+27.11.1997	USA	62,50 z³	21	Carnarvon Tigers	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+27.11.1997	USA	55,00 z³	7	Raclette Courdavault	Suyama	Przedstawiciel handlowy	
+28.11.1997	Szwajcaria	7,00 z³	60	Filo Mix	Leverling	Przedstawiciel handlowy	WA
+28.11.1997	Szwajcaria	31,23 z³	20	Gumbär Gummibärchen	Leverling	Przedstawiciel handlowy	WA
+28.11.1997	Szwajcaria	15,00 z³	40	Outback Lager	Leverling	Przedstawiciel handlowy	WA
+28.11.1997	Meksyk	32,00 z³	10	Mascarpone Fabioli	Leverling	Przedstawiciel handlowy	WA
+01.12.1997	Belgia	43,90 z³	40	Schoggi Schokolade	Peacock	Przedstawiciel handlowy	WA
+01.12.1997	Belgia	46,00 z³	30	Ipoh Coffee	Peacock	Przedstawiciel handlowy	WA
+01.12.1997	Belgia	14,00 z³	12	NuNuCa Nuß-Nougat-Creme	Peacock	Przedstawiciel handlowy	WA
+02.12.1997	Szwecja	9,50 z³	30	Zaanse koeken	Leverling	Przedstawiciel handlowy	WA
+02.12.1997	Szwecja	38,00 z³	60	Gnocchi di nonna Alice	Leverling	Przedstawiciel handlowy	WA
+02.12.1997	Szwecja	18,00 z³	16	Chartreuse verte	Leverling	Przedstawiciel handlowy	WA
+02.12.1997	USA	7,75 z³	18	Rhönbräu Klosterbier	Buchanan	Dyrektor ds. sprzeda¿y	
+02.12.1997	USA	14,00 z³	35	NuNuCa Nuß-Nougat-Creme	Buchanan	Dyrektor ds. sprzeda¿y	
+02.12.1997	Szwecja	53,00 z³	28	Manjimup Dried Apples	Leverling	Przedstawiciel handlowy	WA
+03.12.1997	Francja	4,50 z³	20	Guaraná Fantástica	Leverling	Przedstawiciel handlowy	WA
+03.12.1997	Austria	10,00 z³	20	Aniseed Syrup	Suyama	Przedstawiciel handlowy	
+03.12.1997	Austria	18,00 z³	130	Chartreuse verte	Suyama	Przedstawiciel handlowy	
+03.12.1997	Francja	10,00 z³	40	Sir Rodney's Scones	Leverling	Przedstawiciel handlowy	WA
+03.12.1997	Francja	21,00 z³	6	Gustaf's Knäckebröd	Leverling	Przedstawiciel handlowy	WA
+04.12.1997	Niemcy	21,05 z³	80	Louisiana Fiery Hot Pepper Sauce	Leverling	Przedstawiciel handlowy	WA
+05.12.1997	Belgia	14,00 z³	2	Singaporean Hokkien Fried Mee	Peacock	Przedstawiciel handlowy	WA
+05.12.1997	Niemcy	30,00 z³	35	Uncle Bob's Organic Dried Pears	Peacock	Przedstawiciel handlowy	WA
+05.12.1997	Niemcy	12,50 z³	40	Scottish Longbreads	Peacock	Przedstawiciel handlowy	WA
+05.12.1997	Niemcy	19,00 z³	40	Chang	Peacock	Przedstawiciel handlowy	WA
+08.12.1997	Dania	7,00 z³	15	Filo Mix	Leverling	Przedstawiciel handlowy	WA
+08.12.1997	Wielka Brytania	12,50 z³	50	Gorgonzola Telino	Leverling	Przedstawiciel handlowy	WA
+08.12.1997	Wielka Brytania	21,00 z³	4	Gustaf's Knäckebröd	Leverling	Przedstawiciel handlowy	WA
+08.12.1997	Wielka Brytania	34,00 z³	15	Camembert Pierrot	Leverling	Przedstawiciel handlowy	WA
+08.12.1997	Dania	9,65 z³	30	Jack's New England Clam Chowder	Leverling	Przedstawiciel handlowy	WA
+08.12.1997	Dania	49,30 z³	15	Tarte au sucre	Leverling	Przedstawiciel handlowy	WA
+08.12.1997	Dania	28,50 z³	20	Sirop d'érable	Leverling	Przedstawiciel handlowy	WA
+08.12.1997	Wielka Brytania	21,50 z³	12	Flotemysost	Leverling	Przedstawiciel handlowy	WA
+09.12.1997	Brazylia	21,00 z³	15	Queso Cabrales	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+10.12.1997	Niemcy	55,00 z³	25	Raclette Courdavault	Leverling	Przedstawiciel handlowy	WA
+10.12.1997	Niemcy	123,79 z³	18	Thüringer Rostbratwurst	Leverling	Przedstawiciel handlowy	WA
+10.12.1997	Austria	21,50 z³	16	Flotemysost	Dodsworth	Przedstawiciel handlowy	
+11.12.1997	Szwecja	17,00 z³	50	Louisiana Hot Spiced Okra	Peacock	Przedstawiciel handlowy	WA
+11.12.1997	Austria	39,00 z³	33	Alice Mutton	Davolio	Przedstawiciel handlowy	WA
+11.12.1997	Austria	7,75 z³	7	Rhönbräu Klosterbier	Davolio	Przedstawiciel handlowy	WA
+11.12.1997	Szwecja	12,50 z³	2	Gorgonzola Telino	Peacock	Przedstawiciel handlowy	WA
+11.12.1997	Austria	12,50 z³	70	Gorgonzola Telino	Davolio	Przedstawiciel handlowy	WA
+12.12.1997	USA	14,00 z³	3	Laughing Lumberjack Lager	King	Przedstawiciel handlowy	
+12.12.1997	USA	31,00 z³	6	Ikura	King	Przedstawiciel handlowy	
+15.12.1997	Austria	53,00 z³	120	Manjimup Dried Apples	Davolio	Przedstawiciel handlowy	WA
+15.12.1997	Austria	12,50 z³	16	Gorgonzola Telino	Davolio	Przedstawiciel handlowy	WA
+15.12.1997	Brazylia	14,00 z³	20	Singaporean Hokkien Fried Mee	King	Przedstawiciel handlowy	
+15.12.1997	Austria	9,50 z³	27	Rogede sild	Davolio	Przedstawiciel handlowy	WA
+15.12.1997	Austria	14,00 z³	12	Singaporean Hokkien Fried Mee	Davolio	Przedstawiciel handlowy	WA
+16.12.1997	Wenezuela	13,00 z³	15	Original Frankfurter grüne Soße	Fuller	Wiceprezes ds. sprzeda¿y	WA
+16.12.1997	Wenezuela	15,00 z³	35	Outback Lager	Fuller	Wiceprezes ds. sprzeda¿y	WA
+16.12.1997	Niemcy	49,30 z³	20	Tarte au sucre	Leverling	Przedstawiciel handlowy	WA
+16.12.1997	Szwecja	9,65 z³	10	Jack's New England Clam Chowder	Leverling	Przedstawiciel handlowy	WA
+16.12.1997	Niemcy	17,45 z³	20	Pavlova	Leverling	Przedstawiciel handlowy	WA
+17.12.1997	Finlandia	10,00 z³	35	Longlife Tofu	Fuller	Wiceprezes ds. sprzeda¿y	WA
+17.12.1997	Finlandia	38,00 z³	20	Gnocchi di nonna Alice	Fuller	Wiceprezes ds. sprzeda¿y	WA
+17.12.1997	Argentyna	12,50 z³	1	Gorgonzola Telino	Dodsworth	Przedstawiciel handlowy	
+17.12.1997	Finlandia	7,45 z³	3	Tourtiere	Fuller	Wiceprezes ds. sprzeda¿y	WA
+18.12.1997	Wenezuela	7,75 z³	10	Rhönbräu Klosterbier	Davolio	Przedstawiciel handlowy	WA
+18.12.1997	Wenezuela	31,00 z³	10	Ikura	Davolio	Przedstawiciel handlowy	WA
+18.12.1997	W³ochy	34,80 z³	30	Mozzarella di Giovanni	Peacock	Przedstawiciel handlowy	WA
+18.12.1997	W³ochy	18,00 z³	2	Chartreuse verte	Peacock	Przedstawiciel handlowy	WA
+18.12.1997	W³ochy	19,00 z³	30	Inlagd Sill	Peacock	Przedstawiciel handlowy	WA
+18.12.1997	Brazylia	263,50 z³	5	Côte de Blaye	Peacock	Przedstawiciel handlowy	WA
+18.12.1997	Brazylia	12,50 z³	10	Gorgonzola Telino	Peacock	Przedstawiciel handlowy	WA
+19.12.1997	Francja	123,79 z³	20	Thüringer Rostbratwurst	Fuller	Wiceprezes ds. sprzeda¿y	WA
+19.12.1997	Francja	19,00 z³	15	Chang	Fuller	Wiceprezes ds. sprzeda¿y	WA
+19.12.1997	Brazylia	40,00 z³	30	Northwoods Cranberry Sauce	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+19.12.1997	Brazylia	25,89 z³	15	Nord-Ost Matjeshering	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+19.12.1997	Brazylia	7,75 z³	42	Rhönbräu Klosterbier	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+22.12.1997	Francja	62,50 z³	30	Carnarvon Tigers	Davolio	Przedstawiciel handlowy	WA
+22.12.1997	Francja	12,50 z³	18	Scottish Longbreads	Davolio	Przedstawiciel handlowy	WA
+22.12.1997	Francja	18,00 z³	15	Steeleye Stout	Davolio	Przedstawiciel handlowy	WA
+22.12.1997	Niemcy	9,20 z³	50	Teatime Chocolate Biscuits	Davolio	Przedstawiciel handlowy	WA
+22.12.1997	Francja	43,90 z³	30	Vegie-spread	Davolio	Przedstawiciel handlowy	WA
+22.12.1997	Brazylia	38,00 z³	20	Gnocchi di nonna Alice	Suyama	Przedstawiciel handlowy	
+22.12.1997	Brazylia	30,00 z³	3	Uncle Bob's Organic Dried Pears	Suyama	Przedstawiciel handlowy	
+22.12.1997	Niemcy	7,75 z³	40	Rhönbräu Klosterbier	Davolio	Przedstawiciel handlowy	WA
+23.12.1997	Niemcy	9,65 z³	20	Jack's New England Clam Chowder	Suyama	Przedstawiciel handlowy	
+23.12.1997	Niemcy	123,79 z³	14	Thüringer Rostbratwurst	Suyama	Przedstawiciel handlowy	
+23.12.1997	Polska	19,00 z³	10	Chang	Davolio	Przedstawiciel handlowy	WA
+23.12.1997	Polska	7,45 z³	3	Tourtiere	Davolio	Przedstawiciel handlowy	WA
+23.12.1997	Polska	12,50 z³	15	Scottish Longbreads	Davolio	Przedstawiciel handlowy	WA
+24.12.1997	Brazylia	23,25 z³	15	Tofu	Suyama	Przedstawiciel handlowy	
+24.12.1997	Wielka Brytania	7,00 z³	8	Filo Mix	Leverling	Przedstawiciel handlowy	WA
+24.12.1997	Austria	17,45 z³	65	Pavlova	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+24.12.1997	Wielka Brytania	9,65 z³	14	Jack's New England Clam Chowder	Leverling	Przedstawiciel handlowy	WA
+24.12.1997	Brazylia	7,45 z³	6	Tourtiere	Suyama	Przedstawiciel handlowy	
+24.12.1997	Austria	39,00 z³	35	Alice Mutton	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+25.12.1997	Wenezuela	36,00 z³	24	Gudbrandsdalsost	Leverling	Przedstawiciel handlowy	WA
+25.12.1997	Wenezuela	33,25 z³	35	Wimmers gute Semmelknödel	Leverling	Przedstawiciel handlowy	WA
+25.12.1997	Wenezuela	19,45 z³	10	Gula Malacca	Leverling	Przedstawiciel handlowy	WA
+25.12.1997	Niemcy	21,00 z³	20	Queso Cabrales	King	Przedstawiciel handlowy	
+25.12.1997	Wenezuela	31,23 z³	21	Gumbär Gummibärchen	Leverling	Przedstawiciel handlowy	WA
+26.12.1997	Wielka Brytania	49,30 z³	2	Tarte au sucre	Fuller	Wiceprezes ds. sprzeda¿y	WA
+26.12.1997	Wielka Brytania	34,80 z³	10	Mozzarella di Giovanni	Fuller	Wiceprezes ds. sprzeda¿y	WA
+26.12.1997	Niemcy	55,00 z³	25	Raclette Courdavault	Dodsworth	Przedstawiciel handlowy	
+26.12.1997	Wielka Brytania	53,00 z³	10	Manjimup Dried Apples	Davolio	Przedstawiciel handlowy	WA
+26.12.1997	Niemcy	6,00 z³	20	Konbu	Dodsworth	Przedstawiciel handlowy	
+26.12.1997	Wielka Brytania	21,00 z³	50	Queso Cabrales	Davolio	Przedstawiciel handlowy	WA
+26.12.1997	Wielka Brytania	7,45 z³	7	Tourtiere	Davolio	Przedstawiciel handlowy	WA
+26.12.1997	Niemcy	4,50 z³	20	Guaraná Fantástica	Dodsworth	Przedstawiciel handlowy	
+29.12.1997	Dania	25,89 z³	25	Nord-Ost Matjeshering	Peacock	Przedstawiciel handlowy	WA
+29.12.1997	Dania	53,00 z³	30	Manjimup Dried Apples	Peacock	Przedstawiciel handlowy	WA
+29.12.1997	Hiszpania	123,79 z³	20	Thüringer Rostbratwurst	Peacock	Przedstawiciel handlowy	WA
+29.12.1997	Dania	49,30 z³	5	Tarte au sucre	Peacock	Przedstawiciel handlowy	WA
+29.12.1997	Dania	24,00 z³	60	Pâte chinois	Peacock	Przedstawiciel handlowy	WA
+29.12.1997	Hiszpania	39,00 z³	40	Alice Mutton	Peacock	Przedstawiciel handlowy	WA
+30.12.1997	Wielka Brytania	45,60 z³	24	Rössle Sauerkraut	Suyama	Przedstawiciel handlowy	
+30.12.1997	USA	14,00 z³	10	Sasquatch Ale	Fuller	Wiceprezes ds. sprzeda¿y	WA
+30.12.1997	Wielka Brytania	20,00 z³	4	Maxilaku	Suyama	Przedstawiciel handlowy	
+30.12.1997	Brazylia	14,00 z³	15	NuNuCa Nuß-Nougat-Creme	Peacock	Przedstawiciel handlowy	WA
+30.12.1997	USA	263,50 z³	10	Côte de Blaye	Fuller	Wiceprezes ds. sprzeda¿y	WA
+30.12.1997	Brazylia	9,20 z³	24	Teatime Chocolate Biscuits	Peacock	Przedstawiciel handlowy	WA
+30.12.1997	Brazylia	55,00 z³	15	Raclette Courdavault	Peacock	Przedstawiciel handlowy	WA
+30.12.1997	Wielka Brytania	31,00 z³	36	Ikura	Suyama	Przedstawiciel handlowy	
+31.12.1997	W³ochy	18,40 z³	1	Boston Crab Meat	Peacock	Przedstawiciel handlowy	WA
+31.12.1997	Francja	19,00 z³	20	Chang	Leverling	Przedstawiciel handlowy	WA
+31.12.1997	Francja	21,05 z³	2	Louisiana Fiery Hot Pepper Sauce	Leverling	Przedstawiciel handlowy	WA
+31.12.1997	Francja	10,00 z³	15	Longlife Tofu	Leverling	Przedstawiciel handlowy	WA
+01.01.1998	Kanada	14,00 z³	5	NuNuCa Nuß-Nougat-Creme	Fuller	Wiceprezes ds. sprzeda¿y	WA
+01.01.1998	USA	38,00 z³	20	Gnocchi di nonna Alice	Fuller	Wiceprezes ds. sprzeda¿y	WA
+01.01.1998	Brazylia	7,00 z³	20	Filo Mix	King	Przedstawiciel handlowy	
+01.01.1998	Kanada	15,00 z³	5	Outback Lager	Fuller	Wiceprezes ds. sprzeda¿y	WA
+01.01.1998	Kanada	6,00 z³	7	Konbu	Fuller	Wiceprezes ds. sprzeda¿y	WA
+01.01.1998	USA	18,00 z³	50	Lakkalikööri	Fuller	Wiceprezes ds. sprzeda¿y	WA
+02.01.1998	Wenezuela	9,00 z³	18	Tunnbröd	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+02.01.1998	W³ochy	13,00 z³	20	Original Frankfurter grüne Soße	Buchanan	Dyrektor ds. sprzeda¿y	
+02.01.1998	W³ochy	34,80 z³	40	Mozzarella di Giovanni	Buchanan	Dyrektor ds. sprzeda¿y	
+02.01.1998	Wenezuela	9,20 z³	15	Teatime Chocolate Biscuits	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+02.01.1998	Wenezuela	18,40 z³	30	Boston Crab Meat	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+02.01.1998	W³ochy	12,50 z³	16	Gorgonzola Telino	Buchanan	Dyrektor ds. sprzeda¿y	
+05.01.1998	USA	2,50 z³	16	Geitost	Fuller	Wiceprezes ds. sprzeda¿y	WA
+05.01.1998	Francja	46,00 z³	20	Ipoh Coffee	Leverling	Przedstawiciel handlowy	WA
+05.01.1998	Francja	12,75 z³	8	Chocolade	Leverling	Przedstawiciel handlowy	WA
+05.01.1998	Francja	9,65 z³	20	Jack's New England Clam Chowder	Leverling	Przedstawiciel handlowy	WA
+05.01.1998	Brazylia	12,00 z³	35	Spegesild	Davolio	Przedstawiciel handlowy	WA
+05.01.1998	Brazylia	19,00 z³	12	Chang	Davolio	Przedstawiciel handlowy	WA
+05.01.1998	Francja	28,50 z³	30	Sirop d'érable	Leverling	Przedstawiciel handlowy	WA
+06.01.1998	Niemcy	263,50 z³	30	Côte de Blaye	Leverling	Przedstawiciel handlowy	WA
+06.01.1998	Niemcy	18,40 z³	60	Boston Crab Meat	Leverling	Przedstawiciel handlowy	WA
+06.01.1998	USA	263,50 z³	30	Côte de Blaye	Peacock	Przedstawiciel handlowy	WA
+06.01.1998	Niemcy	31,23 z³	40	Gumbär Gummibärchen	Leverling	Przedstawiciel handlowy	WA
+06.01.1998	USA	49,30 z³	20	Tarte au sucre	Peacock	Przedstawiciel handlowy	WA
+06.01.1998	Niemcy	49,30 z³	25	Tarte au sucre	Leverling	Przedstawiciel handlowy	WA
+07.01.1998	W³ochy	9,65 z³	20	Jack's New England Clam Chowder	King	Przedstawiciel handlowy	
+07.01.1998	Argentyna	46,00 z³	7	Ipoh Coffee	Fuller	Wiceprezes ds. sprzeda¿y	WA
+07.01.1998	Argentyna	7,75 z³	20	Rhönbräu Klosterbier	Fuller	Wiceprezes ds. sprzeda¿y	WA
+07.01.1998	USA	38,00 z³	30	Gnocchi di nonna Alice	Leverling	Przedstawiciel handlowy	WA
+07.01.1998	W³ochy	32,00 z³	20	Mascarpone Fabioli	King	Przedstawiciel handlowy	
+08.01.1998	USA	15,00 z³	6	Outback Lager	Suyama	Przedstawiciel handlowy	
+08.01.1998	USA	49,30 z³	3	Tarte au sucre	Suyama	Przedstawiciel handlowy	
+08.01.1998	USA	53,00 z³	6	Manjimup Dried Apples	Davolio	Przedstawiciel handlowy	WA
+08.01.1998	USA	18,00 z³	20	Steeleye Stout	Davolio	Przedstawiciel handlowy	WA
+09.01.1998	Wenezuela	19,50 z³	15	Ravioli Angelo	Buchanan	Dyrektor ds. sprzeda¿y	
+09.01.1998	Wenezuela	13,00 z³	15	Original Frankfurter grüne Soße	Buchanan	Dyrektor ds. sprzeda¿y	
+09.01.1998	Szwecja	9,65 z³	12	Jack's New England Clam Chowder	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+09.01.1998	Niemcy	32,80 z³	20	Perth Pasties	Davolio	Przedstawiciel handlowy	WA
+09.01.1998	Szwecja	15,00 z³	9	Outback Lager	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+09.01.1998	Niemcy	31,23 z³	12	Gumbär Gummibärchen	Davolio	Przedstawiciel handlowy	WA
+09.01.1998	Wenezuela	21,00 z³	20	Queso Cabrales	Buchanan	Dyrektor ds. sprzeda¿y	
+09.01.1998	Wenezuela	55,00 z³	40	Raclette Courdavault	Buchanan	Dyrektor ds. sprzeda¿y	
+12.01.1998	Francja	19,50 z³	15	Ravioli Angelo	Suyama	Przedstawiciel handlowy	
+12.01.1998	Francja	18,00 z³	21	Chartreuse verte	Davolio	Przedstawiciel handlowy	WA
+12.01.1998	Francja	12,50 z³	35	Gorgonzola Telino	Suyama	Przedstawiciel handlowy	
+12.01.1998	Francja	31,00 z³	15	Ikura	Davolio	Przedstawiciel handlowy	WA
+13.01.1998	Brazylia	12,50 z³	24	Scottish Longbreads	Peacock	Przedstawiciel handlowy	WA
+13.01.1998	Brazylia	18,00 z³	28	Chartreuse verte	Peacock	Przedstawiciel handlowy	WA
+13.01.1998	Brazylia	25,00 z³	6	Grandma's Boysenberry Spread	Peacock	Przedstawiciel handlowy	WA
+13.01.1998	Wielka Brytania	40,00 z³	20	Northwoods Cranberry Sauce	Dodsworth	Przedstawiciel handlowy	
+13.01.1998	Wielka Brytania	19,00 z³	10	Chang	Dodsworth	Przedstawiciel handlowy	
+13.01.1998	Brazylia	34,00 z³	30	Camembert Pierrot	Peacock	Przedstawiciel handlowy	WA
+13.01.1998	Wielka Brytania	34,00 z³	21	Camembert Pierrot	Dodsworth	Przedstawiciel handlowy	
+13.01.1998	Argentyna	263,50 z³	2	Côte de Blaye	Dodsworth	Przedstawiciel handlowy	
+13.01.1998	Argentyna	81,00 z³	5	Sir Rodney's Marmalade	Dodsworth	Przedstawiciel handlowy	
+13.01.1998	Wielka Brytania	6,00 z³	10	Konbu	Dodsworth	Przedstawiciel handlowy	
+14.01.1998	Francja	6,00 z³	3	Konbu	Fuller	Wiceprezes ds. sprzeda¿y	WA
+14.01.1998	Francja	33,25 z³	3	Wimmers gute Semmelknödel	Fuller	Wiceprezes ds. sprzeda¿y	WA
+14.01.1998	Norwegia	9,20 z³	2	Teatime Chocolate Biscuits	Leverling	Przedstawiciel handlowy	WA
+14.01.1998	Francja	14,00 z³	10	NuNuCa Nuß-Nougat-Creme	Fuller	Wiceprezes ds. sprzeda¿y	WA
+14.01.1998	Norwegia	263,50 z³	8	Côte de Blaye	Leverling	Przedstawiciel handlowy	WA
+14.01.1998	Norwegia	46,00 z³	9	Ipoh Coffee	Leverling	Przedstawiciel handlowy	WA
+14.01.1998	Norwegia	18,00 z³	8	Steeleye Stout	Leverling	Przedstawiciel handlowy	WA
+14.01.1998	Francja	19,45 z³	16	Gula Malacca	Fuller	Wiceprezes ds. sprzeda¿y	WA
+15.01.1998	Brazylia	25,89 z³	20	Nord-Ost Matjeshering	Davolio	Przedstawiciel handlowy	WA
+15.01.1998	Brazylia	123,79 z³	8	Thüringer Rostbratwurst	Davolio	Przedstawiciel handlowy	WA
+15.01.1998	Niemcy	30,00 z³	20	Uncle Bob's Organic Dried Pears	Suyama	Przedstawiciel handlowy	
+15.01.1998	Niemcy	12,50 z³	9	Gorgonzola Telino	Suyama	Przedstawiciel handlowy	
+15.01.1998	Niemcy	13,00 z³	2	Original Frankfurter grüne Soße	Davolio	Przedstawiciel handlowy	WA
+15.01.1998	Niemcy	32,80 z³	9	Perth Pasties	Suyama	Przedstawiciel handlowy	
+15.01.1998	Niemcy	55,00 z³	15	Raclette Courdavault	Davolio	Przedstawiciel handlowy	WA
+16.01.1998	Szwecja	6,00 z³	6	Konbu	Dodsworth	Przedstawiciel handlowy	
+16.01.1998	Austria	19,50 z³	24	Ravioli Angelo	King	Przedstawiciel handlowy	
+16.01.1998	Austria	33,25 z³	30	Wimmers gute Semmelknödel	King	Przedstawiciel handlowy	
+16.01.1998	Austria	21,00 z³	52	Gustaf's Knäckebröd	King	Przedstawiciel handlowy	
+16.01.1998	Austria	18,00 z³	6	Steeleye Stout	King	Przedstawiciel handlowy	
+16.01.1998	Austria	34,00 z³	60	Camembert Pierrot	King	Przedstawiciel handlowy	
+16.01.1998	Szwecja	18,00 z³	21	Lakkalikööri	Dodsworth	Przedstawiciel handlowy	
+16.01.1998	Szwecja	9,50 z³	40	Zaanse koeken	Dodsworth	Przedstawiciel handlowy	
+16.01.1998	Szwecja	18,40 z³	25	Boston Crab Meat	Dodsworth	Przedstawiciel handlowy	
+19.01.1998	Brazylia	13,25 z³	30	Escargots de Bourgogne	Leverling	Przedstawiciel handlowy	WA
+19.01.1998	Brazylia	34,80 z³	15	Mozzarella di Giovanni	Leverling	Przedstawiciel handlowy	WA
+19.01.1998	Wenezuela	62,50 z³	25	Carnarvon Tigers	Leverling	Przedstawiciel handlowy	WA
+19.01.1998	Wenezuela	18,00 z³	4	Chai	Leverling	Przedstawiciel handlowy	WA
+19.01.1998	Wenezuela	18,00 z³	10	Chartreuse verte	Peacock	Przedstawiciel handlowy	WA
+19.01.1998	Wenezuela	14,00 z³	6	NuNuCa Nuß-Nougat-Creme	Peacock	Przedstawiciel handlowy	WA
+19.01.1998	Wenezuela	19,00 z³	50	Inlagd Sill	Leverling	Przedstawiciel handlowy	WA
+20.01.1998	Meksyk	46,00 z³	5	Ipoh Coffee	Davolio	Przedstawiciel handlowy	WA
+20.01.1998	Belgia	31,00 z³	16	Ikura	Buchanan	Dyrektor ds. sprzeda¿y	
+20.01.1998	Belgia	55,00 z³	50	Raclette Courdavault	Buchanan	Dyrektor ds. sprzeda¿y	
+20.01.1998	Belgia	38,00 z³	30	Gnocchi di nonna Alice	Buchanan	Dyrektor ds. sprzeda¿y	
+20.01.1998	Belgia	13,00 z³	15	Original Frankfurter grüne Soße	Buchanan	Dyrektor ds. sprzeda¿y	
+20.01.1998	Meksyk	21,00 z³	15	Queso Cabrales	Davolio	Przedstawiciel handlowy	WA
+20.01.1998	Meksyk	12,50 z³	20	Scottish Longbreads	Davolio	Przedstawiciel handlowy	WA
+20.01.1998	Meksyk	15,00 z³	12	Outback Lager	Davolio	Przedstawiciel handlowy	WA
+21.01.1998	Niemcy	18,00 z³	25	Steeleye Stout	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+21.01.1998	Niemcy	14,00 z³	42	Singaporean Hokkien Fried Mee	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+21.01.1998	Niemcy	33,25 z³	48	Wimmers gute Semmelknödel	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+21.01.1998	Niemcy	9,00 z³	70	Tunnbröd	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+21.01.1998	Francja	53,00 z³	4	Manjimup Dried Apples	Peacock	Przedstawiciel handlowy	WA
+21.01.1998	Austria	21,00 z³	35	Gustaf's Knäckebröd	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+21.01.1998	Niemcy	13,25 z³	60	Escargots de Bourgogne	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+22.01.1998	Belgia	10,00 z³	20	Longlife Tofu	Fuller	Wiceprezes ds. sprzeda¿y	WA
+22.01.1998	Belgia	15,00 z³	30	Outback Lager	Fuller	Wiceprezes ds. sprzeda¿y	WA
+22.01.1998	USA	9,50 z³	36	Rogede sild	Peacock	Przedstawiciel handlowy	WA
+22.01.1998	USA	9,20 z³	12	Teatime Chocolate Biscuits	Peacock	Przedstawiciel handlowy	WA
+22.01.1998	Belgia	22,00 z³	21	Chef Anton's Cajun Seasoning	Fuller	Wiceprezes ds. sprzeda¿y	WA
+22.01.1998	USA	18,00 z³	80	Chai	Peacock	Przedstawiciel handlowy	WA
+22.01.1998	USA	26,00 z³	60	Gravad lax	Peacock	Przedstawiciel handlowy	WA
+22.01.1998	USA	21,50 z³	55	Flotemysost	Peacock	Przedstawiciel handlowy	WA
+22.01.1998	USA	34,00 z³	45	Camembert Pierrot	Peacock	Przedstawiciel handlowy	WA
+23.01.1998	Francja	15,00 z³	30	Outback Lager	Davolio	Przedstawiciel handlowy	WA
+23.01.1998	Niemcy	10,00 z³	49	Aniseed Syrup	Dodsworth	Przedstawiciel handlowy	
+23.01.1998	Francja	14,00 z³	20	NuNuCa Nuß-Nougat-Creme	Davolio	Przedstawiciel handlowy	WA
+23.01.1998	Niemcy	31,23 z³	18	Gumbär Gummibärchen	Dodsworth	Przedstawiciel handlowy	
+23.01.1998	Francja	2,50 z³	4	Geitost	Davolio	Przedstawiciel handlowy	WA
+23.01.1998	Wielka Brytania	21,35 z³	30	Chef Anton's Gumbo Mix	King	Przedstawiciel handlowy	
+23.01.1998	Wielka Brytania	97,00 z³	3	Mishi Kobe Niku	King	Przedstawiciel handlowy	
+26.01.1998	Brazylia	19,00 z³	5	Chang	Buchanan	Dyrektor ds. sprzeda¿y	
+26.01.1998	Brazylia	19,50 z³	10	Ravioli Angelo	Buchanan	Dyrektor ds. sprzeda¿y	
+26.01.1998	Brazylia	55,00 z³	42	Raclette Courdavault	Buchanan	Dyrektor ds. sprzeda¿y	
+26.01.1998	Brazylia	14,00 z³	10	NuNuCa Nuß-Nougat-Creme	Buchanan	Dyrektor ds. sprzeda¿y	
+26.01.1998	USA	39,00 z³	6	Alice Mutton	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+26.01.1998	USA	49,30 z³	50	Tarte au sucre	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+26.01.1998	USA	19,00 z³	15	Chang	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+27.01.1998	USA	21,05 z³	15	Louisiana Fiery Hot Pepper Sauce	Leverling	Przedstawiciel handlowy	WA
+27.01.1998	Austria	31,00 z³	100	Ikura	Leverling	Przedstawiciel handlowy	WA
+27.01.1998	USA	38,00 z³	24	Gnocchi di nonna Alice	Leverling	Przedstawiciel handlowy	WA
+27.01.1998	Niemcy	62,50 z³	10	Carnarvon Tigers	Dodsworth	Przedstawiciel handlowy	
+27.01.1998	USA	12,50 z³	14	Gorgonzola Telino	Leverling	Przedstawiciel handlowy	WA
+27.01.1998	USA	17,45 z³	50	Pavlova	Leverling	Przedstawiciel handlowy	WA
+27.01.1998	Austria	6,00 z³	65	Konbu	Leverling	Przedstawiciel handlowy	WA
+28.01.1998	Meksyk	14,00 z³	20	Singaporean Hokkien Fried Mee	Leverling	Przedstawiciel handlowy	WA
+28.01.1998	Szwecja	123,79 z³	10	Thüringer Rostbratwurst	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+28.01.1998	Szwecja	10,00 z³	30	Aniseed Syrup	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+28.01.1998	Meksyk	19,00 z³	20	Chang	Leverling	Przedstawiciel handlowy	WA
+28.01.1998	Szwecja	31,23 z³	35	Gumbär Gummibärchen	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+29.01.1998	Francja	53,00 z³	3	Manjimup Dried Apples	Leverling	Przedstawiciel handlowy	WA
+29.01.1998	Francja	15,00 z³	4	Outback Lager	Fuller	Wiceprezes ds. sprzeda¿y	WA
+29.01.1998	Francja	30,00 z³	5	Uncle Bob's Organic Dried Pears	Fuller	Wiceprezes ds. sprzeda¿y	WA
+29.01.1998	Niemcy	4,50 z³	40	Guaraná Fantástica	Davolio	Przedstawiciel handlowy	WA
+29.01.1998	Niemcy	33,25 z³	30	Wimmers gute Semmelknödel	Davolio	Przedstawiciel handlowy	WA
+29.01.1998	Niemcy	7,45 z³	35	Tourtiere	Davolio	Przedstawiciel handlowy	WA
+29.01.1998	Francja	43,90 z³	10	Schoggi Schokolade	Fuller	Wiceprezes ds. sprzeda¿y	WA
+29.01.1998	Francja	18,00 z³	20	Lakkalikööri	Leverling	Przedstawiciel handlowy	WA
+30.01.1998	USA	62,50 z³	20	Carnarvon Tigers	Peacock	Przedstawiciel handlowy	WA
+30.01.1998	Niemcy	21,00 z³	25	Queso Cabrales	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+30.01.1998	USA	49,30 z³	3	Tarte au sucre	Peacock	Przedstawiciel handlowy	WA
+30.01.1998	Niemcy	7,00 z³	8	Filo Mix	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+30.01.1998	USA	2,50 z³	35	Geitost	Peacock	Przedstawiciel handlowy	WA
+30.01.1998	USA	10,00 z³	40	Sir Rodney's Scones	Peacock	Przedstawiciel handlowy	WA
+30.01.1998	USA	39,00 z³	42	Alice Mutton	Peacock	Przedstawiciel handlowy	WA
+02.02.1998	Niemcy	263,50 z³	60	Côte de Blaye	Fuller	Wiceprezes ds. sprzeda¿y	WA
+02.02.1998	Niemcy	18,00 z³	80	Chartreuse verte	Fuller	Wiceprezes ds. sprzeda¿y	WA
+02.02.1998	Wielka Brytania	18,00 z³	4	Steeleye Stout	Peacock	Przedstawiciel handlowy	WA
+02.02.1998	Wenezuela	13,25 z³	12	Escargots de Bourgogne	Peacock	Przedstawiciel handlowy	WA
+02.02.1998	Wielka Brytania	14,00 z³	15	Laughing Lumberjack Lager	Peacock	Przedstawiciel handlowy	WA
+02.02.1998	Wenezuela	18,00 z³	20	Chai	Peacock	Przedstawiciel handlowy	WA
+03.02.1998	USA	32,80 z³	3	Perth Pasties	Suyama	Przedstawiciel handlowy	
+03.02.1998	Szwecja	25,89 z³	40	Nord-Ost Matjeshering	Buchanan	Dyrektor ds. sprzeda¿y	
+03.02.1998	Szwecja	4,50 z³	6	Guaraná Fantástica	Buchanan	Dyrektor ds. sprzeda¿y	
+03.02.1998	Szwecja	19,00 z³	21	Chang	Buchanan	Dyrektor ds. sprzeda¿y	
+04.02.1998	Brazylia	20,00 z³	42	Maxilaku	King	Przedstawiciel handlowy	
+04.02.1998	Wielka Brytania	12,50 z³	20	Scottish Longbreads	Buchanan	Dyrektor ds. sprzeda¿y	
+04.02.1998	Brazylia	18,00 z³	30	Steeleye Stout	King	Przedstawiciel handlowy	
+04.02.1998	Wielka Brytania	21,00 z³	10	Queso Cabrales	Buchanan	Dyrektor ds. sprzeda¿y	
+04.02.1998	Brazylia	31,23 z³	20	Gumbär Gummibärchen	King	Przedstawiciel handlowy	
+04.02.1998	Polska	53,00 z³	2	Manjimup Dried Apples	Buchanan	Dyrektor ds. sprzeda¿y	
+04.02.1998	Wielka Brytania	9,00 z³	50	Tunnbröd	Buchanan	Dyrektor ds. sprzeda¿y	
+04.02.1998	Wielka Brytania	18,00 z³	40	Chai	Buchanan	Dyrektor ds. sprzeda¿y	
+04.02.1998	Polska	18,00 z³	3	Steeleye Stout	Buchanan	Dyrektor ds. sprzeda¿y	
+05.02.1998	Francja	25,00 z³	50	Grandma's Boysenberry Spread	Dodsworth	Przedstawiciel handlowy	
+05.02.1998	Francja	17,45 z³	12	Pavlova	Dodsworth	Przedstawiciel handlowy	
+05.02.1998	Hiszpania	24,00 z³	10	Pâte chinois	Buchanan	Dyrektor ds. sprzeda¿y	
+05.02.1998	Francja	39,00 z³	16	Alice Mutton	Dodsworth	Przedstawiciel handlowy	
+05.02.1998	Hiszpania	49,30 z³	20	Tarte au sucre	Buchanan	Dyrektor ds. sprzeda¿y	
+05.02.1998	Hiszpania	21,05 z³	21	Louisiana Fiery Hot Pepper Sauce	Buchanan	Dyrektor ds. sprzeda¿y	
+05.02.1998	Hiszpania	33,25 z³	15	Wimmers gute Semmelknödel	Buchanan	Dyrektor ds. sprzeda¿y	
+06.02.1998	Szwecja	9,50 z³	21	Zaanse koeken	Peacock	Przedstawiciel handlowy	WA
+06.02.1998	Finlandia	10,00 z³	20	Sir Rodney's Scones	Peacock	Przedstawiciel handlowy	WA
+06.02.1998	Szwecja	9,20 z³	25	Teatime Chocolate Biscuits	Peacock	Przedstawiciel handlowy	WA
+06.02.1998	Szwecja	20,00 z³	15	Maxilaku	Peacock	Przedstawiciel handlowy	WA
+06.02.1998	Finlandia	45,60 z³	3	Rössle Sauerkraut	Peacock	Przedstawiciel handlowy	WA
+06.02.1998	Hiszpania	31,00 z³	10	Ikura	Buchanan	Dyrektor ds. sprzeda¿y	
+09.02.1998	Brazylia	62,50 z³	25	Carnarvon Tigers	Davolio	Przedstawiciel handlowy	WA
+09.02.1998	Francja	12,00 z³	21	Spegesild	King	Przedstawiciel handlowy	
+09.02.1998	Francja	33,25 z³	20	Wimmers gute Semmelknödel	King	Przedstawiciel handlowy	
+09.02.1998	Brazylia	17,45 z³	30	Pavlova	Davolio	Przedstawiciel handlowy	WA
+10.02.1998	Finlandia	18,40 z³	12	Boston Crab Meat	Leverling	Przedstawiciel handlowy	WA
+10.02.1998	Szwecja	9,00 z³	30	Tunnbröd	King	Przedstawiciel handlowy	
+10.02.1998	Finlandia	21,05 z³	10	Louisiana Fiery Hot Pepper Sauce	Leverling	Przedstawiciel handlowy	WA
+10.02.1998	Szwecja	28,50 z³	30	Sirop d'érable	King	Przedstawiciel handlowy	
+10.02.1998	Szwecja	15,00 z³	50	Outback Lager	King	Przedstawiciel handlowy	
+10.02.1998	Finlandia	18,00 z³	10	Lakkalikööri	Leverling	Przedstawiciel handlowy	WA
+10.02.1998	Niemcy	81,00 z³	20	Sir Rodney's Marmalade	Peacock	Przedstawiciel handlowy	WA
+11.02.1998	USA	7,45 z³	32	Tourtiere	Peacock	Przedstawiciel handlowy	WA
+11.02.1998	USA	20,00 z³	20	Maxilaku	Peacock	Przedstawiciel handlowy	WA
+11.02.1998	Argentyna	15,00 z³	10	Röd Kaviar	Peacock	Przedstawiciel handlowy	WA
+11.02.1998	USA	14,00 z³	25	Singaporean Hokkien Fried Mee	Peacock	Przedstawiciel handlowy	WA
+12.02.1998	USA	4,50 z³	8	Guaraná Fantástica	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+12.02.1998	USA	21,05 z³	12	Louisiana Fiery Hot Pepper Sauce	Peacock	Przedstawiciel handlowy	WA
+12.02.1998	USA	38,00 z³	21	Gnocchi di nonna Alice	Peacock	Przedstawiciel handlowy	WA
+12.02.1998	Belgia	19,00 z³	20	Chang	Suyama	Przedstawiciel handlowy	
+12.02.1998	Belgia	4,50 z³	12	Guaraná Fantástica	Suyama	Przedstawiciel handlowy	
+12.02.1998	USA	10,00 z³	40	Sir Rodney's Scones	Peacock	Przedstawiciel handlowy	WA
+12.02.1998	Belgia	15,00 z³	30	Outback Lager	Suyama	Przedstawiciel handlowy	
+12.02.1998	Belgia	13,00 z³	25	Original Frankfurter grüne Soße	Suyama	Przedstawiciel handlowy	
+13.02.1998	Hiszpania	14,00 z³	5	NuNuCa Nuß-Nougat-Creme	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+13.02.1998	Brazylia	13,00 z³	40	Original Frankfurter grüne Soße	Davolio	Przedstawiciel handlowy	WA
+13.02.1998	Brazylia	12,50 z³	35	Gorgonzola Telino	Davolio	Przedstawiciel handlowy	WA
+13.02.1998	Brazylia	31,00 z³	70	Ikura	Davolio	Przedstawiciel handlowy	WA
+16.02.1998	Francja	14,00 z³	10	Sasquatch Ale	King	Przedstawiciel handlowy	
+16.02.1998	Hiszpania	12,50 z³	18	Scottish Longbreads	Davolio	Przedstawiciel handlowy	WA
+16.02.1998	USA	263,50 z³	40	Côte de Blaye	Dodsworth	Przedstawiciel handlowy	
+16.02.1998	Francja	9,65 z³	14	Jack's New England Clam Chowder	King	Przedstawiciel handlowy	
+16.02.1998	Hiszpania	19,00 z³	20	Chang	Davolio	Przedstawiciel handlowy	WA
+16.02.1998	USA	21,00 z³	40	Queso Cabrales	Dodsworth	Przedstawiciel handlowy	
+16.02.1998	Francja	39,00 z³	15	Alice Mutton	King	Przedstawiciel handlowy	
+17.02.1998	Belgia	55,00 z³	40	Raclette Courdavault	Peacock	Przedstawiciel handlowy	WA
+17.02.1998	Niemcy	25,89 z³	15	Nord-Ost Matjeshering	King	Przedstawiciel handlowy	
+18.02.1998	Austria	34,00 z³	100	Camembert Pierrot	Leverling	Przedstawiciel handlowy	WA
+18.02.1998	Niemcy	40,00 z³	30	Northwoods Cranberry Sauce	Dodsworth	Przedstawiciel handlowy	
+18.02.1998	Niemcy	123,79 z³	24	Thüringer Rostbratwurst	Dodsworth	Przedstawiciel handlowy	
+18.02.1998	Austria	4,50 z³	110	Guaraná Fantástica	Leverling	Przedstawiciel handlowy	WA
+18.02.1998	Niemcy	19,00 z³	20	Inlagd Sill	Dodsworth	Przedstawiciel handlowy	
+18.02.1998	USA	6,00 z³	28	Konbu	Davolio	Przedstawiciel handlowy	WA
+18.02.1998	Austria	18,40 z³	91	Boston Crab Meat	Leverling	Przedstawiciel handlowy	WA
+18.02.1998	USA	36,00 z³	50	Gudbrandsdalsost	Davolio	Przedstawiciel handlowy	WA
+18.02.1998	Austria	18,00 z³	45	Chartreuse verte	Leverling	Przedstawiciel handlowy	WA
+18.02.1998	Niemcy	25,89 z³	35	Nord-Ost Matjeshering	Dodsworth	Przedstawiciel handlowy	
+18.02.1998	USA	7,75 z³	120	Rhönbräu Klosterbier	Davolio	Przedstawiciel handlowy	WA
+18.02.1998	Niemcy	4,50 z³	10	Guaraná Fantástica	Dodsworth	Przedstawiciel handlowy	
+19.02.1998	Belgia	9,50 z³	15	Rogede sild	King	Przedstawiciel handlowy	
+19.02.1998	Irlandia	25,89 z³	36	Nord-Ost Matjeshering	Leverling	Przedstawiciel handlowy	WA
+19.02.1998	Irlandia	123,79 z³	80	Thüringer Rostbratwurst	Leverling	Przedstawiciel handlowy	WA
+19.02.1998	Belgia	38,00 z³	16	Gnocchi di nonna Alice	King	Przedstawiciel handlowy	
+20.02.1998	Brazylia	15,00 z³	3	Outback Lager	Davolio	Przedstawiciel handlowy	WA
+20.02.1998	Wenezuela	18,00 z³	8	Chartreuse verte	Buchanan	Dyrektor ds. sprzeda¿y	
+20.02.1998	Argentyna	6,00 z³	5	Konbu	Peacock	Przedstawiciel handlowy	WA
+23.02.1998	Szwecja	49,30 z³	6	Tarte au sucre	Davolio	Przedstawiciel handlowy	WA
+23.02.1998	Wenezuela	9,65 z³	30	Jack's New England Clam Chowder	Peacock	Przedstawiciel handlowy	WA
+23.02.1998	Wenezuela	21,50 z³	30	Flotemysost	Peacock	Przedstawiciel handlowy	WA
+23.02.1998	Szwecja	24,00 z³	30	Pâte chinois	Davolio	Przedstawiciel handlowy	WA
+24.02.1998	USA	49,30 z³	35	Tarte au sucre	Leverling	Przedstawiciel handlowy	WA
+24.02.1998	Brazylia	18,00 z³	20	Chai	Dodsworth	Przedstawiciel handlowy	
+24.02.1998	USA	13,25 z³	15	Escargots de Bourgogne	Leverling	Przedstawiciel handlowy	WA
+24.02.1998	Brazylia	21,05 z³	21	Louisiana Fiery Hot Pepper Sauce	Leverling	Przedstawiciel handlowy	WA
+24.02.1998	Brazylia	12,50 z³	20	Scottish Longbreads	Leverling	Przedstawiciel handlowy	WA
+24.02.1998	Brazylia	6,00 z³	40	Konbu	Leverling	Przedstawiciel handlowy	WA
+25.02.1998	Francja	7,75 z³	14	Rhönbräu Klosterbier	Suyama	Przedstawiciel handlowy	
+25.02.1998	Polska	28,50 z³	15	Sirop d'érable	Peacock	Przedstawiciel handlowy	WA
+26.02.1998	Hiszpania	18,00 z³	10	Chai	Leverling	Przedstawiciel handlowy	WA
+26.02.1998	Norwegia	17,45 z³	15	Pavlova	Davolio	Przedstawiciel handlowy	WA
+26.02.1998	Brazylia	13,25 z³	15	Escargots de Bourgogne	Peacock	Przedstawiciel handlowy	WA
+26.02.1998	Norwegia	30,00 z³	12	Uncle Bob's Organic Dried Pears	Davolio	Przedstawiciel handlowy	WA
+26.02.1998	Irlandia	123,79 z³	60	Thüringer Rostbratwurst	Fuller	Wiceprezes ds. sprzeda¿y	WA
+26.02.1998	Hiszpania	14,00 z³	15	Laughing Lumberjack Lager	Leverling	Przedstawiciel handlowy	WA
+26.02.1998	Brazylia	2,50 z³	40	Geitost	Peacock	Przedstawiciel handlowy	WA
+26.02.1998	W³ochy	30,00 z³	20	Uncle Bob's Organic Dried Pears	Peacock	Przedstawiciel handlowy	WA
+26.02.1998	Finlandia	20,00 z³	10	Maxilaku	Davolio	Przedstawiciel handlowy	WA
+26.02.1998	Hiszpania	39,00 z³	12	Alice Mutton	Leverling	Przedstawiciel handlowy	WA
+26.02.1998	Brazylia	22,00 z³	30	Chef Anton's Cajun Seasoning	Peacock	Przedstawiciel handlowy	WA
+26.02.1998	Irlandia	21,00 z³	40	Queso Cabrales	Fuller	Wiceprezes ds. sprzeda¿y	WA
+26.02.1998	W³ochy	7,00 z³	14	Filo Mix	Peacock	Przedstawiciel handlowy	WA
+26.02.1998	Norwegia	9,65 z³	5	Jack's New England Clam Chowder	Davolio	Przedstawiciel handlowy	WA
+26.02.1998	Finlandia	9,20 z³	12	Teatime Chocolate Biscuits	Davolio	Przedstawiciel handlowy	WA
+26.02.1998	Finlandia	28,50 z³	5	Sirop d'érable	Davolio	Przedstawiciel handlowy	WA
+27.02.1998	Meksyk	39,00 z³	10	Alice Mutton	Fuller	Wiceprezes ds. sprzeda¿y	WA
+27.02.1998	Argentyna	19,50 z³	20	Ravioli Angelo	Davolio	Przedstawiciel handlowy	WA
+27.02.1998	Meksyk	2,50 z³	30	Geitost	Fuller	Wiceprezes ds. sprzeda¿y	WA
+27.02.1998	Argentyna	17,45 z³	6	Pavlova	Davolio	Przedstawiciel handlowy	WA
+27.02.1998	Brazylia	21,50 z³	25	Flotemysost	Suyama	Przedstawiciel handlowy	
+27.02.1998	Argentyna	32,00 z³	6	Mascarpone Fabioli	Davolio	Przedstawiciel handlowy	WA
+27.02.1998	Meksyk	7,45 z³	10	Tourtiere	Fuller	Wiceprezes ds. sprzeda¿y	WA
+02.03.1998	Wenezuela	14,00 z³	24	NuNuCa Nuß-Nougat-Creme	Fuller	Wiceprezes ds. sprzeda¿y	WA
+02.03.1998	Kanada	18,00 z³	60	Chai	Leverling	Przedstawiciel handlowy	WA
+02.03.1998	Wenezuela	17,45 z³	24	Pavlova	Fuller	Wiceprezes ds. sprzeda¿y	WA
+02.03.1998	Wenezuela	18,40 z³	20	Boston Crab Meat	Fuller	Wiceprezes ds. sprzeda¿y	WA
+02.03.1998	Hiszpania	34,00 z³	10	Camembert Pierrot	Peacock	Przedstawiciel handlowy	WA
+02.03.1998	Hiszpania	25,89 z³	1	Nord-Ost Matjeshering	Peacock	Przedstawiciel handlowy	WA
+02.03.1998	Kanada	34,00 z³	25	Camembert Pierrot	Leverling	Przedstawiciel handlowy	WA
+03.03.1998	Wielka Brytania	16,25 z³	24	Valkoinen suklaa	Peacock	Przedstawiciel handlowy	WA
+03.03.1998	Francja	14,00 z³	10	Singaporean Hokkien Fried Mee	King	Przedstawiciel handlowy	
+03.03.1998	Brazylia	39,00 z³	15	Alice Mutton	Buchanan	Dyrektor ds. sprzeda¿y	
+03.03.1998	Dania	43,90 z³	40	Vegie-spread	Davolio	Przedstawiciel handlowy	WA
+03.03.1998	Francja	14,00 z³	24	Laughing Lumberjack Lager	King	Przedstawiciel handlowy	
+03.03.1998	Francja	46,00 z³	10	Ipoh Coffee	King	Przedstawiciel handlowy	
+03.03.1998	Brazylia	4,50 z³	35	Guaraná Fantástica	Buchanan	Dyrektor ds. sprzeda¿y	
+03.03.1998	Dania	18,00 z³	10	Steeleye Stout	Davolio	Przedstawiciel handlowy	WA
+04.03.1998	Szwecja	31,00 z³	20	Ikura	Leverling	Przedstawiciel handlowy	WA
+04.03.1998	Meksyk	9,20 z³	7	Teatime Chocolate Biscuits	Peacock	Przedstawiciel handlowy	WA
+04.03.1998	Meksyk	21,00 z³	2	Queso Cabrales	Peacock	Przedstawiciel handlowy	WA
+04.03.1998	Szwecja	45,60 z³	30	Rössle Sauerkraut	Leverling	Przedstawiciel handlowy	WA
+04.03.1998	Meksyk	6,00 z³	10	Konbu	Peacock	Przedstawiciel handlowy	WA
+04.03.1998	Meksyk	34,80 z³	10	Mozzarella di Giovanni	Peacock	Przedstawiciel handlowy	WA
+04.03.1998	Szwecja	7,75 z³	6	Rhönbräu Klosterbier	Leverling	Przedstawiciel handlowy	WA
+04.03.1998	Brazylia	7,00 z³	12	Filo Mix	Leverling	Przedstawiciel handlowy	WA
+04.03.1998	Brazylia	19,00 z³	25	Inlagd Sill	Leverling	Przedstawiciel handlowy	WA
+05.03.1998	Hiszpania	9,50 z³	5	Zaanse koeken	Davolio	Przedstawiciel handlowy	WA
+05.03.1998	Hiszpania	18,00 z³	5	Lakkalikööri	Davolio	Przedstawiciel handlowy	WA
+05.03.1998	Niemcy	10,00 z³	60	Sir Rodney's Scones	Suyama	Przedstawiciel handlowy	
+05.03.1998	Francja	18,00 z³	20	Lakkalikööri	Peacock	Przedstawiciel handlowy	WA
+05.03.1998	Niemcy	13,00 z³	15	Original Frankfurter grüne Soße	Suyama	Przedstawiciel handlowy	
+05.03.1998	Francja	7,00 z³	5	Filo Mix	Peacock	Przedstawiciel handlowy	WA
+05.03.1998	Francja	81,00 z³	5	Sir Rodney's Marmalade	Peacock	Przedstawiciel handlowy	WA
+05.03.1998	Niemcy	7,75 z³	49	Rhönbräu Klosterbier	Suyama	Przedstawiciel handlowy	
+06.03.1998	Szwajcaria	19,50 z³	30	Ravioli Angelo	Peacock	Przedstawiciel handlowy	WA
+06.03.1998	Szwajcaria	6,00 z³	42	Konbu	Peacock	Przedstawiciel handlowy	WA
+06.03.1998	Francja	49,30 z³	14	Tarte au sucre	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+06.03.1998	Francja	17,45 z³	30	Pavlova	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+06.03.1998	Francja	34,80 z³	16	Mozzarella di Giovanni	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+06.03.1998	Belgia	24,00 z³	25	Pâte chinois	Peacock	Przedstawiciel handlowy	WA
+06.03.1998	Belgia	43,90 z³	25	Schoggi Schokolade	Peacock	Przedstawiciel handlowy	WA
+06.03.1998	Belgia	10,00 z³	36	Sir Rodney's Scones	Peacock	Przedstawiciel handlowy	WA
+06.03.1998	Francja	7,75 z³	20	Rhönbräu Klosterbier	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+06.03.1998	Wielka Brytania	32,80 z³	2	Perth Pasties	Suyama	Przedstawiciel handlowy	
+06.03.1998	Wielka Brytania	28,50 z³	30	Sirop d'érable	Suyama	Przedstawiciel handlowy	
+06.03.1998	Belgia	13,25 z³	30	Escargots de Bourgogne	Peacock	Przedstawiciel handlowy	WA
+09.03.1998	USA	19,00 z³	30	Inlagd Sill	Leverling	Przedstawiciel handlowy	WA
+09.03.1998	Brazylia	18,00 z³	21	Chai	Peacock	Przedstawiciel handlowy	WA
+09.03.1998	Niemcy	25,00 z³	20	Grandma's Boysenberry Spread	Leverling	Przedstawiciel handlowy	WA
+09.03.1998	Brazylia	9,00 z³	8	Tunnbröd	Peacock	Przedstawiciel handlowy	WA
+09.03.1998	Brazylia	62,50 z³	4	Carnarvon Tigers	Peacock	Przedstawiciel handlowy	WA
+10.03.1998	Argentyna	14,00 z³	20	Sasquatch Ale	King	Przedstawiciel handlowy	
+10.03.1998	Niemcy	21,50 z³	35	Flotemysost	Leverling	Przedstawiciel handlowy	WA
+10.03.1998	Niemcy	6,00 z³	20	Konbu	Leverling	Przedstawiciel handlowy	WA
+10.03.1998	Argentyna	45,60 z³	8	Rössle Sauerkraut	King	Przedstawiciel handlowy	
+10.03.1998	Niemcy	46,00 z³	24	Ipoh Coffee	Leverling	Przedstawiciel handlowy	WA
+10.03.1998	W³ochy	14,00 z³	40	Laughing Lumberjack Lager	Fuller	Wiceprezes ds. sprzeda¿y	WA
+10.03.1998	Niemcy	34,00 z³	49	Camembert Pierrot	Leverling	Przedstawiciel handlowy	WA
+10.03.1998	W³ochy	19,00 z³	10	Chang	Fuller	Wiceprezes ds. sprzeda¿y	WA
+11.03.1998	Francja	6,00 z³	20	Konbu	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+11.03.1998	USA	12,50 z³	80	Scottish Longbreads	King	Przedstawiciel handlowy	
+11.03.1998	USA	12,50 z³	44	Gorgonzola Telino	King	Przedstawiciel handlowy	
+11.03.1998	USA	49,30 z³	30	Tarte au sucre	King	Przedstawiciel handlowy	
+11.03.1998	Wielka Brytania	21,00 z³	21	Gustaf's Knäckebröd	Peacock	Przedstawiciel handlowy	WA
+11.03.1998	Francja	30,00 z³	8	Uncle Bob's Organic Dried Pears	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+11.03.1998	USA	34,80 z³	50	Mozzarella di Giovanni	King	Przedstawiciel handlowy	
+11.03.1998	Wielka Brytania	12,00 z³	15	Spegesild	Peacock	Przedstawiciel handlowy	WA
+11.03.1998	Wielka Brytania	6,00 z³	15	Konbu	Peacock	Przedstawiciel handlowy	WA
+11.03.1998	W³ochy	20,00 z³	28	Maxilaku	Dodsworth	Przedstawiciel handlowy	
+12.03.1998	Dania	4,50 z³	25	Guaraná Fantástica	Davolio	Przedstawiciel handlowy	WA
+12.03.1998	Niemcy	12,50 z³	10	Gorgonzola Telino	Peacock	Przedstawiciel handlowy	WA
+12.03.1998	Kanada	38,00 z³	18	Gnocchi di nonna Alice	Suyama	Przedstawiciel handlowy	
+12.03.1998	Dania	31,00 z³	25	Ikura	Davolio	Przedstawiciel handlowy	WA
+12.03.1998	Dania	13,00 z³	40	Original Frankfurter grüne Soße	Davolio	Przedstawiciel handlowy	WA
+12.03.1998	Kanada	19,45 z³	18	Gula Malacca	Suyama	Przedstawiciel handlowy	
+12.03.1998	Kanada	21,00 z³	5	Queso Cabrales	Suyama	Przedstawiciel handlowy	
+12.03.1998	Niemcy	6,00 z³	20	Konbu	Peacock	Przedstawiciel handlowy	WA
+13.03.1998	Kanada	25,00 z³	12	Grandma's Boysenberry Spread	Fuller	Wiceprezes ds. sprzeda¿y	WA
+13.03.1998	Hiszpania	53,00 z³	40	Manjimup Dried Apples	Leverling	Przedstawiciel handlowy	WA
+13.03.1998	Kanada	39,00 z³	6	Alice Mutton	Fuller	Wiceprezes ds. sprzeda¿y	WA
+13.03.1998	Hiszpania	24,00 z³	4	Pâte chinois	Leverling	Przedstawiciel handlowy	WA
+13.03.1998	Wielka Brytania	55,00 z³	4	Raclette Courdavault	Leverling	Przedstawiciel handlowy	WA
+13.03.1998	Hiszpania	16,25 z³	9	Valkoinen suklaa	Leverling	Przedstawiciel handlowy	WA
+13.03.1998	Kanada	49,30 z³	60	Tarte au sucre	Fuller	Wiceprezes ds. sprzeda¿y	WA
+13.03.1998	Kanada	31,00 z³	30	Ikura	Fuller	Wiceprezes ds. sprzeda¿y	WA
+16.03.1998	Wielka Brytania	12,50 z³	50	Gorgonzola Telino	Dodsworth	Przedstawiciel handlowy	
+16.03.1998	Niemcy	45,60 z³	2	Rössle Sauerkraut	Davolio	Przedstawiciel handlowy	WA
+16.03.1998	Szwajcaria	2,50 z³	15	Geitost	Dodsworth	Przedstawiciel handlowy	
+16.03.1998	Szwajcaria	7,75 z³	50	Rhönbräu Klosterbier	Dodsworth	Przedstawiciel handlowy	
+16.03.1998	Niemcy	25,00 z³	16	Grandma's Boysenberry Spread	Davolio	Przedstawiciel handlowy	WA
+16.03.1998	Szwajcaria	9,65 z³	6	Jack's New England Clam Chowder	Dodsworth	Przedstawiciel handlowy	
+16.03.1998	W³ochy	22,00 z³	5	Chef Anton's Cajun Seasoning	Davolio	Przedstawiciel handlowy	WA
+16.03.1998	Wielka Brytania	81,00 z³	50	Sir Rodney's Marmalade	Dodsworth	Przedstawiciel handlowy	
+17.03.1998	Wenezuela	34,00 z³	24	Camembert Pierrot	Buchanan	Dyrektor ds. sprzeda¿y	
+17.03.1998	Niemcy	10,00 z³	12	Sir Rodney's Scones	Suyama	Przedstawiciel handlowy	
+17.03.1998	Wenezuela	9,50 z³	30	Rogede sild	Buchanan	Dyrektor ds. sprzeda¿y	
+17.03.1998	Wenezuela	12,50 z³	25	Gorgonzola Telino	Buchanan	Dyrektor ds. sprzeda¿y	
+17.03.1998	Niemcy	9,50 z³	14	Zaanse koeken	Suyama	Przedstawiciel handlowy	
+17.03.1998	Niemcy	53,00 z³	8	Manjimup Dried Apples	Suyama	Przedstawiciel handlowy	
+17.03.1998	Szwecja	7,75 z³	12	Rhönbräu Klosterbier	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+17.03.1998	Wenezuela	17,45 z³	28	Pavlova	Buchanan	Dyrektor ds. sprzeda¿y	
+18.03.1998	Wenezuela	33,25 z³	8	Wimmers gute Semmelknödel	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+18.03.1998	Wenezuela	25,89 z³	30	Nord-Ost Matjeshering	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+18.03.1998	Argentyna	34,80 z³	5	Mozzarella di Giovanni	King	Przedstawiciel handlowy	
+18.03.1998	Wenezuela	18,00 z³	40	Steeleye Stout	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+18.03.1998	Brazylia	7,75 z³	20	Rhönbräu Klosterbier	Suyama	Przedstawiciel handlowy	
+18.03.1998	Argentyna	21,35 z³	20	Chef Anton's Gumbo Mix	King	Przedstawiciel handlowy	
+18.03.1998	Argentyna	30,00 z³	6	Uncle Bob's Organic Dried Pears	King	Przedstawiciel handlowy	
+19.03.1998	Niemcy	30,00 z³	45	Uncle Bob's Organic Dried Pears	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+19.03.1998	Brazylia	7,00 z³	6	Filo Mix	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+19.03.1998	Wenezuela	4,50 z³	10	Guaraná Fantástica	Leverling	Przedstawiciel handlowy	WA
+19.03.1998	Wenezuela	9,65 z³	24	Jack's New England Clam Chowder	Leverling	Przedstawiciel handlowy	WA
+19.03.1998	Niemcy	6,00 z³	77	Konbu	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+19.03.1998	Niemcy	32,80 z³	20	Perth Pasties	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+19.03.1998	Niemcy	36,00 z³	9	Gudbrandsdalsost	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+19.03.1998	Brazylia	18,00 z³	60	Lakkalikööri	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+19.03.1998	Niemcy	18,00 z³	44	Lakkalikööri	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+19.03.1998	Portugalia	34,00 z³	2	Camembert Pierrot	Dodsworth	Przedstawiciel handlowy	
+20.03.1998	Francja	62,50 z³	6	Carnarvon Tigers	Leverling	Przedstawiciel handlowy	WA
+20.03.1998	USA	53,00 z³	16	Manjimup Dried Apples	Suyama	Przedstawiciel handlowy	
+20.03.1998	Szwajcaria	26,00 z³	8	Gravad lax	Peacock	Przedstawiciel handlowy	WA
+20.03.1998	Francja	263,50 z³	5	Côte de Blaye	Leverling	Przedstawiciel handlowy	WA
+20.03.1998	Szwajcaria	49,30 z³	12	Tarte au sucre	Peacock	Przedstawiciel handlowy	WA
+20.03.1998	Szwajcaria	38,00 z³	12	Gnocchi di nonna Alice	Peacock	Przedstawiciel handlowy	WA
+20.03.1998	Francja	36,00 z³	10	Gudbrandsdalsost	Leverling	Przedstawiciel handlowy	WA
+23.03.1998	Austria	38,00 z³	30	Queso Manchego La Pastora	Davolio	Przedstawiciel handlowy	WA
+23.03.1998	Niemcy	9,20 z³	12	Teatime Chocolate Biscuits	Fuller	Wiceprezes ds. sprzeda¿y	WA
+23.03.1998	Austria	33,25 z³	4	Wimmers gute Semmelknödel	Davolio	Przedstawiciel handlowy	WA
+23.03.1998	Niemcy	20,00 z³	40	Maxilaku	Fuller	Wiceprezes ds. sprzeda¿y	WA
+23.03.1998	Brazylia	12,00 z³	9	Spegesild	Davolio	Przedstawiciel handlowy	WA
+23.03.1998	Austria	4,50 z³	30	Guaraná Fantástica	Davolio	Przedstawiciel handlowy	WA
+24.03.1998	Francja	9,65 z³	6	Jack's New England Clam Chowder	Suyama	Przedstawiciel handlowy	
+24.03.1998	Francja	31,23 z³	5	Gumbär Gummibärchen	Suyama	Przedstawiciel handlowy	
+24.03.1998	Hiszpania	7,00 z³	40	Filo Mix	Dodsworth	Przedstawiciel handlowy	
+24.03.1998	Francja	2,50 z³	7	Geitost	Peacock	Przedstawiciel handlowy	WA
+24.03.1998	Francja	39,00 z³	6	Alice Mutton	Peacock	Przedstawiciel handlowy	WA
+24.03.1998	Francja	7,75 z³	10	Rhönbräu Klosterbier	Suyama	Przedstawiciel handlowy	
+24.03.1998	Francja	123,79 z³	14	Thüringer Rostbratwurst	Fuller	Wiceprezes ds. sprzeda¿y	WA
+25.03.1998	USA	43,90 z³	10	Vegie-spread	Leverling	Przedstawiciel handlowy	WA
+25.03.1998	Wenezuela	45,60 z³	20	Rössle Sauerkraut	Davolio	Przedstawiciel handlowy	WA
+25.03.1998	Kanada	7,75 z³	10	Rhönbräu Klosterbier	Davolio	Przedstawiciel handlowy	WA
+25.03.1998	Kanada	40,00 z³	16	Northwoods Cranberry Sauce	Davolio	Przedstawiciel handlowy	WA
+26.03.1998	Szwecja	43,90 z³	20	Vegie-spread	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+26.03.1998	Austria	38,00 z³	20	Queso Manchego La Pastora	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+26.03.1998	Austria	43,90 z³	30	Schoggi Schokolade	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+26.03.1998	Austria	12,50 z³	24	Gorgonzola Telino	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+26.03.1998	Szwecja	18,00 z³	30	Chartreuse verte	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+26.03.1998	Belgia	18,40 z³	10	Boston Crab Meat	Dodsworth	Przedstawiciel handlowy	
+26.03.1998	Belgia	19,45 z³	6	Gula Malacca	Dodsworth	Przedstawiciel handlowy	
+26.03.1998	Szwecja	53,00 z³	10	Manjimup Dried Apples	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+26.03.1998	Belgia	10,00 z³	40	Sir Rodney's Scones	Dodsworth	Przedstawiciel handlowy	
+26.03.1998	Belgia	40,00 z³	20	Northwoods Cranberry Sauce	Dodsworth	Przedstawiciel handlowy	
+26.03.1998	Austria	4,50 z³	80	Guaraná Fantástica	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+26.03.1998	Austria	43,90 z³	35	Vegie-spread	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+26.03.1998	Austria	30,00 z³	18	Uncle Bob's Organic Dried Pears	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+26.03.1998	Szwecja	9,50 z³	30	Zaanse koeken	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+27.03.1998	Kanada	30,00 z³	20	Uncle Bob's Organic Dried Pears	Fuller	Wiceprezes ds. sprzeda¿y	WA
+27.03.1998	Brazylia	263,50 z³	60	Côte de Blaye	Davolio	Przedstawiciel handlowy	WA
+27.03.1998	Szwecja	7,75 z³	40	Rhönbräu Klosterbier	Peacock	Przedstawiciel handlowy	WA
+27.03.1998	USA	6,00 z³	84	Konbu	Fuller	Wiceprezes ds. sprzeda¿y	WA
+27.03.1998	USA	19,50 z³	15	Ravioli Angelo	Fuller	Wiceprezes ds. sprzeda¿y	WA
+27.03.1998	Kanada	46,00 z³	9	Ipoh Coffee	Fuller	Wiceprezes ds. sprzeda¿y	WA
+30.03.1998	Irlandia	17,45 z³	36	Pavlova	Fuller	Wiceprezes ds. sprzeda¿y	WA
+30.03.1998	USA	19,00 z³	40	Inlagd Sill	Davolio	Przedstawiciel handlowy	WA
+30.03.1998	Argentyna	81,00 z³	15	Sir Rodney's Marmalade	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+30.03.1998	Argentyna	13,00 z³	15	Original Frankfurter grüne Soße	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+30.03.1998	USA	4,50 z³	20	Guaraná Fantástica	Davolio	Przedstawiciel handlowy	WA
+30.03.1998	USA	17,45 z³	55	Pavlova	Davolio	Przedstawiciel handlowy	WA
+30.03.1998	Argentyna	18,00 z³	10	Lakkalikööri	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+30.03.1998	Irlandia	62,50 z³	8	Carnarvon Tigers	Fuller	Wiceprezes ds. sprzeda¿y	WA
+30.03.1998	Irlandia	32,00 z³	35	Mascarpone Fabioli	Fuller	Wiceprezes ds. sprzeda¿y	WA
+30.03.1998	Argentyna	21,00 z³	30	Queso Cabrales	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+31.03.1998	Wielka Brytania	46,00 z³	6	Ipoh Coffee	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+31.03.1998	USA	49,30 z³	40	Tarte au sucre	Leverling	Przedstawiciel handlowy	WA
+31.03.1998	USA	30,00 z³	60	Uncle Bob's Organic Dried Pears	Leverling	Przedstawiciel handlowy	WA
+31.03.1998	Wielka Brytania	30,00 z³	60	Uncle Bob's Organic Dried Pears	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+31.03.1998	Brazylia	25,00 z³	40	Grandma's Boysenberry Spread	Fuller	Wiceprezes ds. sprzeda¿y	WA
+31.03.1998	Wielka Brytania	34,80 z³	20	Mozzarella di Giovanni	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+31.03.1998	Brazylia	21,00 z³	15	Queso Cabrales	Fuller	Wiceprezes ds. sprzeda¿y	WA
+31.03.1998	Brazylia	9,65 z³	4	Jack's New England Clam Chowder	Fuller	Wiceprezes ds. sprzeda¿y	WA
+01.04.1998	Niemcy	19,00 z³	50	Chang	Davolio	Przedstawiciel handlowy	WA
+01.04.1998	Austria	24,00 z³	65	Pâte chinois	Fuller	Wiceprezes ds. sprzeda¿y	WA
+01.04.1998	Austria	28,50 z³	66	Sirop d'érable	Fuller	Wiceprezes ds. sprzeda¿y	WA
+01.04.1998	Austria	14,00 z³	60	Sasquatch Ale	Fuller	Wiceprezes ds. sprzeda¿y	WA
+01.04.1998	Niemcy	15,00 z³	20	Outback Lager	Davolio	Przedstawiciel handlowy	WA
+01.04.1998	Szwecja	123,79 z³	50	Thüringer Rostbratwurst	King	Przedstawiciel handlowy	
+01.04.1998	Niemcy	18,00 z³	90	Lakkalikööri	Davolio	Przedstawiciel handlowy	WA
+01.04.1998	USA	34,80 z³	2	Mozzarella di Giovanni	Davolio	Przedstawiciel handlowy	WA
+01.04.1998	Szwecja	9,65 z³	35	Jack's New England Clam Chowder	King	Przedstawiciel handlowy	
+01.04.1998	Austria	10,00 z³	65	Sir Rodney's Scones	Fuller	Wiceprezes ds. sprzeda¿y	WA
+02.04.1998	Meksyk	53,00 z³	20	Manjimup Dried Apples	Davolio	Przedstawiciel handlowy	WA
+02.04.1998	Meksyk	34,00 z³	4	Camembert Pierrot	Davolio	Przedstawiciel handlowy	WA
+02.04.1998	Dania	55,00 z³	18	Raclette Courdavault	Fuller	Wiceprezes ds. sprzeda¿y	WA
+02.04.1998	Niemcy	14,00 z³	40	Singaporean Hokkien Fried Mee	Peacock	Przedstawiciel handlowy	WA
+03.04.1998	Polska	28,50 z³	7	Sirop d'érable	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+03.04.1998	Wenezuela	7,00 z³	20	Filo Mix	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+03.04.1998	Wenezuela	32,00 z³	50	Mascarpone Fabioli	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+03.04.1998	Niemcy	9,65 z³	20	Jack's New England Clam Chowder	Suyama	Przedstawiciel handlowy	
+03.04.1998	Polska	7,75 z³	30	Rhönbräu Klosterbier	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+03.04.1998	Wenezuela	12,00 z³	20	Spegesild	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+03.04.1998	Polska	4,50 z³	12	Guaraná Fantástica	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+03.04.1998	Polska	10,00 z³	20	Longlife Tofu	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+03.04.1998	Niemcy	13,00 z³	21	Original Frankfurter grüne Soße	Suyama	Przedstawiciel handlowy	
+03.04.1998	Niemcy	53,00 z³	15	Manjimup Dried Apples	Suyama	Przedstawiciel handlowy	
+06.04.1998	USA	13,00 z³	30	Original Frankfurter grüne Soße	Fuller	Wiceprezes ds. sprzeda¿y	WA
+06.04.1998	USA	18,00 z³	4	Chai	Leverling	Przedstawiciel handlowy	WA
+06.04.1998	USA	7,00 z³	10	Filo Mix	Leverling	Przedstawiciel handlowy	WA
+06.04.1998	Szwecja	12,00 z³	25	Spegesild	Fuller	Wiceprezes ds. sprzeda¿y	WA
+06.04.1998	USA	18,00 z³	15	Steeleye Stout	Peacock	Przedstawiciel handlowy	WA
+06.04.1998	USA	4,50 z³	30	Guaraná Fantástica	Fuller	Wiceprezes ds. sprzeda¿y	WA
+06.04.1998	Szwecja	21,00 z³	25	Gustaf's Knäckebröd	Fuller	Wiceprezes ds. sprzeda¿y	WA
+06.04.1998	USA	14,00 z³	24	Singaporean Hokkien Fried Mee	Peacock	Przedstawiciel handlowy	WA
+06.04.1998	USA	18,40 z³	10	Boston Crab Meat	Leverling	Przedstawiciel handlowy	WA
+06.04.1998	Szwecja	24,00 z³	6	Pâte chinois	Fuller	Wiceprezes ds. sprzeda¿y	WA
+06.04.1998	USA	22,00 z³	25	Chef Anton's Cajun Seasoning	Fuller	Wiceprezes ds. sprzeda¿y	WA
+06.04.1998	Szwecja	30,00 z³	60	Uncle Bob's Organic Dried Pears	Fuller	Wiceprezes ds. sprzeda¿y	WA
+06.04.1998	USA	6,00 z³	56	Konbu	Peacock	Przedstawiciel handlowy	WA
+06.04.1998	USA	24,00 z³	40	Pâte chinois	Peacock	Przedstawiciel handlowy	WA
+07.04.1998	Belgia	31,23 z³	6	Gumbär Gummibärchen	Leverling	Przedstawiciel handlowy	WA
+07.04.1998	Finlandia	55,00 z³	10	Raclette Courdavault	Fuller	Wiceprezes ds. sprzeda¿y	WA
+07.04.1998	Belgia	18,00 z³	6	Lakkalikööri	Leverling	Przedstawiciel handlowy	WA
+07.04.1998	Finlandia	18,00 z³	2	Chai	Fuller	Wiceprezes ds. sprzeda¿y	WA
+07.04.1998	USA	123,79 z³	2	Thüringer Rostbratwurst	Leverling	Przedstawiciel handlowy	WA
+07.04.1998	USA	18,00 z³	8	Chai	Leverling	Przedstawiciel handlowy	WA
+08.04.1998	Hiszpania	4,50 z³	12	Guaraná Fantástica	Fuller	Wiceprezes ds. sprzeda¿y	WA
+08.04.1998	Portugalia	123,79 z³	10	Thüringer Rostbratwurst	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+08.04.1998	Portugalia	40,00 z³	30	Northwoods Cranberry Sauce	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+08.04.1998	Hiszpania	34,00 z³	9	Camembert Pierrot	Fuller	Wiceprezes ds. sprzeda¿y	WA
+08.04.1998	Portugalia	14,00 z³	14	Singaporean Hokkien Fried Mee	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+08.04.1998	Hiszpania	19,00 z³	18	Inlagd Sill	Fuller	Wiceprezes ds. sprzeda¿y	WA
+08.04.1998	Austria	14,00 z³	90	Sasquatch Ale	King	Przedstawiciel handlowy	
+08.04.1998	Austria	21,50 z³	21	Flotemysost	King	Przedstawiciel handlowy	
+08.04.1998	Austria	45,60 z³	70	Rössle Sauerkraut	King	Przedstawiciel handlowy	
+09.04.1998	W³ochy	30,00 z³	20	Uncle Bob's Organic Dried Pears	Fuller	Wiceprezes ds. sprzeda¿y	WA
+09.04.1998	Hiszpania	14,00 z³	4	Singaporean Hokkien Fried Mee	Fuller	Wiceprezes ds. sprzeda¿y	WA
+09.04.1998	Hiszpania	9,50 z³	20	Rogede sild	Fuller	Wiceprezes ds. sprzeda¿y	WA
+09.04.1998	W³ochy	4,50 z³	10	Guaraná Fantástica	Fuller	Wiceprezes ds. sprzeda¿y	WA
+09.04.1998	Hiszpania	12,50 z³	2	Scottish Longbreads	Fuller	Wiceprezes ds. sprzeda¿y	WA
+09.04.1998	Niemcy	34,00 z³	36	Camembert Pierrot	Davolio	Przedstawiciel handlowy	WA
+09.04.1998	Niemcy	9,20 z³	50	Teatime Chocolate Biscuits	Davolio	Przedstawiciel handlowy	WA
+09.04.1998	Niemcy	21,50 z³	60	Flotemysost	Davolio	Przedstawiciel handlowy	WA
+09.04.1998	Niemcy	21,50 z³	20	Flotemysost	Leverling	Przedstawiciel handlowy	WA
+09.04.1998	Hiszpania	9,00 z³	10	Tunnbröd	Fuller	Wiceprezes ds. sprzeda¿y	WA
+09.04.1998	Niemcy	13,25 z³	40	Escargots de Bourgogne	Leverling	Przedstawiciel handlowy	WA
+10.04.1998	Wielka Brytania	12,50 z³	15	Gorgonzola Telino	Dodsworth	Przedstawiciel handlowy	
+10.04.1998	Wenezuela	9,65 z³	28	Jack's New England Clam Chowder	Fuller	Wiceprezes ds. sprzeda¿y	WA
+10.04.1998	Norwegia	25,89 z³	15	Nord-Ost Matjeshering	Fuller	Wiceprezes ds. sprzeda¿y	WA
+10.04.1998	Wielka Brytania	19,00 z³	16	Inlagd Sill	Dodsworth	Przedstawiciel handlowy	
+10.04.1998	Norwegia	13,00 z³	18	Original Frankfurter grüne Soße	Fuller	Wiceprezes ds. sprzeda¿y	WA
+13.04.1998	USA	62,50 z³	10	Carnarvon Tigers	Peacock	Przedstawiciel handlowy	WA
+13.04.1998	Argentyna	20,00 z³	2	Maxilaku	Suyama	Przedstawiciel handlowy	
+13.04.1998	Austria	10,00 z³	25	Aniseed Syrup	Dodsworth	Przedstawiciel handlowy	
+13.04.1998	Austria	55,00 z³	110	Raclette Courdavault	Dodsworth	Przedstawiciel handlowy	
+13.04.1998	USA	38,00 z³	20	Queso Manchego La Pastora	Peacock	Przedstawiciel handlowy	WA
+13.04.1998	USA	38,00 z³	5	Gnocchi di nonna Alice	Peacock	Przedstawiciel handlowy	WA
+13.04.1998	Argentyna	12,00 z³	3	Spegesild	Suyama	Przedstawiciel handlowy	
+13.04.1998	Austria	15,00 z³	30	Outback Lager	Dodsworth	Przedstawiciel handlowy	
+14.04.1998	Wielka Brytania	46,00 z³	30	Ipoh Coffee	Davolio	Przedstawiciel handlowy	WA
+14.04.1998	Niemcy	34,80 z³	35	Mozzarella di Giovanni	Leverling	Przedstawiciel handlowy	WA
+14.04.1998	Niemcy	53,00 z³	44	Manjimup Dried Apples	Leverling	Przedstawiciel handlowy	WA
+14.04.1998	Brazylia	36,00 z³	30	Gudbrandsdalsost	Dodsworth	Przedstawiciel handlowy	
+14.04.1998	Niemcy	19,00 z³	11	Chang	Leverling	Przedstawiciel handlowy	WA
+14.04.1998	Wielka Brytania	30,00 z³	4	Uncle Bob's Organic Dried Pears	Davolio	Przedstawiciel handlowy	WA
+14.04.1998	Niemcy	31,00 z³	24	Ikura	Fuller	Wiceprezes ds. sprzeda¿y	WA
+14.04.1998	Brazylia	9,20 z³	35	Teatime Chocolate Biscuits	Dodsworth	Przedstawiciel handlowy	
+14.04.1998	Niemcy	81,00 z³	15	Sir Rodney's Marmalade	Leverling	Przedstawiciel handlowy	WA
+14.04.1998	Niemcy	31,23 z³	63	Gumbär Gummibärchen	Leverling	Przedstawiciel handlowy	WA
+15.04.1998	Wielka Brytania	2,50 z³	30	Geitost	Peacock	Przedstawiciel handlowy	WA
+15.04.1998	Wielka Brytania	31,23 z³	12	Gumbär Gummibärchen	Peacock	Przedstawiciel handlowy	WA
+15.04.1998	W³ochy	53,00 z³	10	Manjimup Dried Apples	Peacock	Przedstawiciel handlowy	WA
+15.04.1998	W³ochy	62,50 z³	8	Carnarvon Tigers	Peacock	Przedstawiciel handlowy	WA
+15.04.1998	Wielka Brytania	21,05 z³	21	Louisiana Fiery Hot Pepper Sauce	Peacock	Przedstawiciel handlowy	WA
+15.04.1998	Wielka Brytania	21,50 z³	50	Flotemysost	Peacock	Przedstawiciel handlowy	WA
+15.04.1998	Finlandia	18,00 z³	10	Chai	Suyama	Przedstawiciel handlowy	
+15.04.1998	Finlandia	6,00 z³	20	Konbu	Suyama	Przedstawiciel handlowy	
+16.04.1998	Niemcy	55,00 z³	24	Raclette Courdavault	Fuller	Wiceprezes ds. sprzeda¿y	WA
+16.04.1998	Szwajcaria	38,00 z³	20	Gnocchi di nonna Alice	Peacock	Przedstawiciel handlowy	WA
+16.04.1998	Kanada	49,30 z³	21	Tarte au sucre	Davolio	Przedstawiciel handlowy	WA
+16.04.1998	Kanada	4,50 z³	30	Guaraná Fantástica	Davolio	Przedstawiciel handlowy	WA
+16.04.1998	Niemcy	24,00 z³	35	Pâte chinois	Fuller	Wiceprezes ds. sprzeda¿y	WA
+16.04.1998	Szwajcaria	43,90 z³	12	Vegie-spread	Peacock	Przedstawiciel handlowy	WA
+17.04.1998	Szwajcaria	36,00 z³	36	Gudbrandsdalsost	King	Przedstawiciel handlowy	
+17.04.1998	USA	4,50 z³	21	Guaraná Fantástica	Suyama	Przedstawiciel handlowy	
+17.04.1998	USA	21,35 z³	70	Chef Anton's Gumbo Mix	King	Przedstawiciel handlowy	
+17.04.1998	USA	55,00 z³	100	Raclette Courdavault	King	Przedstawiciel handlowy	
+17.04.1998	USA	19,00 z³	100	Chang	King	Przedstawiciel handlowy	
+17.04.1998	USA	55,00 z³	30	Raclette Courdavault	Fuller	Wiceprezes ds. sprzeda¿y	WA
+17.04.1998	Szwajcaria	32,80 z³	70	Perth Pasties	King	Przedstawiciel handlowy	
+17.04.1998	USA	123,79 z³	60	Thüringer Rostbratwurst	King	Przedstawiciel handlowy	
+17.04.1998	USA	21,50 z³	16	Flotemysost	Suyama	Przedstawiciel handlowy	
+17.04.1998	USA	18,00 z³	45	Chai	Suyama	Przedstawiciel handlowy	
+17.04.1998	USA	263,50 z³	25	Côte de Blaye	Fuller	Wiceprezes ds. sprzeda¿y	WA
+17.04.1998	USA	19,00 z³	35	Inlagd Sill	Fuller	Wiceprezes ds. sprzeda¿y	WA
+17.04.1998	USA	33,25 z³	20	Wimmers gute Semmelknödel	Suyama	Przedstawiciel handlowy	
+17.04.1998	USA	6,00 z³	80	Konbu	Suyama	Przedstawiciel handlowy	
+20.04.1998	Belgia	14,00 z³	30	Singaporean Hokkien Fried Mee	Fuller	Wiceprezes ds. sprzeda¿y	WA
+20.04.1998	USA	19,45 z³	12	Gula Malacca	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+20.04.1998	Belgia	7,45 z³	10	Tourtiere	Fuller	Wiceprezes ds. sprzeda¿y	WA
+20.04.1998	Niemcy	55,00 z³	30	Raclette Courdavault	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+20.04.1998	Niemcy	6,00 z³	7	Konbu	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+20.04.1998	Belgia	18,00 z³	10	Chai	Fuller	Wiceprezes ds. sprzeda¿y	WA
+20.04.1998	USA	10,00 z³	15	Sir Rodney's Scones	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+20.04.1998	USA	28,50 z³	6	Sirop d'érable	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+20.04.1998	Belgia	18,00 z³	60	Steeleye Stout	Fuller	Wiceprezes ds. sprzeda¿y	WA
+21.04.1998	Wenezuela	45,60 z³	20	Rössle Sauerkraut	Davolio	Przedstawiciel handlowy	WA
+21.04.1998	Belgia	7,00 z³	2	Filo Mix	Davolio	Przedstawiciel handlowy	WA
+21.04.1998	Wenezuela	20,00 z³	60	Maxilaku	Davolio	Przedstawiciel handlowy	WA
+21.04.1998	Wenezuela	18,00 z³	24	Steeleye Stout	Davolio	Przedstawiciel handlowy	WA
+21.04.1998	Belgia	18,40 z³	5	Boston Crab Meat	Davolio	Przedstawiciel handlowy	WA
+21.04.1998	Hiszpania	15,00 z³	4	Outback Lager	King	Przedstawiciel handlowy	
+21.04.1998	Wenezuela	19,50 z³	28	Ravioli Angelo	Davolio	Przedstawiciel handlowy	WA
+21.04.1998	Belgia	21,50 z³	30	Flotemysost	Davolio	Przedstawiciel handlowy	WA
+22.04.1998	USA	10,00 z³	20	Sir Rodney's Scones	Peacock	Przedstawiciel handlowy	WA
+22.04.1998	Brazylia	19,45 z³	15	Gula Malacca	Fuller	Wiceprezes ds. sprzeda¿y	WA
+22.04.1998	Brazylia	28,50 z³	4	Sirop d'érable	Fuller	Wiceprezes ds. sprzeda¿y	WA
+22.04.1998	Szwajcaria	43,90 z³	30	Vegie-spread	Leverling	Przedstawiciel handlowy	WA
+22.04.1998	Szwajcaria	19,00 z³	30	Chang	Leverling	Przedstawiciel handlowy	WA
+22.04.1998	Francja	21,00 z³	10	Queso Cabrales	Buchanan	Dyrektor ds. sprzeda¿y	
+23.04.1998	Niemcy	32,00 z³	15	Mascarpone Fabioli	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+23.04.1998	Kanada	2,50 z³	15	Geitost	Suyama	Przedstawiciel handlowy	
+23.04.1998	Polska	49,30 z³	12	Tarte au sucre	Peacock	Przedstawiciel handlowy	WA
+23.04.1998	Niemcy	18,00 z³	18	Steeleye Stout	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+23.04.1998	Kanada	53,00 z³	24	Manjimup Dried Apples	Suyama	Przedstawiciel handlowy	
+23.04.1998	Niemcy	38,00 z³	20	Queso Manchego La Pastora	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+24.04.1998	Wielka Brytania	18,00 z³	25	Chai	King	Przedstawiciel handlowy	
+24.04.1998	Kanada	12,50 z³	42	Scottish Longbreads	King	Przedstawiciel handlowy	
+24.04.1998	Brazylia	19,00 z³	10	Chang	Leverling	Przedstawiciel handlowy	WA
+24.04.1998	Wielka Brytania	21,35 z³	30	Chef Anton's Gumbo Mix	King	Przedstawiciel handlowy	
+24.04.1998	Brazylia	38,00 z³	4	Queso Manchego La Pastora	Leverling	Przedstawiciel handlowy	WA
+27.04.1998	Francja	4,50 z³	10	Guaraná Fantástica	King	Przedstawiciel handlowy	
+27.04.1998	Austria	62,50 z³	35	Carnarvon Tigers	Fuller	Wiceprezes ds. sprzeda¿y	WA
+27.04.1998	Brazylia	28,50 z³	10	Sirop d'érable	Leverling	Przedstawiciel handlowy	WA
+27.04.1998	Szwecja	18,00 z³	50	Lakkalikööri	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+27.04.1998	Brazylia	46,00 z³	30	Ipoh Coffee	Leverling	Przedstawiciel handlowy	WA
+27.04.1998	Austria	32,00 z³	20	Mascarpone Fabioli	Fuller	Wiceprezes ds. sprzeda¿y	WA
+27.04.1998	Austria	33,25 z³	25	Wimmers gute Semmelknödel	Fuller	Wiceprezes ds. sprzeda¿y	WA
+28.04.1998	Wielka Brytania	34,00 z³	50	Camembert Pierrot	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+28.04.1998	Argentyna	2,50 z³	10	Geitost	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+28.04.1998	Wenezuela	53,00 z³	20	Manjimup Dried Apples	King	Przedstawiciel handlowy	
+28.04.1998	Wenezuela	4,50 z³	15	Guaraná Fantástica	King	Przedstawiciel handlowy	
+28.04.1998	Argentyna	14,00 z³	20	Laughing Lumberjack Lager	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+28.04.1998	Wenezuela	14,00 z³	15	NuNuCa Nuß-Nougat-Creme	King	Przedstawiciel handlowy	
+28.04.1998	Wenezuela	19,50 z³	20	Ravioli Angelo	King	Przedstawiciel handlowy	
+28.04.1998	Wielka Brytania	30,00 z³	40	Uncle Bob's Organic Dried Pears	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+28.04.1998	Wielka Brytania	24,00 z³	35	Pâte chinois	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+29.04.1998	Niemcy	10,00 z³	3	Sir Rodney's Scones	Dodsworth	Przedstawiciel handlowy	
+29.04.1998	Niemcy	28,50 z³	4	Sirop d'érable	Dodsworth	Przedstawiciel handlowy	
+29.04.1998	Brazylia	34,00 z³	35	Camembert Pierrot	Fuller	Wiceprezes ds. sprzeda¿y	WA
+29.04.1998	Niemcy	34,00 z³	21	Camembert Pierrot	Dodsworth	Przedstawiciel handlowy	
+29.04.1998	Brazylia	6,00 z³	30	Konbu	Fuller	Wiceprezes ds. sprzeda¿y	WA
+29.04.1998	Wielka Brytania	15,00 z³	3	Outback Lager	Leverling	Przedstawiciel handlowy	WA
+29.04.1998	Brazylia	39,00 z³	12	Alice Mutton	Fuller	Wiceprezes ds. sprzeda¿y	WA
+30.04.1998	W³ochy	34,00 z³	4	Camembert Pierrot	Fuller	Wiceprezes ds. sprzeda¿y	WA
+30.04.1998	W³ochy	15,00 z³	12	Outback Lager	Peacock	Przedstawiciel handlowy	WA
+30.04.1998	Irlandia	18,40 z³	40	Boston Crab Meat	Leverling	Przedstawiciel handlowy	WA
+30.04.1998	W³ochy	32,80 z³	10	Perth Pasties	Peacock	Przedstawiciel handlowy	WA
+30.04.1998	USA	34,00 z³	15	Camembert Pierrot	Peacock	Przedstawiciel handlowy	WA
+30.04.1998	Irlandia	14,00 z³	30	Sasquatch Ale	Leverling	Przedstawiciel handlowy	WA
+30.04.1998	Irlandia	9,65 z³	30	Jack's New England Clam Chowder	Leverling	Przedstawiciel handlowy	WA
+30.04.1998	W³ochy	13,00 z³	10	Original Frankfurter grüne Soße	Fuller	Wiceprezes ds. sprzeda¿y	WA
+01.05.1998	USA	32,80 z³	25	Perth Pasties	Davolio	Przedstawiciel handlowy	WA
+01.05.1998	USA	24,00 z³	4	Pâte chinois	Davolio	Przedstawiciel handlowy	WA
+01.05.1998	Wenezuela	7,45 z³	20	Tourtiere	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+01.05.1998	USA	39,00 z³	77	Alice Mutton	Davolio	Przedstawiciel handlowy	WA
+01.05.1998	USA	12,50 z³	55	Scottish Longbreads	Davolio	Przedstawiciel handlowy	WA
+01.05.1998	USA	14,00 z³	35	Sasquatch Ale	King	Przedstawiciel handlowy	
+01.05.1998	Wenezuela	25,89 z³	4	Nord-Ost Matjeshering	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+01.05.1998	USA	9,20 z³	42	Teatime Chocolate Biscuits	King	Przedstawiciel handlowy	
+01.05.1998	USA	9,65 z³	12	Jack's New England Clam Chowder	Davolio	Przedstawiciel handlowy	WA
+01.05.1998	USA	17,45 z³	3	Pavlova	King	Przedstawiciel handlowy	
+04.05.1998	Niemcy	9,65 z³	9	Jack's New England Clam Chowder	Davolio	Przedstawiciel handlowy	WA
+04.05.1998	Brazylia	45,60 z³	8	Rössle Sauerkraut	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+04.05.1998	Meksyk	18,00 z³	20	Chartreuse verte	Davolio	Przedstawiciel handlowy	WA
+04.05.1998	Brazylia	46,00 z³	36	Ipoh Coffee	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+04.05.1998	Brazylia	13,00 z³	28	Original Frankfurter grüne Soße	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+05.05.1998	Niemcy	18,00 z³	40	Chai	Fuller	Wiceprezes ds. sprzeda¿y	WA
+05.05.1998	Meksyk	21,00 z³	10	Queso Cabrales	Fuller	Wiceprezes ds. sprzeda¿y	WA
+05.05.1998	Niemcy	19,00 z³	20	Chang	Fuller	Wiceprezes ds. sprzeda¿y	WA
+05.05.1998	Wenezuela	6,00 z³	10	Konbu	Davolio	Przedstawiciel handlowy	WA
+05.05.1998	Wenezuela	30,00 z³	15	Uncle Bob's Organic Dried Pears	Davolio	Przedstawiciel handlowy	WA
+05.05.1998	Meksyk	4,50 z³	20	Guaraná Fantástica	Fuller	Wiceprezes ds. sprzeda¿y	WA
+05.05.1998	Austria	33,25 z³	130	Wimmers gute Semmelknödel	Peacock	Przedstawiciel handlowy	WA
+05.05.1998	Austria	16,25 z³	22	Valkoinen suklaa	Peacock	Przedstawiciel handlowy	WA
+05.05.1998	Austria	19,00 z³	8	Chang	Peacock	Przedstawiciel handlowy	WA
+05.05.1998	Austria	9,65 z³	40	Jack's New England Clam Chowder	Peacock	Przedstawiciel handlowy	WA
+05.05.1998	Niemcy	17,45 z³	30	Pavlova	Fuller	Wiceprezes ds. sprzeda¿y	WA
+05.05.1998	Niemcy	12,50 z³	20	Gorgonzola Telino	Fuller	Wiceprezes ds. sprzeda¿y	WA
+06.05.1998	USA	15,00 z³	2	Röd Kaviar	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	USA	33,25 z³	2	Wimmers gute Semmelknödel	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	USA	31,00 z³	1	Ikura	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	Francja	23,25 z³	20	Tofu	Peacock	Przedstawiciel handlowy	WA
+06.05.1998	USA	40,00 z³	2	Northwoods Cranberry Sauce	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	USA	9,65 z³	3	Jack's New England Clam Chowder	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	USA	9,00 z³	2	Tunnbröd	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	USA	13,00 z³	2	Original Frankfurter grüne Soße	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	USA	30,00 z³	1	Uncle Bob's Organic Dried Pears	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	USA	12,00 z³	3	Spegesild	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	Szwajcaria	19,00 z³	10	Chang	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+06.05.1998	USA	19,00 z³	24	Chang	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	USA	7,00 z³	2	Filo Mix	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	USA	10,00 z³	4	Aniseed Syrup	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	Francja	9,20 z³	10	Teatime Chocolate Biscuits	Peacock	Przedstawiciel handlowy	WA
+06.05.1998	USA	32,00 z³	1	Mascarpone Fabioli	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	USA	81,00 z³	1	Sir Rodney's Marmalade	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	USA	17,45 z³	2	Pavlova	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	Dania	17,45 z³	14	Pavlova	King	Przedstawiciel handlowy	
+06.05.1998	USA	25,00 z³	1	Grandma's Boysenberry Spread	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	Szwajcaria	12,00 z³	30	Spegesild	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
+06.05.1998	USA	18,00 z³	2	Chartreuse verte	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	USA	17,00 z³	1	Louisiana Hot Spiced Okra	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	USA	22,00 z³	1	Chef Anton's Cajun Seasoning	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	USA	34,00 z³	2	Camembert Pierrot	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	USA	23,25 z³	1	Tofu	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	Francja	25,00 z³	20	Grandma's Boysenberry Spread	Peacock	Przedstawiciel handlowy	WA
+06.05.1998	USA	6,00 z³	4	Konbu	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	USA	7,75 z³	4	Rhönbräu Klosterbier	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	USA	24,00 z³	2	Pâte chinois	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	USA	38,00 z³	2	Queso Manchego La Pastora	Davolio	Przedstawiciel handlowy	WA
+06.05.1998	Szwajcaria	18,00 z³	2	Lakkalikööri	Callahan	Koordynator sprzeda¿y wewnêtrznej	WA
