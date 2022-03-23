@@ -1,0 +1,6 @@
+1. 100% kradzież z wykładu
+2. chyba jakiś rownum styka, pytanie czy musi być dokładnie 10 rekordów wynikowych czy bawimy się w jakieś rangi
+3. jakieś gówna z preceding i following będą się pojawiać zapewne
+4. over po kategorii, sum(max(cena) over(podkategoria)) ( xd? )
+5. to chyba ez po prostu suma i rank/dense_rank na tym
+6. tu jakiś ntile syf wejdzie... Dobra wiem: CASE WHEN NTILE(3) OVER (ORDER 	BY i ta średnia) 
