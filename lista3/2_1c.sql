@@ -1,3 +1,4 @@
+SELECT ISNULL("Name", '') "Name", ISNULL("Rok", '') "Rok", ISNULL("Procent", 100) "Procent" FROM (
 SELECT PC.Name, STR(YEAR(SOH.OrderDate)) "Rok", 
 		SUM(SOD.UnitPrice * SOD.OrderQty * (1 - SOD.UnitPriceDiscount)) OVER (PARTITION BY YEAR(SOH.OrderDate))
 			/ SUM(SOD.UnitPrice * SOD.OrderQty * (1 - SOD.UnitPriceDiscount)) OVER()*100 "Procent"
@@ -6,5 +7,8 @@ SELECT PC.Name, STR(YEAR(SOH.OrderDate)) "Rok",
 	JOIN Production.Product P ON P.ProductID=SOD.ProductID
 	JOIN Production.ProductSubcategory PSC ON P.ProductSubcategoryID=PSC.ProductSubcategoryID
 	JOIN Production.ProductCategory PC ON PC.ProductCategoryID=PSC.ProductCategoryID
-	WHERE PC.Name='Clothing'
-	UNION SELECT '', '', 100;
+	WHERE PC.Name='Clothing') INSIDE
+GROUP BY GROUPING SETS (
+	("Name", "Rok", "Procent"),
+	()
+);
