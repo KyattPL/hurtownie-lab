@@ -8,10 +8,10 @@ ALTER TABLE Pynka.DIM_SALESPERSON
 ADD CONSTRAINT dim_salespers_pk PRIMARY KEY (SalesPersonID);
 
 ALTER TABLE Pynka.FACT_SALES
-ADD CONSTRAINT fact_sales_fk_prod FOREIGN KEY (ProductID) REFERENCES Production.Product(ProductID);
+ADD CONSTRAINT fact_sales_fk_prod FOREIGN KEY (ProductID) REFERENCES Pynka.DIM_PRODUCT(ProductID);
 
 ALTER TABLE Pynka.FACT_SALES
-ADD CONSTRAINT fact_sales_fk_cust FOREIGN KEY (CustomerID) REFERENCES Sales.Customer(CustomerID);
+ADD CONSTRAINT fact_sales_fk_cust FOREIGN KEY (CustomerID) REFERENCES Pynka.DIM_CUSTOMER(CustomerID);
 
 ALTER TABLE Pynka.FACT_SALES
-ADD CONSTRAINT fact_sales_fk_salesper FOREIGN KEY (SalesPersonID) REFERENCES Sales.SalesPerson(BusinessEntityID);
+ADD CONSTRAINT fact_sales_fk_salesper FOREIGN KEY (SalesPersonID) REFERENCES Pynka.DIM_SALESPERSON(SalesPersonID);
