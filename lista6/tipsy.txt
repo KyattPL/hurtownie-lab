@@ -1,0 +1,10 @@
+- tabele przestawne jak na pierwszym wykładzie, jakoś powiązane i o jednym temacie
+	(ma być zamysł na ogólną analizę)
+- najlepiej najpierw wybrać temat a potem szukać bazy (lenny)
+- kaggle.com - dużo baz danych
+- 5 wymiarów, 10000 rekordów faktów, 3 miary w tym min. jedną nieaddytywną
+- punkt o który będzie się najbardziej czepiać (1.5.2)
+	(kiedy robimy zestawienia z atrybutami jakimiś to trzeba na diagramie klas w 2.5 potem je uwzględnić)
+	(jakoś opisać ziarnistość żeby miało sens, jeśli np. kwadrans to czy są dane by móc wgle analizować co kwadrans)
+- im więcej rzeczy tym większa ocena :>>>>>
+- proces ETL ma być zautomatyzowany, żeby się dało cyklicznie wstawiać dane

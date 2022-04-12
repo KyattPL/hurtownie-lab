@@ -1,0 +1,55 @@
+[HD Lista 6] Pytanko co do Names. Czy my mamy edytować tabele i zmienić te kolumny, czy mamy to jakoś w visualu zmergować?
+
+w visualu
+
+musisz przejsc do pliku dsv
+
+kliknac prawym na tabele
+
+tam masz new named calculation
+
+Dzięki
+
+[Lista 6] [HD] [Zadanie 1c] 1) Maksymalna wartość rabatu to Max(UnitPriceDiscount) 2) Maksymalna liczba zamówionych produktów to Max(OrderQty) ?
+
+UnitPriceDiscount nie był jako 0..1 czyli jaki to był rabat? Więc wartość rabatu trzeba wyliczać?
+
+Chyba tak
+
+A te miary z 1c to gdzie mamy dodać? Bo miary chyba powinny być w FACT, ale jak tam dodam to dla każdego rekordu będą chyba te same wartości, bo to jest agregowane. W dodatku ja jej schemacie wynikowym nie widzę dodatkowych kolumn w FACT_SALES
+
+Jestem za chyba za głupi na to HD
+
+Zrób sobie kostkę, to Ci się lepiej zrobi.
+
+Jestem za chyba za głupi na to HD
+
+Wszyscy jesteśmy
+
+wy płaczecie a przecież nawet nie robicie projektu
+
+jeszcze*
+
+wtedy dopiero poznacie prawdziwe znaczenie słowa "cierpienie"
+
+Zrób sobie kostkę, to Ci się lepiej zrobi.
+
+I dzięki temu w kostce znalazłem możliwość dodawania miar ❤
+
+wtedy dopiero poznacie prawdziwe znaczenie słowa "cierpienie"
+
+Na 6 semie pwr zna się znaczenie tego słowa aż za dobrze
+
+Ciekawe czy będzie równie źle jak na bazurkach czy jeszcze gorzej
+
+Ciekawe czy będzie równie źle jak na bazurkach czy jeszcze gorzej
+
+Myśle, że tutaj udzielą ci informacji (i to w miare sensownych) za co ujebiesz
+
+UnitPriceDiscount nie był jako 0..1 czyli jaki to był rabat? Więc wartoś…
+
+A wiesz może jak to zrobić w tej kostce? Bo ja próbuję to zrobić w calculations, ale daje mi puste wartości
+
+A wiesz może jak to zrobić w tej kostce? Bo ja próbuję to zrobić w calcu…
+
+Nie mam pojęcia dlatego zostawiłem samo UnitPriceDiscount xD
