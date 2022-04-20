@@ -1,0 +1,7 @@
+WITH MEMBER [Measures].[Moving Avg] AS
+	Avg(LastPeriods(3, [Order Date].[Miesiac].CurrentMember), [Measures].[Line Total])
+
+SELECT {[Order Date].[Rok].&[2012], [Order Date].[Rok].&[2013]} ON COLUMNS,
+	{[Order Date].[Miesiac].CHILDREN} ON ROWS
+	FROM [AW_2019_DSV]
+	WHERE [Measures].[Moving Avg];

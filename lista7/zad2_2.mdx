@@ -1,0 +1,4 @@
+SELECT {[Order Date].[Rok].&[2012], [Order Date].[Rok].&[2013]} ON COLUMNS,
+	{[DIM CUSTOMER].[Country Region Code].CHILDREN} ON ROWS
+	FROM [AW_2019_DSV]
+	WHERE [Measures].[Customer ID Distinct Count];

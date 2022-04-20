@@ -1,0 +1,9 @@
+WITH MEMBER [Measures].[NazwaMiesiaca] 
+	AS '[Order Date].[Miesiac].CurrentMember.Name'
+SELECT {[Measures].[NazwaMiesiaca]} ON COLUMNS,
+	HEAD({ORDER(DESCENDANTS([Order Date].[Hierarchy].[Rok].&[2013], 
+			[Order Date].[Hierarchy].[Dzien Miesiaca]),
+			[Measures].[Order Qty],
+			BDESC
+	)}, 1) ON ROWS
+	FROM [AW_2019_DSV];

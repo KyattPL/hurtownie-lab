@@ -1,0 +1,5 @@
+SELECT CROSSJOIN({[Order Date].[Rok].&[2012], [Order Date].[Rok].&[2013]},
+		{[Measures].[Customer ID Distinct Count], [Measures].[Order Qty]})
+		ON COLUMNS,
+	{[DIM CUSTOMER].[Country Region Code].CHILDREN} ON ROWS
+	FROM [AW_2019_DSV];

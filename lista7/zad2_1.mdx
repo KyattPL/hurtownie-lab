@@ -1,0 +1,3 @@
+SELECT {[Measures].[Customer ID Distinct Count]} ON COLUMNS,
+	{[DIM CUSTOMER].[Country Region Code].CHILDREN} ON ROWS
+	FROM [AW_2019_DSV];

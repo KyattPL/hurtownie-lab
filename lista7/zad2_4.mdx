@@ -1,0 +1,4 @@
+SELECT {[DIM CUSTOMER].[Country Region Code].CHILDREN} ON COLUMNS,
+	{[DIM PRODUCT].[Category Name].CHILDREN*[DIM PRODUCT].[Sub Category Name].CHILDREN} ON ROWS
+	FROM [AW_2019_DSV]
+	WHERE [Measures].[Order Qty];
