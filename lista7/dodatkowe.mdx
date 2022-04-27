@@ -1,0 +1,7 @@
+SELECT {[DIM CUSTOMER].[Country Region Code].MEMBERS} ON COLUMNS,
+	{ORDER(
+		{([Order Date].[Rok].MEMBERS, [Order Date].[Miesiac].MEMBERS)},
+		[Measures].[Order Qty],
+		BDESC
+	)} ON ROWS
+	FROM [AW_2019_DSV];
