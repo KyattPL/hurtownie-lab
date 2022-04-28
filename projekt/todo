@@ -1,8 +1,8 @@
-Kraj -> dorobić kontynent do hierarchii
-Tytuł akademicki + ukończony kierunek -> hierarchia
+Dorzucić DIM_klient i DIM_rower chyba.
 
-Miary:
-- wiek - nieaddytywna
-- roczne zarobki
-- lata w zawodzie
-- godziny pracy tygodniowo
+Nie mam pojęcia co z miarami zrobić XDD
+
+W sumie jest zip_code i klienta i pogody to można osobno do
+DIM_PostalRegion czy coś wyciągnąć.
+
+Miary to hwdp nwm czy można county potraktować jako miary
