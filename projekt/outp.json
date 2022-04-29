@@ -1,0 +1,434 @@
+{
+    "global_stats": {
+        "samples_used": 70,
+        "column_count": 7,
+        "row_count": 70,
+        "row_has_null_ratio": 0.0,
+        "row_is_null_ratio": 0.0,
+        "unique_row_ratio": 1.0,
+        "duplicate_row_count": 0,
+        "file_type": "csv",
+        "encoding": "utf-8",
+        "correlation_matrix": null,
+        "chi2_matrix": "[[nan, nan, nan, nan, nan, nan, nan], ... , [nan, nan, nan, nan, nan, nan, nan]]",
+        "profile_schema": {
+            "id": [
+                0
+            ],
+            "name": [
+                1
+            ],
+            "lat": [
+                2
+            ],
+            "long": [
+                3
+            ],
+            "dock_count": [
+                4
+            ],
+            "city": [
+                5
+            ],
+            "installation_date": [
+                6
+            ]
+        },
+        "times": {
+            "row_stats": 0.003
+        }
+    },
+    "data_stats": [
+        {
+            "column_name": "id",
+            "data_type": "int",
+            "categorical": false,
+            "order": "random",
+            "samples": "['28', '77', '34', '41', '22']",
+            "statistics": {
+                "min": 2.0,
+                "max": 84.0,
+                "mode": "[2.041, 3.025, 4.009, 4.993, 5.977]",
+                "median": 43.492,
+                "sum": 3010.0,
+                "mean": 43.0,
+                "variance": 584.0,
+                "stddev": 24.1661,
+                "skewness": -0.0687,
+                "kurtosis": -1.1946,
+                "histogram": {
+                    "bin_edges": "[ 2.  , 12.25, 22.5 , 32.75, ... , 53.25, 63.5 , 73.75, 84.  ]",
+                    "bin_counts": "[11.,  5., 10.,  9.,  7., 10., 10.,  8.]"
+                },
+                "quantiles": {
+                    "0": 24.017,
+                    "1": 43.492,
+                    "2": 64.033
+                },
+                "median_abs_deviation": 19.967,
+                "num_zeros": 0,
+                "num_negatives": 0,
+                "times": {
+                    "min": 0.0,
+                    "max": 0.0,
+                    "sum": 0.0,
+                    "variance": 0.0,
+                    "skewness": 0.0,
+                    "kurtosis": 0.0,
+                    "histogram_and_quantiles": 0.001,
+                    "num_zeros": 0.0,
+                    "num_negatives": 0.0
+                },
+                "unique_count": 70,
+                "unique_ratio": 1.0,
+                "sample_size": 70,
+                "null_count": 0,
+                "null_types": "[]",
+                "null_types_index": {},
+                "data_type_representation": {
+                    "datetime": 0.0,
+                    "int": 1.0,
+                    "float": 1.0,
+                    "string": 1.0
+                }
+            }
+        },
+        {
+            "column_name": "name",
+            "data_type": "string",
+            "categorical": false,
+            "order": "random",
+            "samples": "['San Antonio Caltrain Station', 'Harry Bridges Plaza (Ferry Building)',\n 'San Jose City Hall', 'Redwood City Caltrain Station', 'San Pedro Square']",
+            "statistics": {
+                "min": 9.0,
+                "max": 45.0,
+                "mode": "[13.014, 14.994]",
+                "median": 21.51,
+                "sum": 1574.0,
+                "mean": 22.4857,
+                "variance": 70.0795,
+                "stddev": 8.3714,
+                "skewness": 0.7446,
+                "kurtosis": 0.1399,
+                "histogram": {
+                    "bin_edges": "[ 9. , 13.5, 18. , 22.5, ... , 31.5, 36. , 40.5, 45. ]",
+                    "bin_counts": "[10., 14., 16., 10., 10.,  4.,  4.,  2.]"
+                },
+                "quantiles": {
+                    "0": 15.99,
+                    "1": 21.51,
+                    "2": 27.03
+                },
+                "median_abs_deviation": 5.52,
+                "times": {
+                    "vocab": 0.0,
+                    "min": 0.0,
+                    "max": 0.0,
+                    "sum": 0.0,
+                    "variance": 0.0,
+                    "skewness": 0.001,
+                    "kurtosis": 0.0,
+                    "histogram_and_quantiles": 0.001
+                },
+                "vocab": "['w', 'r', 'P', 'U', 'R', ... , 'G', 'u', 'q', 'V', '3']",
+                "unique_count": 70,
+                "unique_ratio": 1.0,
+                "sample_size": 70,
+                "null_count": 0,
+                "null_types": "[]",
+                "null_types_index": {},
+                "data_type_representation": {
+                    "datetime": 0.0,
+                    "int": 0.0,
+                    "float": 0.0,
+                    "string": 1.0
+                }
+            }
+        },
+        {
+            "column_name": "lat",
+            "data_type": "float",
+            "categorical": false,
+            "order": "random",
+            "samples": "['37.789625', '37.776619000000004', '37.348742', '37.487615999999996',\n '37.786305']",
+            "statistics": {
+                "min": 37.3297,
+                "max": 37.8048,
+                "mode": "[37.33376982, 37.77650524]",
+                "median": 37.6314,
+                "sum": 2631.317,
+                "mean": 37.5902,
+                "variance": 0.0414,
+                "stddev": 0.2035,
+                "skewness": -0.1219,
+                "kurtosis": -1.8976,
+                "histogram": {
+                    "bin_edges": "[37.329732  , 37.38911175, ... , 37.74539025, 37.80477   ]",
+                    "bin_counts": "[17., 10.,  8.,  0.,  0.,  0.,  0., 35.]"
+                },
+                "quantiles": {
+                    "0": 37.3893,
+                    "1": 37.6314,
+                    "2": 37.7884
+                },
+                "median_abs_deviation": 0.1639,
+                "num_zeros": 0,
+                "num_negatives": 0,
+                "times": {
+                    "precision": 0.0,
+                    "min": 0.0,
+                    "max": 0.0,
+                    "sum": 0.0,
+                    "variance": 0.0,
+                    "skewness": 0.0,
+                    "kurtosis": 0.0,
+                    "histogram_and_quantiles": 0.001,
+                    "num_zeros": 0.0,
+                    "num_negatives": 0.0
+                },
+                "precision": {
+                    "min": 6,
+                    "max": 17,
+                    "mean": 10.2,
+                    "var": 16.3942,
+                    "std": 4.049,
+                    "sample_size": 70,
+                    "margin_of_error": 1.5927,
+                    "confidence_level": 0.999
+                },
+                "unique_count": 70,
+                "unique_ratio": 1.0,
+                "sample_size": 70,
+                "null_count": 0,
+                "null_types": "[]",
+                "null_types_index": {},
+                "data_type_representation": {
+                    "datetime": 0.0,
+                    "int": 0.0,
+                    "float": 1.0,
+                    "string": 1.0
+                }
+            }
+        },
+        {
+            "column_name": "long",
+            "data_type": "float",
+            "categorical": false,
+            "order": "random",
+            "samples": "['-122.10675800000001', '-122.411748', '-122.402717', '-122.081896',\n '-122.223492']",
+            "statistics": {
+                "min": -122.419,
+                "max": -121.8773,
+                "mode": "[-122.40297665, -122.40081023]",
+                "median": -122.312,
+                "sum": -8555.2891,
+                "mean": -122.2184,
+                "variance": 0.0439,
+                "stddev": 0.2094,
+                "skewness": 0.5851,
+                "kurtosis": -1.2859,
+                "histogram": {
+                    "bin_edges": "[-122.418954  , -122.35125337, ... , -121.94504962, -121.877349  ]",
+                    "bin_counts": "[35.,  0.,  6.,  4.,  7.,  2.,  0., 16.]"
+                },
+                "quantiles": {
+                    "0": -122.4006,
+                    "1": -122.312,
+                    "2": -122.0769
+                },
+                "median_abs_deviation": 0.0964,
+                "num_zeros": 0,
+                "num_negatives": 70,
+                "times": {
+                    "precision": 0.0,
+                    "min": 0.0,
+                    "max": 0.0,
+                    "sum": 0.0,
+                    "variance": 0.0,
+                    "skewness": 0.0,
+                    "kurtosis": 0.0,
+                    "histogram_and_quantiles": 0.001,
+                    "num_zeros": 0.0,
+                    "num_negatives": 0.0
+                },
+                "precision": {
+                    "min": 7,
+                    "max": 17,
+                    "mean": 13.0714,
+                    "var": 16.647,
+                    "std": 4.0801,
+                    "sample_size": 70,
+                    "margin_of_error": 1.6049,
+                    "confidence_level": 0.999
+                },
+                "unique_count": 70,
+                "unique_ratio": 1.0,
+                "sample_size": 70,
+                "null_count": 0,
+                "null_types": "[]",
+                "null_types_index": {},
+                "data_type_representation": {
+                    "datetime": 0.0,
+                    "int": 0.0,
+                    "float": 1.0,
+                    "string": 1.0
+                }
+            }
+        },
+        {
+            "column_name": "dock_count",
+            "data_type": "int",
+            "categorical": true,
+            "order": "random",
+            "samples": "['23', '15', '15', '15', '15']",
+            "statistics": {
+                "min": 11.0,
+                "max": 27.0,
+                "mode": "[15.008]",
+                "median": 15.0146,
+                "sum": 1236.0,
+                "mean": 17.6571,
+                "variance": 16.0836,
+                "stddev": 4.0104,
+                "skewness": 0.7532,
+                "kurtosis": -0.0591,
+                "histogram": {
+                    "bin_edges": "[11.        , 12.77777778, ... , 25.22222222, 27.        ]",
+                    "bin_counts": "[ 4.,  0., 34.,  0., 18.,  0.,  9.,  1.,  4.]"
+                },
+                "quantiles": {
+                    "0": 15.0064,
+                    "1": 15.0146,
+                    "2": 19.0129
+                },
+                "median_abs_deviation": 3.9863,
+                "num_zeros": 0,
+                "num_negatives": 0,
+                "times": {
+                    "min": 0.0,
+                    "max": 0.0,
+                    "sum": 0.0,
+                    "variance": 0.0,
+                    "skewness": 0.001,
+                    "kurtosis": 0.0,
+                    "histogram_and_quantiles": 0.0016,
+                    "num_zeros": 0.0,
+                    "num_negatives": 0.0005
+                },
+                "unique_count": 6,
+                "unique_ratio": 0.0857,
+                "categories": "['15', '19', '23', '27', '11', '25']",
+                "gini_impurity": 0.6747,
+                "unalikeability": 0.6845,
+                "categorical_count": {
+                    "15": 34,
+                    "19": 18,
+                    "23": 9,
+                    "27": 4,
+                    "11": 4,
+                    "25": 1
+                },
+                "sample_size": 70,
+                "null_count": 0,
+                "null_types": "[]",
+                "null_types_index": {},
+                "data_type_representation": {
+                    "datetime": 0.0,
+                    "int": 1.0,
+                    "float": 1.0,
+                    "string": 1.0
+                }
+            }
+        },
+        {
+            "column_name": "city",
+            "data_type": "string",
+            "categorical": true,
+            "order": "random",
+            "samples": "['Palo Alto', 'San Francisco', 'Redwood City', 'San Francisco',\n 'San Francisco']",
+            "statistics": {
+                "min": 8.0,
+                "max": 13.0,
+                "mode": "[12.9975]",
+                "median": 12.9958,
+                "sum": 803.0,
+                "mean": 11.4714,
+                "variance": 4.6876,
+                "stddev": 2.1651,
+                "skewness": -0.8728,
+                "kurtosis": -1.1636,
+                "histogram": {
+                    "bin_edges": "[8.   , 8.625, 9.25 , ... , 11.75 , 12.375, 13.   ]",
+                    "bin_counts": "[16.,  5.,  0.,  0.,  0.,  0.,  7., 42.]"
+                },
+                "quantiles": {
+                    "0": 9.0015,
+                    "1": 12.9958,
+                    "2": 12.9979
+                },
+                "median_abs_deviation": 0.0033,
+                "times": {
+                    "vocab": 0.0,
+                    "min": 0.0,
+                    "max": 0.0,
+                    "sum": 0.001,
+                    "variance": 0.0,
+                    "skewness": 0.0,
+                    "kurtosis": 0.0,
+                    "histogram_and_quantiles": 0.001
+                },
+                "vocab": "['M', 'o', 'n', 'J', 'r', ... , 'P', 'a', 'A', 'u', 'F']",
+                "unique_count": 5,
+                "unique_ratio": 0.0714,
+                "categories": "['San Francisco', 'San Jose', 'Redwood City', 'Mountain View', 'Palo Alto']",
+                "gini_impurity": 0.6727,
+                "unalikeability": 0.6824,
+                "categorical_count": {
+                    "San Francisco": 35,
+                    "San Jose": 16,
+                    "Redwood City": 7,
+                    "Mountain View": 7,
+                    "Palo Alto": 5
+                },
+                "sample_size": 70,
+                "null_count": 0,
+                "null_types": "[]",
+                "null_types_index": {},
+                "data_type_representation": {
+                    "datetime": 0.0,
+                    "int": 0.0,
+                    "float": 0.0,
+                    "string": 1.0
+                }
+            }
+        },
+        {
+            "column_name": "installation_date",
+            "data_type": "datetime",
+            "categorical": false,
+            "order": "random",
+            "samples": "['8/16/2013', '8/22/2013', '8/19/2013', '8/21/2013', '8/7/2013']",
+            "statistics": {
+                "min": "8/5/2013",
+                "max": "4/9/2014",
+                "histogram": null,
+                "format": "['%m/%d/%Y']",
+                "times": {
+                    "datetime": 0.009
+                },
+                "unique_count": 17,
+                "unique_ratio": 0.2429,
+                "sample_size": 70,
+                "null_count": 0,
+                "null_types": "[]",
+                "null_types_index": {},
+                "data_type_representation": {
+                    "datetime": 1.0,
+                    "int": 0.0,
+                    "float": 0.0,
+                    "string": 1.0
+                }
+            }
+        }
+    ]
+}
