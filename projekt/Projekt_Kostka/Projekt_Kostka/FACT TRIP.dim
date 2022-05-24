@@ -1,0 +1,291 @@
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="00433db9-9db3-4d3c-92e6-36cbc728dc31" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>FACT TRIP</ID>
+  <Name>FACT TRIP</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+      <Value>
+        <dds xmlns="">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="2" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-2877" scrolltop="-4485" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="9525" y="13970" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+            <font>
+              <ddsxmlobjectstreamwrapper binary="01ee0000900144420100065461686f6d61" />
+            </font>
+            <mouseicon>
+              <ddsxmlobjectstreamwrapper binary="6c74000000000000" />
+            </mouseicon>
+          </diagram>
+          <layoutmanager>
+            <ddsxmlobj />
+          </layoutmanager>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="FACT_TRIP" left="20" top="0" logicalid="1" controlid="1" masterid="0" hint1="0" hint2="0" width="4048" height="6825" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e0000d00f0000a91a0000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="Pynka_FACT_TRIP" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+        </dds>
+      </Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>-2877</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>-4485</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>20</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="d03ca58a-4bd2-4d55-b63f-e19ef4db70be">
+    <DataSourceViewID>Projekt_DSV</DataSourceViewID>
+  </Source>
+  <ErrorConfiguration dwd:design-time-name="093f6ffa-0401-4b0c-a621-30d8c049747f">
+    <KeyNotFound>ReportAndStop</KeyNotFound>
+    <KeyDuplicate>ReportAndStop</KeyDuplicate>
+    <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+  </ErrorConfiguration>
+  <CurrentStorageMode>Molap</CurrentStorageMode>
+  <Attributes>
+    <Attribute dwd:design-time-name="9df7083c-9019-4aa8-a6e6-47932a81287c">
+      <ID>TRIP ID</ID>
+      <Name>TRIP ID</Name>
+      <Usage>Key</Usage>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="68a1c0f7-7354-4c25-8f7c-62942f2b138b">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="0e86f6d9-ee20-4f8f-a882-61bc1e02e54f">
+            <TableID>Pynka_FACT_TRIP</TableID>
+            <ColumnID>TRIP_ID</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="a116ec0a-966c-4f7f-87b1-53365bda2a7e">
+          <AttributeID>Trip Customer</AttributeID>
+          <Name>Trip Customer</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="a6cc06cd-0978-44d2-b49c-43554e3f8bad">
+          <AttributeID>Trip Bike</AttributeID>
+          <Name>Trip Bike</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="d9f09f27-4a74-4e8b-b0b4-a4dbb50985b7">
+          <AttributeID>Trip Weather</AttributeID>
+          <Name>Trip Weather</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="877efc21-b8aa-4016-8495-429714950980">
+          <AttributeID>End Time</AttributeID>
+          <Name>End Time</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="cb1ea86c-e805-4ad5-8587-276548f214f1">
+          <AttributeID>Start Time</AttributeID>
+          <Name>Start Time</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="d478b638-f6a2-4cb4-81a3-602538802ab8">
+          <AttributeID>Start Station</AttributeID>
+          <Name>Start Station</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="5b9435bf-b316-4bc9-8e9a-ec7b30194eb7">
+          <AttributeID>End Station</AttributeID>
+          <Name>End Station</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="d5182e87-c5b9-4b69-af45-34f7eca562ea">
+          <AttributeID>Start Station Name</AttributeID>
+          <Name>Start Station Name</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="bc2bc42d-ea1a-4f0e-a7e2-704f9f376be6">
+          <AttributeID>End Station Name</AttributeID>
+          <Name>End Station Name</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="0338e232-8ef0-4ae6-81c2-95d62bf80c07">
+      <ID>Trip Customer</ID>
+      <Name>Trip Customer</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="70729797-2e08-4196-b103-e2939dc22f05">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="a47adb07-0e8a-4f7c-96b3-98264d598443">
+            <TableID>Pynka_FACT_TRIP</TableID>
+            <ColumnID>Trip_Customer</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="89746dc3-2549-4415-8a4c-2f2fe2e0fc4b">
+      <ID>Trip Bike</ID>
+      <Name>Trip Bike</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="2124d62e-42cc-4ef1-a9da-08ce476d419a">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="c3757a0f-909b-42fe-a73f-d7320c706dce">
+            <TableID>Pynka_FACT_TRIP</TableID>
+            <ColumnID>Trip_Bike</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="ee1c3ee0-2d69-4c64-9fed-0fa4bbe3f5e8">
+      <ID>Trip Weather</ID>
+      <Name>Trip Weather</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="e013fdb3-1a1b-44f1-8af3-9d86f3647127">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="6ce97801-48fe-4f55-b36d-612b4723cfb3">
+            <TableID>Pynka_FACT_TRIP</TableID>
+            <ColumnID>Trip_Weather</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="d54a1f9d-fe5d-4480-acea-c3cf25cbb671">
+      <ID>End Time</ID>
+      <Name>End Time</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="a52cf71f-684a-4531-8af1-4e4f38262e8e">
+          <DataType>WChar</DataType>
+          <DataSize>12</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="792802c8-28e0-4fbd-b668-81b2758955a1">
+            <TableID>Pynka_FACT_TRIP</TableID>
+            <ColumnID>End_Time</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="844ee5e2-8765-477a-99de-c3e9cbd6cf23">
+      <ID>Start Time</ID>
+      <Name>Start Time</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="67d7e72b-1e86-4f3b-9dc8-5ba3aa402e72">
+          <DataType>WChar</DataType>
+          <DataSize>12</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="4a1c9249-f9ac-4f34-a061-73075b095bf8">
+            <TableID>Pynka_FACT_TRIP</TableID>
+            <ColumnID>Start_Time</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="e2950d61-1da9-49ee-a56a-2f892a4197ad">
+      <ID>Start Station</ID>
+      <Name>Start Station</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="5f756ed4-a26c-42a8-b333-f7dcc3beeca5">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="78da71c1-617b-486e-9d07-654eb2008c99">
+            <TableID>Pynka_FACT_TRIP</TableID>
+            <ColumnID>Start_Station</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="f66cda36-1a44-4759-a5aa-fbb87dfb84bc">
+      <ID>End Station</ID>
+      <Name>End Station</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="4f57de48-ed86-4923-9791-8b1e63dbcf3a">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="6af21332-7b42-4d7a-a9bf-7ac92bd595e1">
+            <TableID>Pynka_FACT_TRIP</TableID>
+            <ColumnID>End_Station</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="3fba7a14-ab18-48ee-a6e5-0f13c8c6de9b">
+      <ID>Start Station Name</ID>
+      <Name>Start Station Name</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="1923be70-9137-469e-a5f3-520a5999b397">
+          <DataType>WChar</DataType>
+          <DataSize>45</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="effada2e-2467-44f3-8b39-5e5085a38afd">
+            <TableID>Pynka_FACT_TRIP</TableID>
+            <ColumnID>Start_Station_Name</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="3a3a4de2-d60b-4212-bfa6-e3c6c81bbb20">
+      <ID>End Station Name</ID>
+      <Name>End Station Name</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="ae895a5e-070e-4d5f-a332-208e86fb2ab4">
+          <DataType>WChar</DataType>
+          <DataSize>45</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="311fedc6-fbaa-4e0b-b3d1-f3db9dffe89b">
+            <TableID>Pynka_FACT_TRIP</TableID>
+            <ColumnID>End_Station_Name</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+  </Attributes>
+  <ddl300:ProcessingState>Unprocessed</ddl300:ProcessingState>
+</Dimension>

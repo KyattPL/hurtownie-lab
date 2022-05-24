@@ -1,0 +1,6 @@
+WITH MEMBER [Measures].[Avg Trip Duration] AS
+	[Measures].[Duration] / [Measures].[FACT TRIP Count]
+SELECT {[Measures].[Avg Trip Duration]} ON COLUMNS,
+	{[Start Station].[Name].MEMBERS} ON ROWS
+	FROM Projekt_Kostka
+	WHERE ([Start Station].[City].&[San Jose]);

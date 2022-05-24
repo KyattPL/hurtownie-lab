@@ -1,0 +1,96 @@
+﻿<DeploymentSnapshot xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0">
+  <Target>
+    <Database>Projekt_Kostka</Database>
+    <Server>localhost</Server>
+    <ConnectionString>Data Source=localhost;Timeout=0</ConnectionString>
+  </Target>
+  <Options>
+    <TransactionalDeployment>false</TransactionalDeployment>
+    <PartitionDeployment>DeployPartitions</PartitionDeployment>
+    <RoleDeployment>DeployRolesRetainMembers</RoleDeployment>
+    <ProcessingOption>DoNotProcess</ProcessingOption>
+    <OutputScript></OutputScript>
+    <ImpactAnalysisFile></ImpactAnalysisFile>
+    <ConfigurationSettingsDeployment>Deploy</ConfigurationSettingsDeployment>
+    <OptimizationSettingsDeployment>Deploy</OptimizationSettingsDeployment>
+    <WriteBackTableCreation>UseExisting</WriteBackTableCreation>
+  </Options>
+  <Snapshot>
+    <ObjectSnapshots>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.RelationalDataSource</Type>
+        <TimeStamp>IooJPNwRl4yRThKvT/lRWTkMjUo=22.05.2022 19:08:1522.05.2022 19:08:15</TimeStamp>
+        <ID>
+          <String>Projekt_DS</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.DataSourceView</Type>
+        <TimeStamp>ZfiOkhSb9WhbpxK/KQ5UXG6JlKc=22.05.2022 19:08:4622.05.2022 19:08:46</TimeStamp>
+        <ID>
+          <String>Projekt_DSV</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>oOVxXlU4PajBO41YaPOKEwr24bM=22.05.2022 19:24:0322.05.2022 19:09:20</TimeStamp>
+        <ID>
+          <String>DIM CUSTOMER</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>hkae+McDiYOcu7EBEO2SzOqx3W8=22.05.2022 19:23:5322.05.2022 19:09:20</TimeStamp>
+        <ID>
+          <String>DIM BIKE</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>813vHlTYrB9B3ydHgpboE4iD2Bk=22.05.2022 19:23:4122.05.2022 19:09:20</TimeStamp>
+        <ID>
+          <String>DIM WEATHER</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>asLpt0zd0x5RIsxxSvoqTUv5prw=22.05.2022 19:22:0322.05.2022 19:09:20</TimeStamp>
+        <ID>
+          <String>DIM TIME</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>fXtQt3/nTO49TAYPjkTRmTkAlmY=22.05.2022 19:24:1422.05.2022 19:09:20</TimeStamp>
+        <ID>
+          <String>DIM STATION</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Dimension</Type>
+        <TimeStamp>Uk66C8QNk7ipIvGZoNWDbI4zmPM=22.05.2022 19:28:2322.05.2022 19:09:20</TimeStamp>
+        <ID>
+          <String>FACT TRIP</String>
+        </ID>
+      </ObjectSnapshot>
+      <ObjectSnapshot>
+        <Type>Microsoft.AnalysisServices.Cube</Type>
+        <TimeStamp>SAKrKJP+gxiOwZC++xJzgdNUpkM=22.05.2022 19:28:2422.05.2022 19:09:20iq8xa7OtlKcSXDf/viw/7sU9QAE=22.05.2022 19:16:0822.05.2022 19:09:20</TimeStamp>
+        <ID>
+          <String>Projekt_Kostka</String>
+        </ID>
+      </ObjectSnapshot>
+    </ObjectSnapshots>
+    <DatabaseSnapshot>
+      <Type>Microsoft.AnalysisServices.Database</Type>
+      <TimeStamp>I4oTgiUibF6HNHBykkwjXO0m9Ss=22.05.2022 19:05:1322.05.2022 19:05:13</TimeStamp>
+      <ID>
+        <String>Projekt_Kostka</String>
+      </ID>
+    </DatabaseSnapshot>
+    <Granularity>Coarse</Granularity>
+  </Snapshot>
+  <AssemblyLocations />
+  <ProcessingComplete>true</ProcessingComplete>
+  <LastDeployed>2022-05-22T17:39:03.463333Z</LastDeployed>
+</DeploymentSnapshot>

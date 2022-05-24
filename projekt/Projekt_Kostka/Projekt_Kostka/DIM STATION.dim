@@ -1,0 +1,246 @@
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="345f04b1-886c-4826-a041-fd724b5187d6" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>DIM STATION</ID>
+  <Name>DIM STATION</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+      <Value>
+        <dds xmlns="">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="3" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-3089" scrolltop="-4988" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="9525" y="13970" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+            <font>
+              <ddsxmlobjectstreamwrapper binary="01ee0000900144420100065461686f6d61" />
+            </font>
+            <mouseicon>
+              <ddsxmlobjectstreamwrapper binary="6c74000000000000" />
+            </mouseicon>
+          </diagram>
+          <layoutmanager>
+            <ddsxmlobj />
+          </layoutmanager>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="DIM_STATION" left="20" top="0" logicalid="2" controlid="1" masterid="0" hint1="0" hint2="0" width="3307" height="3995" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e0000eb0c00009b0f0000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="Pynka_DIM_STATION" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+        </dds>
+      </Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>-3089</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>-4988</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>20</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>0</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="33d23936-e307-4bd3-8754-8a7e4f13c4ac">
+    <DataSourceViewID>Projekt_DSV</DataSourceViewID>
+  </Source>
+  <ErrorConfiguration dwd:design-time-name="6172e3de-9c28-49d9-9479-92afd769f991">
+    <KeyNotFound>ReportAndStop</KeyNotFound>
+    <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+  </ErrorConfiguration>
+  <CurrentStorageMode>Molap</CurrentStorageMode>
+  <Attributes>
+    <Attribute dwd:design-time-name="19774490-02b2-4d74-ae22-c35cd1875f9f">
+      <ID>STATION ID</ID>
+      <Name>STATION ID</Name>
+      <Usage>Key</Usage>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="ed7c048d-1ae6-44a7-8fd7-8ce4aad52e18">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="4c623493-4dce-4a14-80ce-3e11071a998e">
+            <TableID>Pynka_DIM_STATION</TableID>
+            <ColumnID>STATION_ID</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <NameColumn dwd:design-time-name="1004b3de-9926-478f-b388-955ee5e25762">
+        <DataType>WChar</DataType>
+        <DataSize>45</DataSize>
+        <Source xsi:type="ColumnBinding" dwd:design-time-name="b5a0d9bc-4794-4072-a405-a0200ff943be">
+          <TableID>Pynka_DIM_STATION</TableID>
+          <ColumnID>Name</ColumnID>
+        </Source>
+      </NameColumn>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="43bb5827-8629-4de1-a86b-ddd17890aaf7">
+          <AttributeID>Installation Date</AttributeID>
+          <Name>Installation Date</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="9cc7e46c-c1f4-439e-8784-c2f70bcf6a15">
+          <AttributeID>Name</AttributeID>
+          <Name>Name_</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="f72c7094-cddc-4ab8-af3a-8641ae5a2acf">
+          <AttributeID>Lat</AttributeID>
+          <Name>Lat</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="37ecacbc-623f-4f78-8488-c28b82ecb1b5">
+          <AttributeID>Long</AttributeID>
+          <Name>Long</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="92edad1c-718f-4f87-828b-8f8d3833ecf3">
+          <AttributeID>Dock Count</AttributeID>
+          <Name>Dock Count</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="8cb9464a-655e-4071-ac26-5127c0717f2b">
+          <AttributeID>City</AttributeID>
+          <Name>City</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="33346714-65ad-41e2-b3d1-b9529df18305">
+      <ID>Installation Date</ID>
+      <Name>Installation Date</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="49d562b4-4a04-4cb5-b115-d78acbf49f78">
+          <DataType>WChar</DataType>
+          <DataSize>12</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="55137a1b-c634-4cee-8c83-7893e42bfa27">
+            <TableID>Pynka_DIM_STATION</TableID>
+            <ColumnID>Installation_Date</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="01636940-dff0-41a8-b1e9-e0ebc191f629">
+      <ID>Name</ID>
+      <Name>Name</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="cc808561-5642-4df5-881d-d367ed814722">
+          <DataType>WChar</DataType>
+          <DataSize>45</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="baefabbf-3f45-4e8a-b80c-fe5020c664e4">
+            <TableID>Pynka_DIM_STATION</TableID>
+            <ColumnID>Name</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="63000e6d-a4a2-480b-be3a-f1879b2558b6">
+      <ID>Lat</ID>
+      <Name>Lat</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="6f2c2fb6-6412-44a2-bcde-782c1a8bbda2">
+          <DataType>Single</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="2a180c6f-03e3-4c76-aa59-bf56e96224fd">
+            <TableID>Pynka_DIM_STATION</TableID>
+            <ColumnID>Lat</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="33237fee-1f76-4508-9ce6-afa2c238bc8e">
+      <ID>Long</ID>
+      <Name>Long</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="109a3c91-a7db-43f4-8a5f-5486d56ddd45">
+          <DataType>Single</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="ec0198c9-1210-428c-bd36-b265ae15fbc8">
+            <TableID>Pynka_DIM_STATION</TableID>
+            <ColumnID>Long</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="df5ad33d-70dc-4f1a-a112-3bfcae345781">
+      <ID>Dock Count</ID>
+      <Name>Dock Count</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="181cde6c-9753-4b57-a89b-5f745248b433">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="23bea5e6-8300-4e39-8b69-e0d39f3d719c">
+            <TableID>Pynka_DIM_STATION</TableID>
+            <ColumnID>Dock_Count</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="a39df724-f4c6-4d06-bfee-4b2d68e0bab7">
+      <ID>City</ID>
+      <Name>City</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="210092d9-4dfe-4b8f-868e-0e8cd8e95250">
+          <DataType>WChar</DataType>
+          <DataSize>13</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="57a93c8d-886c-4f93-87d1-f02baabd0f55">
+            <TableID>Pynka_DIM_STATION</TableID>
+            <ColumnID>City</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+  </Attributes>
+  <Hierarchies>
+    <Hierarchy dwd:design-time-name="56e5db3a-f088-4864-8513-bdfab61f5766">
+      <ID>Hierarchy</ID>
+      <Name>Hierarchy</Name>
+      <Levels>
+        <Level dwd:design-time-name="67e8bb9d-8973-4b2e-b079-b7a5a12dae29">
+          <ID>City</ID>
+          <Name>City</Name>
+          <SourceAttributeID>City</SourceAttributeID>
+        </Level>
+        <Level dwd:design-time-name="59b02ceb-7854-4269-a351-a5cada8e460b">
+          <ID>Name</ID>
+          <Name>Name</Name>
+          <SourceAttributeID>Name</SourceAttributeID>
+        </Level>
+      </Levels>
+    </Hierarchy>
+  </Hierarchies>
+  <ddl300:ProcessingState>Unprocessed</ddl300:ProcessingState>
+</Dimension>

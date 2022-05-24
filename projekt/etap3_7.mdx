@@ -1,0 +1,6 @@
+WITH MEMBER [Measures].[Most trips] AS
+	MAX([Measures].[FACT TRIP Count])
+SELECT {[Start Time].[Month Name].CHILDREN} ON COLUMNS,
+	{[Start Station].[Name].CHILDREN} ON ROWS 
+	FROM Projekt_Kostka
+	WHERE [Measures].[Most trips];

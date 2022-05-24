@@ -1,0 +1,294 @@
+﻿<DataSourceView xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="6f20ccd2-1a6b-4838-889f-a61b1fbdb6ea" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Projekt_DSV</ID>
+  <Name>Projekt_DSV</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:CurrentLayout</Name>
+      <Value>_ALL_TABLES_</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:SchemaRestriction</Name>
+      <Value></Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:RetrieveRelationships</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:Layouts</Name>
+      <Value>
+        <Layouts xmlns="">
+          <Diagram>
+            <Name>_ALL_TABLES_</Name>
+            <DiagramLayout />
+            <ShowRelationshipNames>False</ShowRelationshipNames>
+            <UseDiagramDefaultLayout>True</UseDiagramDefaultLayout>
+            <DiagramViewPortLeft>0</DiagramViewPortLeft>
+            <DiagramViewPortTop>0</DiagramViewPortTop>
+            <DiagramBoundingLeft>0</DiagramBoundingLeft>
+            <DiagramBoundingTop>0</DiagramBoundingTop>
+            <DiagramZoom>100</DiagramZoom>
+          </Diagram>
+        </Layouts>
+      </Value>
+    </Annotation>
+  </Annotations>
+  <DataSourceID>Projekt_DS</DataSourceID>
+  <Schema>
+    <xs:schema id="Projekt_DSV" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata" xmlns:msprop="urn:schemas-microsoft-com:xml-msprop">
+      <xs:element name="Projekt_DSV" msdata:IsDataSet="true" msdata:UseCurrentLocale="true" msprop:design-time-name="7653649b-f93f-458f-834a-d6f7a1aafe24">
+        <xs:complexType>
+          <xs:choice minOccurs="0" maxOccurs="unbounded">
+            <xs:element name="Pynka_DIM_BIKE" msprop:design-time-name="9fcfe54d-1287-477a-b6a7-da629da4431d" msprop:DbTableName="DIM_BIKE" msprop:FriendlyName="DIM_BIKE" msprop:DbSchemaName="Pynka" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="BIKE_ID" msprop:design-time-name="88589b6d-9a05-4076-b737-5aff7cb8c704" msprop:DbColumnName="BIKE_ID" msprop:FriendlyName="BIKE_ID" type="xs:int" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Pynka_DIM_CUSTOMER" msprop:design-time-name="e026ade7-611e-476d-96bc-746837428657" msprop:DbTableName="DIM_CUSTOMER" msprop:FriendlyName="DIM_CUSTOMER" msprop:DbSchemaName="Pynka" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="CUSTOMER_ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="b7858bb7-b8d1-4161-b8f5-7dacbcfcdc6e" msprop:DbColumnName="CUSTOMER_ID" msprop:FriendlyName="CUSTOMER_ID" type="xs:int" />
+                  <xs:element name="Cust_Zip_Code" msprop:design-time-name="8c71cf82-b1eb-4424-9dff-ba236c3dce44" msprop:DbColumnName="Cust_Zip_Code" msprop:FriendlyName="Cust_Zip_Code" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="11" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Subscription_Type" msprop:design-time-name="c8bfce29-0b09-4bfc-a3b5-472a5cded033" msprop:DbColumnName="Subscription_Type" msprop:FriendlyName="Subscription_Type">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="10" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Pynka_DIM_STATION" msprop:design-time-name="f3a62d39-60f2-4ae8-8efb-61c48a4a43b9" msprop:DbTableName="DIM_STATION" msprop:FriendlyName="DIM_STATION" msprop:DbSchemaName="Pynka" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="STATION_ID" msprop:design-time-name="4841c1f7-d0ba-487e-9ca2-b8d9cbcf81e2" msprop:DbColumnName="STATION_ID" msprop:FriendlyName="STATION_ID" type="xs:int" />
+                  <xs:element name="Name" msprop:design-time-name="74dd9bba-d18f-4ab0-a0e7-298e31aea214" msprop:DbColumnName="Name" msprop:FriendlyName="Name">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="45" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Lat" msprop:design-time-name="ea3b805a-2e9c-4bf6-b226-2353cc4e7125" msprop:DbColumnName="Lat" msprop:FriendlyName="Lat" type="xs:float" />
+                  <xs:element name="Long" msprop:design-time-name="c009b807-ad3e-4642-9983-538869e51522" msprop:DbColumnName="Long" msprop:FriendlyName="Long" type="xs:float" />
+                  <xs:element name="Dock_Count" msprop:design-time-name="e7043827-8123-4a98-a78e-770874d58f04" msprop:DbColumnName="Dock_Count" msprop:FriendlyName="Dock_Count" type="xs:int" />
+                  <xs:element name="City" msprop:design-time-name="31f1cf1f-6dd8-4046-ba30-4d1ba5c03cd5" msprop:DbColumnName="City" msprop:FriendlyName="City">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="13" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Installation_Date" msprop:design-time-name="d4412b6b-9e6c-424f-a48d-9306c6f4d9e6" msprop:DbColumnName="Installation_Date" msprop:FriendlyName="Installation_Date">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="12" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Pynka_DIM_TIME" msprop:design-time-name="7f038042-afcb-499b-b667-4b3b45773998" msprop:DbTableName="DIM_TIME" msprop:FriendlyName="DIM_TIME" msprop:DbSchemaName="Pynka" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="PK_TIME" msprop:design-time-name="9d0513e0-2e7f-4910-a935-7845c12ba12d" msprop:DbColumnName="PK_TIME" msprop:FriendlyName="PK_TIME">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="12" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Year" msprop:design-time-name="6d2748a6-580f-49d4-8d92-80bd8c8d99e9" msprop:DbColumnName="Year" msprop:FriendlyName="Year" type="xs:int" />
+                  <xs:element name="Month" msprop:design-time-name="9496bdab-dfdc-4081-8797-0c4351908d2f" msprop:DbColumnName="Month" msprop:FriendlyName="Month" type="xs:int" />
+                  <xs:element name="Month_Name" msprop:design-time-name="9c683980-806f-4ace-be9b-ba1f318df554" msprop:DbColumnName="Month_Name" msprop:FriendlyName="Month_Name">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="9" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Day" msprop:design-time-name="ea06a919-40e7-41c4-a7f7-362356841271" msprop:DbColumnName="Day" msprop:FriendlyName="Day" type="xs:int" />
+                  <xs:element name="Week_Day" msprop:design-time-name="d39a4f5a-159b-4182-ba6b-cadf508acd5c" msprop:DbColumnName="Week_Day" msprop:FriendlyName="Week_Day">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="9" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Hour" msprop:design-time-name="de482d36-70b8-479f-bfbf-32dd3babf22d" msprop:DbColumnName="Hour" msprop:FriendlyName="Hour" type="xs:int" minOccurs="0" />
+                  <xs:element name="Minute" msprop:design-time-name="03deb546-d4e3-4750-b53c-ff80f39836d6" msprop:DbColumnName="Minute" msprop:FriendlyName="Minute" type="xs:int" minOccurs="0" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Pynka_DIM_WEATHER" msprop:design-time-name="60dfb486-d373-465d-9b56-c9ee6516082b" msprop:DbTableName="DIM_WEATHER" msprop:FriendlyName="DIM_WEATHER" msprop:DbSchemaName="Pynka" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="WEATHER_ID" msdata:ReadOnly="true" msdata:AutoIncrement="true" msprop:design-time-name="d62d7dde-d400-4181-ac3f-880d6faea15c" msprop:DbColumnName="WEATHER_ID" msprop:FriendlyName="WEATHER_ID" type="xs:int" />
+                  <xs:element name="Measure_Date" msprop:design-time-name="de9993a9-4940-4017-81a5-bf91691d9622" msprop:DbColumnName="Measure_Date" msprop:FriendlyName="Measure_Date">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="12" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Measure_City" msprop:design-time-name="de38e78b-0c78-45d9-81ac-48f2baacd551" msprop:DbColumnName="Measure_City" msprop:FriendlyName="Measure_City">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="13" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Max_Temperature" msprop:design-time-name="30b78dce-163f-4dbf-ab2a-937cfb3299b4" msprop:DbColumnName="Max_Temperature" msprop:FriendlyName="Max_Temperature" type="xs:int" minOccurs="0" />
+                  <xs:element name="Mean_Temperature" msprop:design-time-name="2de50c80-c1b8-48c5-913f-09c136d99934" msprop:DbColumnName="Mean_Temperature" msprop:FriendlyName="Mean_Temperature" type="xs:int" minOccurs="0" />
+                  <xs:element name="Min_Temperature" msprop:design-time-name="da847efc-4c84-4b91-ba9f-f2ff8828bac5" msprop:DbColumnName="Min_Temperature" msprop:FriendlyName="Min_Temperature" type="xs:int" minOccurs="0" />
+                  <xs:element name="Max_Humidity" msprop:design-time-name="a1003270-c904-443f-a3ca-39ad9842d60e" msprop:DbColumnName="Max_Humidity" msprop:FriendlyName="Max_Humidity" type="xs:int" minOccurs="0" />
+                  <xs:element name="Mean_Humidity" msprop:design-time-name="3c6fad8f-0521-4e80-a7dd-6e46b0bea380" msprop:DbColumnName="Mean_Humidity" msprop:FriendlyName="Mean_Humidity" type="xs:int" minOccurs="0" />
+                  <xs:element name="Min_Humidity" msprop:design-time-name="453dec9f-49c1-471b-9a9e-9a1824222c4e" msprop:DbColumnName="Min_Humidity" msprop:FriendlyName="Min_Humidity" type="xs:int" minOccurs="0" />
+                  <xs:element name="Max_Pressure" msprop:design-time-name="ee2df0de-05a9-4520-8465-619c9f3718db" msprop:DbColumnName="Max_Pressure" msprop:FriendlyName="Max_Pressure" type="xs:float" minOccurs="0" />
+                  <xs:element name="Mean_Pressure" msprop:design-time-name="9468a922-6995-4d70-8c26-7d9c61bbb3cd" msprop:DbColumnName="Mean_Pressure" msprop:FriendlyName="Mean_Pressure" type="xs:float" minOccurs="0" />
+                  <xs:element name="Min_Pressure" msprop:design-time-name="b5e51346-d8cc-4920-9134-d4c08b8bca8b" msprop:DbColumnName="Min_Pressure" msprop:FriendlyName="Min_Pressure" type="xs:float" minOccurs="0" />
+                  <xs:element name="Max_Visibility" msprop:design-time-name="ef37b990-c228-407d-ba6f-5d19c88b4d61" msprop:DbColumnName="Max_Visibility" msprop:FriendlyName="Max_Visibility" type="xs:int" minOccurs="0" />
+                  <xs:element name="Mean_Visibility" msprop:design-time-name="0a0a832f-a80e-4334-9d6b-a20accdcb4d5" msprop:DbColumnName="Mean_Visibility" msprop:FriendlyName="Mean_Visibility" type="xs:int" minOccurs="0" />
+                  <xs:element name="Min_Visibility" msprop:design-time-name="85555414-c7e8-4c37-ad9d-4b5d95f2a2cb" msprop:DbColumnName="Min_Visibility" msprop:FriendlyName="Min_Visibility" type="xs:int" minOccurs="0" />
+                  <xs:element name="Precipitation_Inches" msprop:design-time-name="ef0f8c44-4394-47ab-9a63-981bff77873a" msprop:DbColumnName="Precipitation_Inches" msprop:FriendlyName="Precipitation_Inches" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="4" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Cloud_Cover" msprop:design-time-name="79c33d14-1c4d-4a59-876e-93ca0ebc07fc" msprop:DbColumnName="Cloud_Cover" msprop:FriendlyName="Cloud_Cover" type="xs:int" minOccurs="0" />
+                  <xs:element name="Events" msprop:design-time-name="6b46358c-2662-4b73-8d8b-03020c0e4e4d" msprop:DbColumnName="Events" msprop:FriendlyName="Events" minOccurs="0">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="17" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+            <xs:element name="Pynka_FACT_TRIP" msprop:design-time-name="8110285a-0392-44c8-afc4-e2f183b8809f" msprop:DbTableName="FACT_TRIP" msprop:FriendlyName="FACT_TRIP" msprop:DbSchemaName="Pynka" msprop:TableType="Table">
+              <xs:complexType>
+                <xs:sequence>
+                  <xs:element name="TRIP_ID" msprop:design-time-name="52d1e8fa-9e7c-4f50-af35-4d319416c596" msprop:DbColumnName="TRIP_ID" msprop:FriendlyName="TRIP_ID" type="xs:int" />
+                  <xs:element name="Start_Time" msprop:design-time-name="e27e09cb-4fc6-438b-9bfb-1b3a07924cda" msprop:DbColumnName="Start_Time" msprop:FriendlyName="Start_Time">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="12" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="End_Time" msprop:design-time-name="41a9d303-1c26-4087-81ff-1f8cb96f25e7" msprop:DbColumnName="End_Time" msprop:FriendlyName="End_Time">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="12" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Start_Station" msprop:design-time-name="680f4e92-f7ef-4fb5-adf7-0b77df67e402" msprop:DbColumnName="Start_Station" msprop:FriendlyName="Start_Station" type="xs:int" />
+                  <xs:element name="End_Station" msprop:design-time-name="899ca448-0cae-47ec-ba81-3a9400348b04" msprop:DbColumnName="End_Station" msprop:FriendlyName="End_Station" type="xs:int" />
+                  <xs:element name="Start_Station_Name" msprop:design-time-name="3cd41ad2-df24-4a23-a6a1-c1d196108fca" msprop:DbColumnName="Start_Station_Name" msprop:FriendlyName="Start_Station_Name">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="45" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="End_Station_Name" msprop:design-time-name="df0ed780-419c-4560-a348-2428c95ac794" msprop:DbColumnName="End_Station_Name" msprop:FriendlyName="End_Station_Name">
+                    <xs:simpleType>
+                      <xs:restriction base="xs:string">
+                        <xs:maxLength value="45" />
+                      </xs:restriction>
+                    </xs:simpleType>
+                  </xs:element>
+                  <xs:element name="Trip_Customer" msprop:design-time-name="88966bc1-7335-477b-bb4a-b6ad30d244cd" msprop:DbColumnName="Trip_Customer" msprop:FriendlyName="Trip_Customer" type="xs:int" />
+                  <xs:element name="Trip_Bike" msprop:design-time-name="93a57f8d-2eba-4cf5-a8f6-9ebad5ea5edf" msprop:DbColumnName="Trip_Bike" msprop:FriendlyName="Trip_Bike" type="xs:int" />
+                  <xs:element name="Trip_Weather" msprop:design-time-name="f77f0be8-3f13-4260-92f2-a2ad6397affc" msprop:DbColumnName="Trip_Weather" msprop:FriendlyName="Trip_Weather" type="xs:int" />
+                  <xs:element name="Duration" msprop:design-time-name="67513020-da00-48e5-bc7b-f2b309158949" msprop:DbColumnName="Duration" msprop:FriendlyName="Duration" type="xs:int" />
+                </xs:sequence>
+              </xs:complexType>
+            </xs:element>
+          </xs:choice>
+        </xs:complexType>
+        <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//Pynka_DIM_BIKE" />
+          <xs:field xpath="BIKE_ID" />
+        </xs:unique>
+        <xs:unique name="Pynka_DIM_CUSTOMER_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//Pynka_DIM_CUSTOMER" />
+          <xs:field xpath="CUSTOMER_ID" />
+        </xs:unique>
+        <xs:unique name="Pynka_DIM_STATION_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//Pynka_DIM_STATION" />
+          <xs:field xpath="STATION_ID" />
+        </xs:unique>
+        <xs:unique name="Pynka_DIM_TIME_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//Pynka_DIM_TIME" />
+          <xs:field xpath="PK_TIME" />
+        </xs:unique>
+        <xs:unique name="Pynka_DIM_WEATHER_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//Pynka_DIM_WEATHER" />
+          <xs:field xpath="WEATHER_ID" />
+        </xs:unique>
+        <xs:unique name="Pynka_FACT_TRIP_Constraint1" msdata:ConstraintName="Constraint1" msdata:PrimaryKey="true">
+          <xs:selector xpath=".//Pynka_FACT_TRIP" />
+          <xs:field xpath="TRIP_ID" />
+        </xs:unique>
+        <xs:keyref name="fact_trip_fk_end_station" refer="Pynka_DIM_STATION_Constraint1">
+          <xs:selector xpath=".//Pynka_FACT_TRIP" />
+          <xs:field xpath="End_Station" />
+        </xs:keyref>
+        <xs:keyref name="fact_trip_fk_start_station" refer="Pynka_DIM_STATION_Constraint1">
+          <xs:selector xpath=".//Pynka_FACT_TRIP" />
+          <xs:field xpath="Start_Station" />
+        </xs:keyref>
+        <xs:keyref name="fact_trip_fk_start_time" refer="Pynka_DIM_TIME_Constraint1">
+          <xs:selector xpath=".//Pynka_FACT_TRIP" />
+          <xs:field xpath="Start_Time" />
+        </xs:keyref>
+        <xs:keyref name="fact_trip_fk_end_time" refer="Pynka_DIM_TIME_Constraint1">
+          <xs:selector xpath=".//Pynka_FACT_TRIP" />
+          <xs:field xpath="End_Time" />
+        </xs:keyref>
+        <xs:keyref name="fact_trip_fk_weather" refer="Pynka_DIM_WEATHER_Constraint1">
+          <xs:selector xpath=".//Pynka_FACT_TRIP" />
+          <xs:field xpath="Trip_Weather" />
+        </xs:keyref>
+        <xs:keyref name="fact_trip_fk_bike" refer="Constraint1">
+          <xs:selector xpath=".//Pynka_FACT_TRIP" />
+          <xs:field xpath="Trip_Bike" />
+        </xs:keyref>
+        <xs:keyref name="fact_trip_fk_customer" refer="Pynka_DIM_CUSTOMER_Constraint1">
+          <xs:selector xpath=".//Pynka_FACT_TRIP" />
+          <xs:field xpath="Trip_Customer" />
+        </xs:keyref>
+        <xs:keyref name="dim_weather_fk_date" refer="Pynka_DIM_TIME_Constraint1">
+          <xs:selector xpath=".//Pynka_DIM_WEATHER" />
+          <xs:field xpath="Measure_Date" />
+        </xs:keyref>
+        <xs:keyref name="dim_station_fk_install" refer="Pynka_DIM_TIME_Constraint1">
+          <xs:selector xpath=".//Pynka_DIM_STATION" />
+          <xs:field xpath="Installation_Date" />
+        </xs:keyref>
+      </xs:element>
+    </xs:schema>
+    <Projekt_DSV xmlns="" />
+  </Schema>
+</DataSourceView>

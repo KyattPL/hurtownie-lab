@@ -1,0 +1,65 @@
+﻿<Cube xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="f75d033f-b23b-4723-b4e3-940e7362c3c5" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>Projekt_Kostka</ID>
+  <MeasureGroups>
+    <MeasureGroup>
+      <ID>FACT TRIP</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="c3326067-4edb-4a8d-b67a-6dcc381ab081">
+          <ID>FACT TRIP</ID>
+          <Name>FACT TRIP</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="945503c0-4eea-4e98-9c10-e02b5cab6e0a">
+            <DataSourceViewID>Projekt_DSV</DataSourceViewID>
+            <TableID>Pynka_FACT_TRIP</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>FACT TRIP 1</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="dcf68cb2-fcca-4c1b-a306-950cf408cf50">
+          <ID>FACT TRIP</ID>
+          <Name>FACT TRIP</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="918f1895-4416-44dc-84a6-34c97a9653d8">
+            <DataSourceViewID>Projekt_DSV</DataSourceViewID>
+            <TableID>Pynka_FACT_TRIP</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+    <MeasureGroup>
+      <ID>FACT TRIP 2</ID>
+      <Partitions>
+        <Partition dwd:design-time-name="c6cb37a1-3cc4-4a42-bac5-e7ae33010426">
+          <ID>FACT TRIP</ID>
+          <Name>FACT TRIP</Name>
+          <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+          <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+          <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+          <State>Unprocessed</State>
+          <Source xsi:type="DsvTableBinding" dwd:design-time-name="9b3b0176-63f2-4c91-81c2-607db4dcbe52">
+            <DataSourceViewID>Projekt_DSV</DataSourceViewID>
+            <TableID>Pynka_FACT_TRIP</TableID>
+          </Source>
+          <StorageMode>Molap</StorageMode>
+          <CurrentStorageMode>Molap</CurrentStorageMode>
+          <ProcessingMode>Regular</ProcessingMode>
+        </Partition>
+      </Partitions>
+    </MeasureGroup>
+  </MeasureGroups>
+</Cube>

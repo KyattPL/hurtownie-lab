@@ -1,0 +1,430 @@
+﻿<Dimension xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="f7b314b3-48d0-41a3-9f01-8ea45ccad762" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+  <ID>DIM WEATHER</ID>
+  <Name>DIM WEATHER</Name>
+  <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+  <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+  <Annotations>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
+      <Value>
+        <dds xmlns="">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="3" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-2864" scrolltop="-4485" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="100" x="9525" y="13970" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="0" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+            <font>
+              <ddsxmlobjectstreamwrapper binary="01ee0000900144420100065461686f6d61" />
+            </font>
+            <mouseicon>
+              <ddsxmlobjectstreamwrapper binary="6c74000000000000" />
+            </mouseicon>
+          </diagram>
+          <layoutmanager>
+            <ddsxmlobj />
+          </layoutmanager>
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="DIM_WEATHER" left="46" top="-1985" logicalid="2" controlid="1" masterid="0" hint1="0" hint2="0" width="3625" height="9048" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobjectstreaminitwrapper binary="000e0000290e000058230000" />
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="Pynka_DIM_WEATHER" vartype="8" />
+              </ddsxmlobj>
+            </layoutobject>
+            <shape groupshapeid="0" groupnode="0" />
+          </ddscontrol>
+        </dds>
+      </Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowFriendlyNames</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:ShowRelationshipNames</Name>
+      <Value>false</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:UseDiagramDefaultLayout</Name>
+      <Value>true</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortLeft</Name>
+      <Value>-2864</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
+      <Value>-4485</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
+      <Value>46</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
+      <Value>-1985</Value>
+    </Annotation>
+    <Annotation>
+      <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
+      <Value>100</Value>
+    </Annotation>
+  </Annotations>
+  <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
+  <State>Unprocessed</State>
+  <Source xsi:type="DataSourceViewBinding" dwd:design-time-name="e1521e7f-fedd-4f07-b716-b0f4c6a6703e">
+    <DataSourceViewID>Projekt_DSV</DataSourceViewID>
+  </Source>
+  <ErrorConfiguration dwd:design-time-name="c7eb1352-f107-4b1c-b84c-baec653c4979">
+    <KeyNotFound>ReportAndStop</KeyNotFound>
+    <NullKeyNotAllowed>ReportAndStop</NullKeyNotAllowed>
+  </ErrorConfiguration>
+  <CurrentStorageMode>Molap</CurrentStorageMode>
+  <Attributes>
+    <Attribute dwd:design-time-name="32f4f0cd-84bb-41a3-b068-7576665eaf23">
+      <ID>WEATHER ID</ID>
+      <Name>WEATHER ID</Name>
+      <Usage>Key</Usage>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="61389918-e042-4ccd-ad45-bdae4df39640">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="42cb4c08-27ae-4135-aae9-2ae7fd4202fa">
+            <TableID>Pynka_DIM_WEATHER</TableID>
+            <ColumnID>WEATHER_ID</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <AttributeRelationships>
+        <AttributeRelationship dwd:design-time-name="b8c93388-6786-4453-be48-571e636917c6">
+          <AttributeID>Measure Date</AttributeID>
+          <Name>Measure Date</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="acea183f-0ce1-4f79-8a6e-0e95823d1fe2">
+          <AttributeID>Measure City</AttributeID>
+          <Name>Measure City</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="db3dcae2-17c1-4d05-a59d-d2a0b798678a">
+          <AttributeID>Max Temperature</AttributeID>
+          <Name>Max Temperature</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="14bbf54e-688e-423b-9344-61b2d19b4f66">
+          <AttributeID>Mean Temperature</AttributeID>
+          <Name>Mean Temperature</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="f0b357e9-5478-45e6-9ec6-8bed960380bf">
+          <AttributeID>Min Temperature</AttributeID>
+          <Name>Min Temperature</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="46ee3936-6101-4317-8f4e-a2a858547164">
+          <AttributeID>Max Humidity</AttributeID>
+          <Name>Max Humidity</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="9174e2d4-6cc7-430b-bb31-7701c0134a5a">
+          <AttributeID>Mean Humidity</AttributeID>
+          <Name>Mean Humidity</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="42180cbc-ed36-4fd4-827d-b624b21686ec">
+          <AttributeID>Min Humidity</AttributeID>
+          <Name>Min Humidity</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="29618eb8-0414-4c91-a39b-47324161c805">
+          <AttributeID>Max Pressure</AttributeID>
+          <Name>Max Pressure</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="4709f7e4-3fef-4c4d-813a-9a8551c5f4fb">
+          <AttributeID>Mean Pressure</AttributeID>
+          <Name>Mean Pressure</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="98a8334c-149f-4857-aca5-180f62421974">
+          <AttributeID>Min Pressure</AttributeID>
+          <Name>Min Pressure</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="55f9f4f1-2781-40ec-9419-23a74aa02591">
+          <AttributeID>Max Visibility</AttributeID>
+          <Name>Max Visibility</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="91d4608a-b424-49db-97fd-c1b486c472ce">
+          <AttributeID>Mean Visibility</AttributeID>
+          <Name>Mean Visibility</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="778b2ffb-645e-4d7f-ae27-a87cfc53cfc2">
+          <AttributeID>Min Visibility</AttributeID>
+          <Name>Min Visibility</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="ffd9dd56-d467-4260-bec3-e93f25f395fb">
+          <AttributeID>Precipitation Inches</AttributeID>
+          <Name>Precipitation Inches</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="6949bd6c-bb88-4d8f-b089-1449dca6542b">
+          <AttributeID>Cloud Cover</AttributeID>
+          <Name>Cloud Cover</Name>
+        </AttributeRelationship>
+        <AttributeRelationship dwd:design-time-name="d8a1b653-ab74-4ce6-a0f4-87fecdbe032f">
+          <AttributeID>Events</AttributeID>
+          <Name>Events</Name>
+        </AttributeRelationship>
+      </AttributeRelationships>
+      <OrderBy>Key</OrderBy>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="fcc1fb09-1605-4936-8bc6-ec27ae7ed812">
+      <ID>Measure Date</ID>
+      <Name>Measure Date</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="509fd283-c950-4a5f-8541-a670bc4c179a">
+          <DataType>WChar</DataType>
+          <DataSize>12</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="e7b8b76b-2f56-4424-8454-8900eee8112a">
+            <TableID>Pynka_DIM_WEATHER</TableID>
+            <ColumnID>Measure_Date</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <OrderBy>Key</OrderBy>
+      <AttributeHierarchyVisible>false</AttributeHierarchyVisible>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="dea4cb45-8349-48e6-8e4b-e8e70ac71c6a">
+      <ID>Measure City</ID>
+      <Name>Measure City</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="380a367e-d247-4fe2-bd57-a7dcfaaaf74f">
+          <DataType>WChar</DataType>
+          <DataSize>13</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="85a8f1e3-dd42-4cec-add4-5c89c07e6cd9">
+            <TableID>Pynka_DIM_WEATHER</TableID>
+            <ColumnID>Measure_City</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="07d7518f-6620-4012-8e8d-ac0775e6ab1c">
+      <ID>Max Temperature</ID>
+      <Name>Max Temperature</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="b170d206-bd89-487e-aa98-8f240ae4cca6">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="626f9dff-ba30-41b2-874b-5e61ab963efc">
+            <TableID>Pynka_DIM_WEATHER</TableID>
+            <ColumnID>Max_Temperature</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="9c5d7e7c-dd56-4843-956a-3990707413e1">
+      <ID>Mean Temperature</ID>
+      <Name>Mean Temperature</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="0c220bb8-b480-43b0-9727-cf7c6736c7d1">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="ca16d276-7376-4beb-8c22-52822ce38367">
+            <TableID>Pynka_DIM_WEATHER</TableID>
+            <ColumnID>Mean_Temperature</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="955d1a55-d430-4e16-bb3e-53cad0f4a1e3">
+      <ID>Min Temperature</ID>
+      <Name>Min Temperature</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="e75eda71-8955-4ea6-9f2b-6cf16ad674ca">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="8f646956-a1ec-4633-a955-f0155aaee6c6">
+            <TableID>Pynka_DIM_WEATHER</TableID>
+            <ColumnID>Min_Temperature</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="297915ae-0e0c-473e-8b69-717f437e295e">
+      <ID>Max Humidity</ID>
+      <Name>Max Humidity</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="45d14818-9877-4b5d-8b61-f46ca2d5415c">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="fa54501f-301b-4ad6-ae49-072763fcbe8e">
+            <TableID>Pynka_DIM_WEATHER</TableID>
+            <ColumnID>Max_Humidity</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="9d4f4044-191c-43cc-a638-6b76c9ca1a9a">
+      <ID>Mean Humidity</ID>
+      <Name>Mean Humidity</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="65acd638-ec62-4595-929c-67d9b21d4725">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="bd1d59c5-003f-4b08-81c3-85d5183260e9">
+            <TableID>Pynka_DIM_WEATHER</TableID>
+            <ColumnID>Mean_Humidity</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="8124b670-e66d-4dd2-8261-4c41deec0093">
+      <ID>Min Humidity</ID>
+      <Name>Min Humidity</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="434ff878-ffb2-4ade-b87d-5dbe49dbe1fc">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="3c5f1669-d441-4ee2-83d1-509b459ac32b">
+            <TableID>Pynka_DIM_WEATHER</TableID>
+            <ColumnID>Min_Humidity</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="9275dc1b-5e11-40a5-a50d-015c46421dce">
+      <ID>Max Pressure</ID>
+      <Name>Max Pressure</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="8cb8df48-f2b9-4d4e-95af-b73a38adca14">
+          <DataType>Single</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="0cb9418f-b523-47a1-bfd8-60af15dd7d57">
+            <TableID>Pynka_DIM_WEATHER</TableID>
+            <ColumnID>Max_Pressure</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="c06dca60-e849-4dd8-9293-ce4055a3100a">
+      <ID>Mean Pressure</ID>
+      <Name>Mean Pressure</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="9e7d7511-b4d8-47d9-8587-846202640984">
+          <DataType>Single</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="b50e09df-5461-4432-b386-0cc7e333c979">
+            <TableID>Pynka_DIM_WEATHER</TableID>
+            <ColumnID>Mean_Pressure</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="2b032871-df75-4bf3-a44e-1f019cdcbb7a">
+      <ID>Min Pressure</ID>
+      <Name>Min Pressure</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="43d8cb15-0b54-47b6-bcc6-cc5e88d564b3">
+          <DataType>Single</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="b866c370-f140-42e4-bfa2-f4953690aebd">
+            <TableID>Pynka_DIM_WEATHER</TableID>
+            <ColumnID>Min_Pressure</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="76c9310c-a9d8-4969-8edc-c7146f854e99">
+      <ID>Max Visibility</ID>
+      <Name>Max Visibility</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="dd8faff4-f645-477e-ab9d-8a6955a1faf7">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="a55b0b7c-c45a-4058-8e72-ea868263d10c">
+            <TableID>Pynka_DIM_WEATHER</TableID>
+            <ColumnID>Max_Visibility</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="cb50cd04-a1ca-4a8d-9434-8d36b0199775">
+      <ID>Mean Visibility</ID>
+      <Name>Mean Visibility</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="58b4b355-8a7f-440c-9358-1a3faee41a6a">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="091c43a2-f8b2-4f70-98b2-e1b5fd8dd791">
+            <TableID>Pynka_DIM_WEATHER</TableID>
+            <ColumnID>Mean_Visibility</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="0deb12b6-ba00-46d2-8222-884e5a21803a">
+      <ID>Min Visibility</ID>
+      <Name>Min Visibility</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="2f1a30bf-b3d3-4764-bac1-bb36d341f184">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="d982f06b-aa51-44dd-acbf-cdf6889f5352">
+            <TableID>Pynka_DIM_WEATHER</TableID>
+            <ColumnID>Min_Visibility</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="bb2bd65f-f885-4176-a2e7-4cb38d426898">
+      <ID>Precipitation Inches</ID>
+      <Name>Precipitation Inches</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="5cb06166-027a-4e83-bf32-a32f869da4b4">
+          <DataType>WChar</DataType>
+          <DataSize>4</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="47810088-9eda-48c9-a6bd-d328b26faa96">
+            <TableID>Pynka_DIM_WEATHER</TableID>
+            <ColumnID>Precipitation_Inches</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="7f594d55-95a4-4e3e-b98f-7c4cacc5891d">
+      <ID>Cloud Cover</ID>
+      <Name>Cloud Cover</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="a4f49be3-f84b-49e8-a223-48169f46ab0d">
+          <DataType>Integer</DataType>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="6214046c-25b7-4b2a-bbb3-186e1fb37f5b">
+            <TableID>Pynka_DIM_WEATHER</TableID>
+            <ColumnID>Cloud_Cover</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+    <Attribute dwd:design-time-name="97504dd2-bd6c-4a8c-85ce-1c955b8fb2ee">
+      <ID>Events</ID>
+      <Name>Events</Name>
+      <KeyColumns>
+        <KeyColumn dwd:design-time-name="8b33c44d-7e3b-4a72-9b83-30030af0dddb">
+          <DataType>WChar</DataType>
+          <DataSize>17</DataSize>
+          <Source xsi:type="ColumnBinding" dwd:design-time-name="1a7a3980-db99-4313-a148-15da6f42cb62">
+            <TableID>Pynka_DIM_WEATHER</TableID>
+            <ColumnID>Events</ColumnID>
+          </Source>
+        </KeyColumn>
+      </KeyColumns>
+      <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
+      <ddl300:AttributeHierarchyProcessingState>Unprocessed</ddl300:AttributeHierarchyProcessingState>
+    </Attribute>
+  </Attributes>
+  <ddl300:ProcessingState>Unprocessed</ddl300:ProcessingState>
+</Dimension>

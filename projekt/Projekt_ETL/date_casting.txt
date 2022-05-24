@@ -1,0 +1,1 @@
+(DT_STR,12,1250)((DT_STR,4,1250)YEAR(casted) + RIGHT("00" + (DT_STR,2,1250)MONTH(casted),2) + RIGHT("00" + (DT_STR,2,1250)DAY(casted),2) + "XXXX")
