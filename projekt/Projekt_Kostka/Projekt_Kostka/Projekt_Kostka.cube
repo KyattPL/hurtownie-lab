@@ -1,4 +1,4 @@
-﻿<Cube xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="3263cda5-6ac8-4235-a13c-5297b56e54ee" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
+﻿<Cube xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ddl2="http://schemas.microsoft.com/analysisservices/2003/engine/2" xmlns:ddl2_2="http://schemas.microsoft.com/analysisservices/2003/engine/2/2" xmlns:ddl100_100="http://schemas.microsoft.com/analysisservices/2008/engine/100/100" xmlns:ddl200="http://schemas.microsoft.com/analysisservices/2010/engine/200" xmlns:ddl200_200="http://schemas.microsoft.com/analysisservices/2010/engine/200/200" xmlns:ddl300="http://schemas.microsoft.com/analysisservices/2011/engine/300" xmlns:ddl300_300="http://schemas.microsoft.com/analysisservices/2011/engine/300/300" xmlns:ddl400="http://schemas.microsoft.com/analysisservices/2012/engine/400" xmlns:ddl400_400="http://schemas.microsoft.com/analysisservices/2012/engine/400/400" xmlns:ddl500="http://schemas.microsoft.com/analysisservices/2013/engine/500" xmlns:ddl500_500="http://schemas.microsoft.com/analysisservices/2013/engine/500/500" xmlns:dwd="http://schemas.microsoft.com/DataWarehouse/Designer/1.0" dwd:design-time-name="102df492-3b12-49ce-805d-d62cf974f6f4" xmlns="http://schemas.microsoft.com/analysisservices/2003/engine">
   <ID>Projekt_Kostka</ID>
   <Name>Projekt_Kostka</Name>
   <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
@@ -8,7 +8,7 @@
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramLayout</Name>
       <Value>
         <dds xmlns="">
-          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="32" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-9193" scrolltop="4989" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="79" x="25003" y="13970" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="1" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
+          <diagram fontclsid="{0BE35203-8F91-11CE-9DE3-00AA004BB851}" mouseiconclsid="{0BE35204-8F91-11CE-9DE3-00AA004BB851}" defaultlayout="MSDDS.Rectilinear" defaultlineroute="MSDDS.Rectilinear" version="7" nextobject="39" scale="100" pagebreakanchorx="0" pagebreakanchory="0" pagebreaksizex="0" pagebreaksizey="0" scrollleft="-9193" scrolltop="-1641" gridx="150" gridy="150" marginx="5000" marginy="5000" zoom="79" x="31962" y="14684" backcolor="2434342" defaultpersistence="2" PrintPageNumbersMode="3" PrintMarginTop="0" PrintMarginBottom="635" PrintMarginLeft="0" PrintMarginRight="0" marqueeselectionmode="0" mousepointer="0" snaptogrid="0" autotypeannotation="1" showscrollbars="1" viewpagebreaks="0" donotforceconnectorsbehindshapes="1" backpictureclsid="{00000000-0000-0000-0000-000000000000}">
             <font>
               <ddsxmlobjectstreamwrapper binary="01ee0000900144420100065461686f6d61" />
             </font>
@@ -30,7 +30,7 @@
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
           </ddscontrol>
-          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="DIM_WEATHER" left="11127" top="1" logicalid="17" controlid="2" masterid="0" hint1="0" hint2="0" width="3757" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="DdsShapes.DdsObjectManagedBridge" tooltip="DIM_WEATHER" left="11127" top="235" logicalid="17" controlid="2" masterid="0" hint1="0" hint2="0" width="3757" height="5000" noresize="0" nomove="0" nodefaultattachpoints="0" autodrag="1" usedefaultiddshape="1" selectable="1" showselectionhandles="1" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobjectstreaminitwrapper binary="000e0000ad0e000088130000" />
             </control>
@@ -85,128 +85,10 @@
             </layoutobject>
             <shape groupshapeid="0" groupnode="0" />
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="9017" top="9501" logicalid="22" controlid="7" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="5402" top="12101" logicalid="32" controlid="17" masterid="0" hint1="0" hint2="0" width="799" height="3200" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
-                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
-              </ddsxmlobj>
-            </control>
-            <layoutobject>
-              <ddsxmlobj>
-                <property name="LogicalObject" value="dataSet.Relations[fact_trip_fk_bike]" vartype="8" />
-                <property name="Virtual" value="0" vartype="11" />
-                <property name="VisibleAP" value="0" vartype="3" />
-              </ddsxmlobj>
-            </layoutobject>
-            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="1" destid="5" sourceattachpoint="12" destattachpoint="23" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
-              <point x="11717" y="9900" />
-              <point x="10517" y="9900" />
-              <point x="10517" y="9901" />
-              <point x="9317" y="9901" />
-            </connector>
-          </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="8427" top="2101" logicalid="23" controlid="8" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
-            <control>
-              <ddsxmlobj>
-                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
-              </ddsxmlobj>
-            </control>
-            <layoutobject>
-              <ddsxmlobj>
-                <property name="LogicalObject" value="dataSet.Relations[dim_weather_fk_date]" vartype="8" />
-                <property name="Virtual" value="0" vartype="11" />
-                <property name="VisibleAP" value="0" vartype="3" />
-              </ddsxmlobj>
-            </layoutobject>
-            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="3" destid="2" sourceattachpoint="17" destattachpoint="22" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
-              <point x="8727" y="2500" />
-              <point x="9927" y="2500" />
-              <point x="9927" y="2501" />
-              <point x="11127" y="2501" />
-            </connector>
-          </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="8801" top="4502" logicalid="24" controlid="9" masterid="0" hint1="0" hint2="0" width="4604" height="3199" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
-            <control>
-              <ddsxmlobj>
-                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
-              </ddsxmlobj>
-            </control>
-            <layoutobject>
-              <ddsxmlobj>
-                <property name="LogicalObject" value="dataSet.Relations[fact_trip_fk_weather]" vartype="8" />
-                <property name="Virtual" value="0" vartype="11" />
-                <property name="VisibleAP" value="0" vartype="3" />
-              </ddsxmlobj>
-            </layoutobject>
-            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="2" destid="5" sourceattachpoint="7" destattachpoint="12" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
-              <point x="13005" y="5001" />
-              <point x="13005" y="6201" />
-              <point x="9101" y="6201" />
-              <point x="9101" y="7401" />
-            </connector>
-          </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="3027" top="2101" logicalid="25" controlid="10" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
-            <control>
-              <ddsxmlobj>
-                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
-              </ddsxmlobj>
-            </control>
-            <layoutobject>
-              <ddsxmlobj>
-                <property name="LogicalObject" value="dataSet.Relations[dim_station_fk_install]" vartype="8" />
-                <property name="Virtual" value="0" vartype="11" />
-                <property name="VisibleAP" value="0" vartype="3" />
-              </ddsxmlobj>
-            </layoutobject>
-            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="3" destid="6" sourceattachpoint="16" destattachpoint="17" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
-              <point x="5727" y="2500" />
-              <point x="3327" y="2500" />
-            </connector>
-          </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="7378" top="4211" logicalid="26" controlid="11" masterid="0" hint1="0" hint2="0" width="923" height="3490" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
-            <control>
-              <ddsxmlobj>
-                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
-              </ddsxmlobj>
-            </control>
-            <layoutobject>
-              <ddsxmlobj>
-                <property name="LogicalObject" value="dataSet.Relations[fact_trip_fk_end_time]" vartype="8" />
-                <property name="Virtual" value="0" vartype="11" />
-                <property name="VisibleAP" value="0" vartype="3" />
-              </ddsxmlobj>
-            </layoutobject>
-            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="3" destid="5" sourceattachpoint="7" destattachpoint="8" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
-              <point x="7777" y="4710" />
-              <point x="7777" y="6055" />
-              <point x="8001" y="6055" />
-              <point x="8001" y="7401" />
-            </connector>
-          </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="5728" top="4211" logicalid="27" controlid="12" masterid="0" hint1="0" hint2="0" width="2023" height="3490" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
-            <control>
-              <ddsxmlobj>
-                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
-              </ddsxmlobj>
-            </control>
-            <layoutobject>
-              <ddsxmlobj>
-                <property name="LogicalObject" value="dataSet.Relations[fact_trip_fk_start_time]" vartype="8" />
-                <property name="Virtual" value="0" vartype="11" />
-                <property name="VisibleAP" value="0" vartype="3" />
-              </ddsxmlobj>
-            </layoutobject>
-            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="3" destid="5" sourceattachpoint="1" destattachpoint="6" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
-              <point x="6127" y="4710" />
-              <point x="6127" y="6055" />
-              <point x="7451" y="6055" />
-              <point x="7451" y="7401" />
-            </connector>
-          </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="7052" top="12101" logicalid="28" controlid="13" masterid="0" hint1="0" hint2="0" width="799" height="3200" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
-            <control>
-              <ddsxmlobj>
-                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
               </ddsxmlobj>
             </control>
             <layoutobject>
@@ -216,15 +98,95 @@
                 <property name="VisibleAP" value="0" vartype="3" />
               </ddsxmlobj>
             </layoutobject>
-            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="4" destid="5" sourceattachpoint="6" destattachpoint="7" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
-              <point x="7451" y="14801" />
-              <point x="7451" y="12401" />
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="4" destid="5" sourceattachpoint="0" destattachpoint="1" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="5801" y="14801" />
+              <point x="5801" y="12401" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="1824" top="3999" logicalid="29" controlid="14" masterid="0" hint1="0" hint2="0" width="5377" height="3702" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="9017" top="8951" logicalid="33" controlid="18" masterid="0" hint1="0" hint2="0" width="3000" height="799" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
-                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+              </ddsxmlobj>
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dataSet.Relations[fact_trip_fk_bike]" vartype="8" />
+                <property name="Virtual" value="0" vartype="11" />
+                <property name="VisibleAP" value="0" vartype="3" />
+              </ddsxmlobj>
+            </layoutobject>
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="1" destid="5" sourceattachpoint="10" destattachpoint="21" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="11717" y="9350" />
+              <point x="10517" y="9350" />
+              <point x="10517" y="9351" />
+              <point x="9317" y="9351" />
+            </connector>
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="8801" top="4736" logicalid="34" controlid="19" masterid="0" hint1="0" hint2="0" width="2954" height="2965" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobj>
+                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+              </ddsxmlobj>
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dataSet.Relations[fact_trip_fk_weather]" vartype="8" />
+                <property name="Virtual" value="0" vartype="11" />
+                <property name="VisibleAP" value="0" vartype="3" />
+              </ddsxmlobj>
+            </layoutobject>
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="2" destid="5" sourceattachpoint="1" destattachpoint="12" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="11355" y="5235" />
+              <point x="11355" y="6318" />
+              <point x="9101" y="6318" />
+              <point x="9101" y="7401" />
+            </connector>
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="6278" top="4211" logicalid="35" controlid="20" masterid="0" hint1="0" hint2="0" width="1473" height="3490" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobj>
+                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+              </ddsxmlobj>
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dataSet.Relations[fact_trip_fk_end_time]" vartype="8" />
+                <property name="Virtual" value="0" vartype="11" />
+                <property name="VisibleAP" value="0" vartype="3" />
+              </ddsxmlobj>
+            </layoutobject>
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="3" destid="5" sourceattachpoint="3" destattachpoint="6" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="6677" y="4710" />
+              <point x="6677" y="6055" />
+              <point x="7451" y="6055" />
+              <point x="7451" y="7401" />
+            </connector>
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="5501" top="4211" logicalid="36" controlid="21" masterid="0" hint1="0" hint2="0" width="1026" height="3490" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobj>
+                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+              </ddsxmlobj>
+            </control>
+            <layoutobject>
+              <ddsxmlobj>
+                <property name="LogicalObject" value="dataSet.Relations[fact_trip_fk_start_time]" vartype="8" />
+                <property name="Virtual" value="0" vartype="11" />
+                <property name="VisibleAP" value="0" vartype="3" />
+              </ddsxmlobj>
+            </layoutobject>
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="3" destid="5" sourceattachpoint="1" destattachpoint="0" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="6127" y="4710" />
+              <point x="6127" y="6055" />
+              <point x="5801" y="6055" />
+              <point x="5801" y="7401" />
+            </connector>
+          </ddscontrol>
+          <ddscontrol controlprogid="MSDDS.Polyline" left="2374" top="3999" logicalid="37" controlid="22" masterid="0" hint1="0" hint2="0" width="4827" height="3702" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+            <control>
+              <ddsxmlobj>
+                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
               </ddsxmlobj>
             </control>
             <layoutobject>
@@ -234,17 +196,17 @@
                 <property name="VisibleAP" value="0" vartype="3" />
               </ddsxmlobj>
             </layoutobject>
-            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="6" destid="5" sourceattachpoint="7" destattachpoint="4" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
-              <point x="2223" y="4498" />
-              <point x="2223" y="5949" />
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="6" destid="5" sourceattachpoint="9" destattachpoint="4" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="2773" y="4498" />
+              <point x="2773" y="5949" />
               <point x="6901" y="5949" />
               <point x="6901" y="7401" />
             </connector>
           </ddscontrol>
-          <ddscontrol controlprogid="MSDDS.Polyline" left="174" top="3999" logicalid="30" controlid="15" masterid="0" hint1="0" hint2="0" width="8677" height="3702" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
+          <ddscontrol controlprogid="MSDDS.Polyline" left="1824" top="3999" logicalid="38" controlid="23" masterid="0" hint1="0" hint2="0" width="4827" height="3702" noresize="0" nomove="0" nodefaultattachpoints="1" autodrag="0" usedefaultiddshape="0" selectable="1" showselectionhandles="0" allownudging="1" isannotation="0" dontautolayout="0" groupcollapsed="0" tabstop="1" visible="1" snaptogrid="0">
             <control>
               <ddsxmlobj>
-                <polyline endtypedst="6" endtypesrc="3" usercolor="15856113" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
+                <polyline endtypedst="6" endtypesrc="3" usercolor="0" linestyle="0" linerender="1" customendtypedstid="0" customendtypesrcid="0" adornsvisible="1" />
               </ddsxmlobj>
             </control>
             <layoutobject>
@@ -254,11 +216,11 @@
                 <property name="VisibleAP" value="0" vartype="3" />
               </ddsxmlobj>
             </layoutobject>
-            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="6" destid="5" sourceattachpoint="1" destattachpoint="10" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
-              <point x="573" y="4498" />
-              <point x="573" y="5949" />
-              <point x="8551" y="5949" />
-              <point x="8551" y="7401" />
+            <connector lineroutestyle="MSDDS.Rectilinear" sourceid="6" destid="5" sourceattachpoint="7" destattachpoint="2" segmenteditmode="0" bendpointeditmode="0" bendpointvisibility="0" relatedid="0" virtual="0">
+              <point x="2223" y="4498" />
+              <point x="2223" y="5949" />
+              <point x="6351" y="5949" />
+              <point x="6351" y="7401" />
             </connector>
           </ddscontrol>
         </dds>
@@ -282,7 +244,7 @@
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramViewPortTop</Name>
-      <Value>4989</Value>
+      <Value>-1641</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingLeft</Name>
@@ -290,7 +252,7 @@
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramBoundingTop</Name>
-      <Value>1</Value>
+      <Value>235</Value>
     </Annotation>
     <Annotation>
       <Name>http://schemas.microsoft.com/DataWarehouse/Designer/1.0:DiagramZoom</Name>
@@ -300,379 +262,379 @@
   <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
   <State>Unprocessed</State>
   <Dimensions>
-    <Dimension dwd:design-time-name="6ba3ca28-d477-42a0-a610-c8b895d653c6">
+    <Dimension dwd:design-time-name="1bd8689a-e161-44c4-bf41-bb411db8f587">
       <ID>FACT TRIP</ID>
       <Name>FACT TRIP</Name>
       <DimensionID>FACT TRIP</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="de31c2ba-4bab-4bdd-b1c7-5bc48a8b709d">
+        <Attribute dwd:design-time-name="5e88928a-3f3a-4562-9f07-88003713ac1f">
           <AttributeID>TRIP ID</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="db5164f5-a645-463c-a365-8eaf319f36cc">
+        <Attribute dwd:design-time-name="8262eb62-0f4d-45d9-b07f-49759e9fd327">
           <AttributeID>Trip Customer</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="6e3c84ee-bc19-460e-890b-d749c1c5600a">
+        <Attribute dwd:design-time-name="9f746881-573e-4ecb-b0c1-70afe98b02f6">
           <AttributeID>Trip Bike</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="48e52007-3f55-46d3-9187-2f7b222e59a2">
+        <Attribute dwd:design-time-name="f67085f6-fad8-4ceb-b4a7-0f8b537bb461">
           <AttributeID>Trip Weather</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="d9815b5f-7fa8-450f-a63d-e57bd5929613">
+        <Attribute dwd:design-time-name="503a0fae-8c7b-453a-abc6-e99c1130cd29">
           <AttributeID>End Time</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="cc0c1c1c-72b5-42a8-9bf6-07facbc1dd22">
+        <Attribute dwd:design-time-name="327334e7-676f-48e9-8f9c-8f63cc3800d4">
           <AttributeID>Start Time</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="9f8bfeaa-93a9-4c2b-9486-b47c42feec23">
+        <Attribute dwd:design-time-name="1ffea5db-055c-4b8b-9bc2-6569dcb4e7bf">
           <AttributeID>Start Station</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="98270619-a740-429b-8b57-67b8d2026983">
+        <Attribute dwd:design-time-name="345128c0-1e22-4f3f-a6df-e68ce5ce24af">
           <AttributeID>End Station</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="7caa27a9-96ca-4f6d-8316-40238d3b8a69">
+        <Attribute dwd:design-time-name="afcacde5-2181-4f56-ad8c-107222ec01c4">
           <AttributeID>Start Station Name</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="8e4a256c-24e4-4d26-8704-33608b0aea20">
+        <Attribute dwd:design-time-name="970ef85c-22d0-4710-a152-bea6602d0bbd">
           <AttributeID>End Station Name</AttributeID>
         </Attribute>
       </Attributes>
     </Dimension>
-    <Dimension dwd:design-time-name="fa698b1b-9d6f-4279-bc3b-dd139afc1d20">
+    <Dimension dwd:design-time-name="4866d3ad-dbc4-4809-84e3-4b335b0bec13">
       <ID>End Time</ID>
       <Name>End Time</Name>
       <DimensionID>DIM TIME</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="2343d857-b154-4fb0-9de3-76060801a04a">
+        <Attribute dwd:design-time-name="09b37472-783d-4ce0-bf1b-7014823ee5e6">
           <AttributeID>PK TIME</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="d0a17c1b-c9cc-42c8-9aa7-913572ce6312">
+        <Attribute dwd:design-time-name="b1d1c781-1217-49ff-aa20-a12ac11b1c18">
           <AttributeID>Year</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="c873368f-abc6-4b76-807b-3b9df3a96fca">
+        <Attribute dwd:design-time-name="312dbd48-15b3-46df-be73-7abd4de27da5">
           <AttributeID>Month</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="b09c3d58-65ec-4f50-94b2-b629c1b6fce3">
+        <Attribute dwd:design-time-name="4c08c86f-37ed-432a-8092-0701aaf6c051">
           <AttributeID>Month Name</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="64331d0f-244c-429c-a99f-df94238b97b9">
+        <Attribute dwd:design-time-name="95120785-eecf-4139-93b5-45477eaa72d7">
           <AttributeID>Day</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="611ce3f0-e783-4202-a2ad-71ae5e7c6106">
+        <Attribute dwd:design-time-name="f1c23063-cf82-4f84-807b-8b3bc5d5d091">
           <AttributeID>Week Day</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="afbe1a11-cb18-470b-89ea-f5868da52a19">
+        <Attribute dwd:design-time-name="f59b1489-b2f5-4b71-8213-20e205610550">
           <AttributeID>Hour</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="dc49045f-5d5c-4235-bb7e-7ec4213317b9">
+        <Attribute dwd:design-time-name="81f27880-296a-4d5c-94ef-8f0837308214">
           <AttributeID>Minute</AttributeID>
         </Attribute>
       </Attributes>
       <Hierarchies>
-        <Hierarchy dwd:design-time-name="226b6182-f0b4-44a3-ac78-a055c2a28315">
+        <Hierarchy dwd:design-time-name="84557343-333e-4a4e-8abf-c637c0031646">
           <HierarchyID>Hierarchy</HierarchyID>
         </Hierarchy>
       </Hierarchies>
     </Dimension>
-    <Dimension dwd:design-time-name="7fbff7a3-b31e-40df-809d-6eb38af2aff6">
+    <Dimension dwd:design-time-name="f31cc3f9-9067-460c-9a2c-64c6fcc5f1a5">
       <ID>Start Time</ID>
       <Name>Start Time</Name>
       <DimensionID>DIM TIME</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="9c9a0657-1647-4a94-aac7-11e21cf8f023">
+        <Attribute dwd:design-time-name="0629f87c-3e1d-4dfb-9c49-7139edc1706e">
           <AttributeID>PK TIME</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="f2c8964f-e1b1-46d0-8258-2cc9bafe7919">
+        <Attribute dwd:design-time-name="de86b701-e626-4ce1-97c2-56ca22196ba0">
           <AttributeID>Year</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="45934c94-1b08-4957-a9b1-1ce6b72ec007">
+        <Attribute dwd:design-time-name="02b2ee1b-743b-4889-aac1-3134ccdd122c">
           <AttributeID>Month</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="cafc8ee2-7a19-4edd-9cc2-f0b4712c51fc">
+        <Attribute dwd:design-time-name="893ce585-4040-4832-8c87-10af5f6080b9">
           <AttributeID>Month Name</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="f53f0bf5-ff13-4512-81d3-bb046b65a10a">
+        <Attribute dwd:design-time-name="2736e5fb-9b1b-4403-a181-28e5b6a7e76b">
           <AttributeID>Day</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="f337f265-8c3a-4cf2-a697-3662811ddac6">
+        <Attribute dwd:design-time-name="96e59b68-3067-431d-91e2-d9d7119874d3">
           <AttributeID>Week Day</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="66156b12-eff0-4761-b4ce-4be1aa69b53d">
+        <Attribute dwd:design-time-name="604815a4-5e40-4e97-8a06-b12ade25ffba">
           <AttributeID>Hour</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="196d0899-1145-47e9-8798-19aab3a6ae31">
+        <Attribute dwd:design-time-name="ac8749eb-bc10-427a-a77f-7205f360cdbc">
           <AttributeID>Minute</AttributeID>
         </Attribute>
       </Attributes>
       <Hierarchies>
-        <Hierarchy dwd:design-time-name="dd8c8510-2b34-44ba-a956-381ff8ae3294">
+        <Hierarchy dwd:design-time-name="b44eab6d-3931-4173-92a1-b4b89d69095f">
           <HierarchyID>Hierarchy</HierarchyID>
         </Hierarchy>
       </Hierarchies>
     </Dimension>
-    <Dimension dwd:design-time-name="27776397-b60b-44c5-b82a-1e644e1ffe00">
+    <Dimension dwd:design-time-name="bf8cbaab-0afd-45b8-ae2a-b261585c8181">
       <ID>Start Station</ID>
       <Name>Start Station</Name>
       <DimensionID>DIM STATION</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="34e3495a-8b18-4fcf-bd9b-2652d0132c33">
+        <Attribute dwd:design-time-name="f3ec7a07-2983-4c85-9c59-f5e20e6f88eb">
           <AttributeID>STATION ID</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="d409ec78-362e-4151-b682-4784b111e44c">
+        <Attribute dwd:design-time-name="f8d26eee-26e5-47c4-8469-a3d243e85d37">
           <AttributeID>Installation Date</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="5176b8b4-e707-4f6c-8ee7-1c3d66221985">
+        <Attribute dwd:design-time-name="67b9f664-e7c2-4e42-9027-7e1c8d6dfe30">
           <AttributeID>Name</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="3d5abd98-b7ac-4dcb-9bcb-6394fece84b1">
+        <Attribute dwd:design-time-name="53e87622-76b7-4340-b9da-915dbceeeb06">
           <AttributeID>Lat</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="a3031196-8859-46b2-8091-85fc4273e5f8">
+        <Attribute dwd:design-time-name="54e279d3-2f22-40db-8f67-75c36d35ce74">
           <AttributeID>Long</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="2c980552-97b8-44be-b8eb-31e3dbea831b">
+        <Attribute dwd:design-time-name="0fd92284-4bd3-486e-bd0f-d637030d3b77">
           <AttributeID>Dock Count</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="d0ca62b7-4fe6-45b6-b03c-1e7522a2b964">
+        <Attribute dwd:design-time-name="2bfba19a-853f-4ef9-94f5-894b3781364d">
           <AttributeID>City</AttributeID>
         </Attribute>
       </Attributes>
       <Hierarchies>
-        <Hierarchy dwd:design-time-name="2ae70594-b00d-47c3-a245-9e391d3767d1">
+        <Hierarchy dwd:design-time-name="aec9ae8a-5637-4f96-b27f-fbe8dbc3cd0d">
           <HierarchyID>Hierarchy</HierarchyID>
         </Hierarchy>
       </Hierarchies>
     </Dimension>
-    <Dimension dwd:design-time-name="01ac39d8-c07e-4c12-8765-8dca45bd5e0f">
+    <Dimension dwd:design-time-name="ece0b9ab-84e3-4f7a-a141-83709d8fe432">
       <ID>End Station</ID>
       <Name>End Station</Name>
       <DimensionID>DIM STATION</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="fcdc087d-bece-494e-99da-2cdd19378146">
+        <Attribute dwd:design-time-name="4cd6c86a-9328-4c30-a656-1b2e162e5ce8">
           <AttributeID>STATION ID</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="468be53a-06c5-4100-9925-0da70387beba">
+        <Attribute dwd:design-time-name="29959b7d-f2ac-4d6e-b555-a17791ab0830">
           <AttributeID>Installation Date</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="4fdedd9e-c111-4530-8d6e-bff28d8afc2d">
+        <Attribute dwd:design-time-name="4f8d3f0d-3bbf-49fe-993c-085c897f6869">
           <AttributeID>Name</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="18cc440d-74ca-4c9e-be6e-f34fb7fd1705">
+        <Attribute dwd:design-time-name="44b4bb0d-14ae-431b-8e24-1c88e9dfb9e5">
           <AttributeID>Lat</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="0da27f49-58a5-4524-8204-b5df6a766cb8">
+        <Attribute dwd:design-time-name="e8ff58fc-fa22-4c60-87b8-36c8e794161a">
           <AttributeID>Long</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="f19289d9-2f36-4a77-a2ef-5160a09cd667">
+        <Attribute dwd:design-time-name="446ab0d7-e221-41aa-ae64-f4c6628f22a4">
           <AttributeID>Dock Count</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="cf754263-d65a-4acf-9aee-196ec1400d8e">
+        <Attribute dwd:design-time-name="066acb20-daa2-4a7b-a302-82dd33228b11">
           <AttributeID>City</AttributeID>
         </Attribute>
       </Attributes>
       <Hierarchies>
-        <Hierarchy dwd:design-time-name="c626b0bf-d918-45e2-85fa-0778a76ab6ac">
+        <Hierarchy dwd:design-time-name="af126ac3-1b6b-4191-b0e7-d43683f87804">
           <HierarchyID>Hierarchy</HierarchyID>
         </Hierarchy>
       </Hierarchies>
     </Dimension>
-    <Dimension dwd:design-time-name="bc1e230c-ae42-4399-acaf-363034c2d0b5">
+    <Dimension dwd:design-time-name="65a6ee81-720e-4304-8948-b9fc31ea31e3">
       <ID>Trip Weather - Measure Date</ID>
       <Name>Trip Weather - Measure Date</Name>
       <DimensionID>DIM TIME</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="daca8362-de23-4dfa-bd64-cadf5f3872f6">
+        <Attribute dwd:design-time-name="1d1cd30b-c3b0-44fb-9a72-86901d782a7b">
           <AttributeID>PK TIME</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="c5d4d640-b1eb-446e-adaa-0a71123d267e">
+        <Attribute dwd:design-time-name="8e1a20df-2ecc-4a0a-9fd8-9293c7b90c52">
           <AttributeID>Year</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="4fc97ba9-ac77-4e13-8c50-da3c78163ca1">
+        <Attribute dwd:design-time-name="713a939a-5057-4e0f-b7d7-76305e08d3f4">
           <AttributeID>Month</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="0f6a34d1-e04c-447c-bbec-f8bd92512b41">
+        <Attribute dwd:design-time-name="5fbf3423-92b8-4e61-a1ed-7ccc4711494c">
           <AttributeID>Month Name</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="34a62693-0966-42f4-9ebc-45e430130b2f">
+        <Attribute dwd:design-time-name="74035e36-d33d-4b3a-85c8-65a28508ed3f">
           <AttributeID>Day</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="bc4dbdc6-8a0b-4f48-b533-605fdefb40ed">
+        <Attribute dwd:design-time-name="be4d35f1-c216-4ae3-ac28-c8b2e2c91b51">
           <AttributeID>Week Day</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="cf5522c9-5f6a-46e2-b821-8f93c2894745">
+        <Attribute dwd:design-time-name="67041c26-338f-4562-b489-80ea74a5d5bb">
           <AttributeID>Hour</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="b5c86f15-6e90-4db7-a82c-5c168b926870">
+        <Attribute dwd:design-time-name="5b2e3f34-b02c-45b9-8ee0-5431b01bbb9a">
           <AttributeID>Minute</AttributeID>
         </Attribute>
       </Attributes>
       <Hierarchies>
-        <Hierarchy dwd:design-time-name="b964f0a4-4d8d-481c-8979-6d8f1b3d79fe">
+        <Hierarchy dwd:design-time-name="60db0d75-61ae-43f9-83f3-570d764e92eb">
           <HierarchyID>Hierarchy</HierarchyID>
         </Hierarchy>
       </Hierarchies>
     </Dimension>
-    <Dimension dwd:design-time-name="ca89399a-c314-42be-8d2d-c5ba1d728740">
+    <Dimension dwd:design-time-name="0f367614-acfe-43b9-8891-5859075872fa">
       <ID>Start Station - Installation Date</ID>
       <Name>Start Station - Installation Date</Name>
       <DimensionID>DIM TIME</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="2b4687f4-4bdc-4d16-97e3-df18b90ca6e7">
+        <Attribute dwd:design-time-name="87de6f23-4f64-4e81-af0b-a2274c0818fa">
           <AttributeID>PK TIME</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="67c28638-870b-469a-b850-565d90935e51">
+        <Attribute dwd:design-time-name="cc576c47-b288-4184-8d63-172af00e2618">
           <AttributeID>Year</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="a3404ec1-b762-40e8-837c-13dfad1a65bc">
+        <Attribute dwd:design-time-name="f370cc20-0e9b-4b9b-a02a-5c41a1d86ef5">
           <AttributeID>Month</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="e6b6d9bf-693f-4112-90e5-3437d56ef348">
+        <Attribute dwd:design-time-name="afea2e9e-6311-4e36-805f-14fb9c8b3eee">
           <AttributeID>Month Name</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="b73c1679-74ce-4a5b-abab-1e4ccf757854">
+        <Attribute dwd:design-time-name="142373e6-8f3c-42bf-be9b-abd81c6ad852">
           <AttributeID>Day</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="79e49c5e-2b30-432d-9188-5e5e128061cb">
+        <Attribute dwd:design-time-name="535a0a7e-aae7-4dda-bcfd-13d88bff637e">
           <AttributeID>Week Day</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="dc31143f-b293-48e5-9f92-d0730b827a30">
+        <Attribute dwd:design-time-name="dcd757b2-dc9f-4fdd-bd19-3912e8bdc779">
           <AttributeID>Hour</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="0d73d502-6507-4267-92f5-c00d6029d99b">
+        <Attribute dwd:design-time-name="b063893e-b54b-4a11-9398-08e9cf993a08">
           <AttributeID>Minute</AttributeID>
         </Attribute>
       </Attributes>
       <Hierarchies>
-        <Hierarchy dwd:design-time-name="8c351a38-56a6-41e8-86c6-7bf06fa43712">
+        <Hierarchy dwd:design-time-name="865273ed-ff98-4957-ba57-5b34505a4ddd">
           <HierarchyID>Hierarchy</HierarchyID>
         </Hierarchy>
       </Hierarchies>
     </Dimension>
-    <Dimension dwd:design-time-name="4ae07be9-a9be-439c-874f-f924393de53f">
+    <Dimension dwd:design-time-name="143bc795-dc12-496f-a0fa-d90eeda0383a">
       <ID>End Station - Installation Date</ID>
       <Name>End Station - Installation Date</Name>
       <DimensionID>DIM TIME</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="0809f42b-5f18-4028-b3c9-d572f0a0a01b">
+        <Attribute dwd:design-time-name="048f3754-4fd5-496d-998b-f23903221a33">
           <AttributeID>PK TIME</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="9fe9edc6-cbc6-4bd9-a8e0-c27fcb5b104c">
+        <Attribute dwd:design-time-name="f634a70e-d104-4c90-ac2e-84fed270edb2">
           <AttributeID>Year</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="c8f0ad57-613e-45af-8e6d-ba5dc8aaaff2">
+        <Attribute dwd:design-time-name="17b37de2-af4e-4b98-a8b8-3be5000b63ad">
           <AttributeID>Month</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="eda6961f-d146-452c-8711-7bd2099e84c3">
+        <Attribute dwd:design-time-name="c0e8bfe1-1a68-4094-a7b1-d0e51ef9d27d">
           <AttributeID>Month Name</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="66f568a5-9239-4d79-95a3-10ea5a0a415d">
+        <Attribute dwd:design-time-name="73268aed-0c3b-4d1a-a9ca-9f85c8720215">
           <AttributeID>Day</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="2aca48b5-415a-4d99-bb66-efde5ef1cc92">
+        <Attribute dwd:design-time-name="d100775e-08db-4736-80d2-567f1176381c">
           <AttributeID>Week Day</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="60d9d89b-96e9-4fb6-8bdf-381a2ebd5f7a">
+        <Attribute dwd:design-time-name="2780302c-898d-4f36-9b39-11d446b7dec1">
           <AttributeID>Hour</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="a586287a-c0b0-4200-b1fb-04a8a98d8e31">
+        <Attribute dwd:design-time-name="0167612d-110e-487d-aae7-bc9091d35a6e">
           <AttributeID>Minute</AttributeID>
         </Attribute>
       </Attributes>
       <Hierarchies>
-        <Hierarchy dwd:design-time-name="e09dcc15-32e0-4283-91f0-8acd7f12fec6">
+        <Hierarchy dwd:design-time-name="8fdbdcde-c785-4cbc-8de3-ec10c4f45186">
           <HierarchyID>Hierarchy</HierarchyID>
         </Hierarchy>
       </Hierarchies>
     </Dimension>
-    <Dimension dwd:design-time-name="0d54cb87-dcb0-4c78-8c19-c1393c5b0834">
+    <Dimension dwd:design-time-name="acc67459-be8c-4d0c-836c-7122572e6deb">
       <ID>DIM CUSTOMER</ID>
       <Name>DIM CUSTOMER</Name>
       <DimensionID>DIM CUSTOMER</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="b09483a3-a49e-456f-b912-0afd37880d33">
+        <Attribute dwd:design-time-name="a294c4cd-4d1f-479c-b90d-c5363aefa7f0">
           <AttributeID>CUSTOMER ID</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="c7c8460e-5f36-4de7-816c-bec7b10b7c8d">
+        <Attribute dwd:design-time-name="144342a2-2792-4e7a-9ef6-12c9bc69c1ad">
           <AttributeID>Cust Zip Code</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="e3e8b597-c6d8-45d4-81ef-f4f2091e2cb0">
+        <Attribute dwd:design-time-name="3bb0ca64-2fdc-47b8-ade1-12fcd79280f0">
           <AttributeID>Subscription Type</AttributeID>
         </Attribute>
       </Attributes>
     </Dimension>
-    <Dimension dwd:design-time-name="dc89bf46-6cea-483a-98f4-7e889702440d">
+    <Dimension dwd:design-time-name="1c73f6ac-bb1a-4477-9cc5-1833599a5b81">
       <ID>DIM BIKE</ID>
       <Name>DIM BIKE</Name>
       <DimensionID>DIM BIKE</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="025047a3-6955-4951-bb75-175bc92a3732">
+        <Attribute dwd:design-time-name="df73c6ca-f29f-443e-a9eb-3b42833f760b">
           <AttributeID>BIKE ID</AttributeID>
         </Attribute>
       </Attributes>
     </Dimension>
-    <Dimension dwd:design-time-name="a328d3d7-59f7-4028-90ef-fbf52aeb6888">
+    <Dimension dwd:design-time-name="f29f2acb-4bd2-4195-840f-c9492f85ba5c">
       <ID>DIM WEATHER</ID>
       <Name>DIM WEATHER</Name>
       <DimensionID>DIM WEATHER</DimensionID>
       <Attributes>
-        <Attribute dwd:design-time-name="fa3e9abf-a442-4e96-8ec8-459c6d3f41f8">
+        <Attribute dwd:design-time-name="d14b7b3a-6b13-4194-bed8-e54df4486bdb">
           <AttributeID>WEATHER ID</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="0bc3b278-12ad-4a19-81e2-85b86ab1785d">
+        <Attribute dwd:design-time-name="681b51a4-7d32-49a3-87f2-44d6332815d8">
           <AttributeID>Measure Date</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="1c742662-849e-4c87-be5e-f5d1c728a853">
+        <Attribute dwd:design-time-name="e8f20684-fef5-4d7c-a619-46cf71938feb">
           <AttributeID>Measure City</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="84d6a47e-d261-491d-a33f-8825c55d08b1">
+        <Attribute dwd:design-time-name="759fb475-ebe1-4b0b-901f-f087f322bfb1">
           <AttributeID>Max Temperature</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="87406350-4d15-44bc-b8e6-0f6bfc7950c3">
+        <Attribute dwd:design-time-name="aa6a6c37-76c7-474a-bfcf-b6b594246920">
           <AttributeID>Mean Temperature</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="0adb98f3-bd27-4b4f-aed5-3b78a1ec7630">
+        <Attribute dwd:design-time-name="b44ef09e-f820-4c8d-8549-4fc07302e39a">
           <AttributeID>Min Temperature</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="9eb16779-1db5-4948-a28b-71bf13353fc8">
+        <Attribute dwd:design-time-name="e87e6387-0bdf-49f1-8557-d66f4be909a2">
           <AttributeID>Max Humidity</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="c6cc61f4-2938-410a-9580-210242efaa3e">
+        <Attribute dwd:design-time-name="2f75a336-7489-4163-b470-53434c99ccd9">
           <AttributeID>Mean Humidity</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="cd3bd630-8c90-4ea4-9692-fff09273fd41">
+        <Attribute dwd:design-time-name="12d3e790-4ce9-473e-b82a-401cb2147eba">
           <AttributeID>Min Humidity</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="6674034c-39f7-4a16-b09a-558072b57f47">
+        <Attribute dwd:design-time-name="05708fb6-de34-4778-8831-02b942132dae">
           <AttributeID>Max Pressure</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="207248a2-8885-4ace-b0e2-bf416becf498">
+        <Attribute dwd:design-time-name="cfdc0423-29e0-47a0-a481-3cd6a835195d">
           <AttributeID>Mean Pressure</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="58f0f312-07ec-484e-937a-812539e3b7c5">
+        <Attribute dwd:design-time-name="6b59b8a8-587d-47e5-9b06-1bebbe6ee7db">
           <AttributeID>Min Pressure</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="d747eb51-d739-4b6e-a597-8c053e78f449">
+        <Attribute dwd:design-time-name="5fa0be33-13cb-44a6-adbb-cbd0165543bd">
           <AttributeID>Max Visibility</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="0626ed4a-24ba-4744-9f1c-34cc8ae6ecc0">
+        <Attribute dwd:design-time-name="20f0f0a1-4624-45c2-9860-d37290959f08">
           <AttributeID>Mean Visibility</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="b657b0a2-5b6f-4493-a92e-ed528a860629">
+        <Attribute dwd:design-time-name="2fb03ad3-133b-4057-b91f-b6022493c44c">
           <AttributeID>Min Visibility</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="abb5a155-0f59-47f0-b1c5-d8363de178d0">
+        <Attribute dwd:design-time-name="4f0d6416-eb80-46f4-be5e-b3084e9633b9">
           <AttributeID>Precipitation Inches</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="73b7428c-3621-4eac-8623-e10e7660b042">
+        <Attribute dwd:design-time-name="0f110a65-bb34-421d-8f16-71dd3c041e99">
           <AttributeID>Cloud Cover</AttributeID>
         </Attribute>
-        <Attribute dwd:design-time-name="a341a040-3580-4c6d-8229-4811f6069200">
+        <Attribute dwd:design-time-name="67034e28-822c-4855-a679-71d4e852396c">
           <AttributeID>Events</AttributeID>
         </Attribute>
       </Attributes>
     </Dimension>
   </Dimensions>
   <MeasureGroups>
-    <MeasureGroup dwd:design-time-name="76fbee91-35c2-4b76-8937-5cd4402656c1">
+    <MeasureGroup dwd:design-time-name="1b0ea01c-63ab-4141-9ad8-19f15e691caa">
       <ID>FACT TRIP</ID>
       <Name>FACT TRIP</Name>
       <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
@@ -680,25 +642,25 @@
       <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
       <State>Unprocessed</State>
       <Measures>
-        <Measure dwd:design-time-name="e98e1ff1-ae46-4e7d-aa7c-8d5af3d460ef">
+        <Measure dwd:design-time-name="466fbd1f-f4f4-4ebe-a7c8-1da83dbc3684">
           <ID>Duration</ID>
           <Name>Duration</Name>
-          <Source dwd:design-time-name="20b68220-dc01-4e31-bd11-2fe034544c8a">
+          <Source dwd:design-time-name="8e3263cd-6a88-48d9-ba8d-5d4188d6bfe9">
             <DataType>Integer</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="db1536bc-88d8-4a41-995d-b3ee8a18f574">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="a187bf9d-7211-455a-bfe1-c5fe9d1e4f3c">
               <TableID>Pynka_FACT_TRIP</TableID>
               <ColumnID>Duration</ColumnID>
             </Source>
           </Source>
         </Measure>
-        <Measure dwd:design-time-name="7dc5539a-06fa-4b8e-9ac2-09c6424eb96d">
+        <Measure dwd:design-time-name="d1ed8d9e-3964-49cc-9d10-a955b34677c3">
           <ID>FACT TRIP Count</ID>
           <Name>FACT TRIP Count</Name>
           <AggregateFunction>Count</AggregateFunction>
-          <Source dwd:design-time-name="3df7f32f-24c1-458f-bd21-f43c25d9ca6f">
+          <Source dwd:design-time-name="0757a57c-0d31-4e25-a7b9-5e1a0da342c2">
             <DataType>Integer</DataType>
             <DataSize>4</DataSize>
-            <Source xsi:type="RowBinding" dwd:design-time-name="9088f893-4b83-40f1-a94d-dba2b3df3545">
+            <Source xsi:type="RowBinding" dwd:design-time-name="25396dff-9da7-4a7d-be2e-44db2be6ab0d">
               <TableID>Pynka_FACT_TRIP</TableID>
             </Source>
           </Source>
@@ -707,15 +669,15 @@
       <StorageMode>Molap</StorageMode>
       <ProcessingMode>Regular</ProcessingMode>
       <Dimensions>
-        <Dimension xsi:type="DegenerateMeasureGroupDimension" dwd:design-time-name="b096175e-b746-474c-b6da-b1c03dd89f60">
+        <Dimension xsi:type="DegenerateMeasureGroupDimension" dwd:design-time-name="382ca100-0a66-4917-9a50-beb31dbc77c5">
           <CubeDimensionID>FACT TRIP</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="084f56b0-ca62-4eb5-97bd-e257adcfde5c">
+            <Attribute dwd:design-time-name="64a84530-b125-4902-8343-95963115a987">
               <AttributeID>TRIP ID</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="0ec85d22-7363-4ab1-9c14-4605716b4b07">
+                <KeyColumn dwd:design-time-name="32b83f87-2f04-4cc1-af76-dfe779a590b1">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="af1a53ec-9a99-4c57-bb1b-a0727ef70cf6">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="6e173020-d6a5-4aa7-9384-f096bb6ca5cd">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>TRIP_ID</ColumnID>
                   </Source>
@@ -725,15 +687,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="0cf74146-a904-44d9-9047-96c1a5c98891">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="aab27ff2-bdd7-4026-ad4b-68f1d1582007">
           <CubeDimensionID>DIM CUSTOMER</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="9f4e30c9-9d93-45bf-ae89-026b2642d714">
+            <Attribute dwd:design-time-name="f27b0d3c-e722-4332-a64c-9f8e1e2e04e7">
               <AttributeID>CUSTOMER ID</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="13130e88-f316-4b4b-9b55-c04d9c6032f6">
+                <KeyColumn dwd:design-time-name="c97cafa8-9a4c-4709-a90c-530d24379619">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="59bd0042-6cc5-46d5-b808-95371ff9216d">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="12b90058-2e5e-4e71-90a1-72c52c0fabb6">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>Trip_Customer</ColumnID>
                   </Source>
@@ -743,15 +705,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="4308c42c-dd8c-49fa-bc85-a0475949538a">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="de8578bd-805b-4ebc-ba15-afade6257fe3">
           <CubeDimensionID>DIM BIKE</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="637c379c-c66b-4ef3-a1b4-b31259a50559">
+            <Attribute dwd:design-time-name="0a51b00b-de05-432f-bdc0-525169552081">
               <AttributeID>BIKE ID</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="376c6a2a-49eb-4619-91e5-b97200cb6f4f">
+                <KeyColumn dwd:design-time-name="d68c2653-d8a4-4f94-bed9-420f3ec948b5">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="21cc4bc2-38ae-4129-814e-da880ba37cb1">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="717b4a6b-df7c-415d-b078-efad43fffedd">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>Trip_Bike</ColumnID>
                   </Source>
@@ -761,15 +723,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="1345a49b-4bcc-4db9-8ac3-81d19f029f1c">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="5d6a28e4-387c-4ecc-9b93-0127da68b29a">
           <CubeDimensionID>DIM WEATHER</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="6d03b063-ab14-4c43-958c-8a6876b35b02">
+            <Attribute dwd:design-time-name="aa391888-4538-4210-88f5-ea4a8b6e361f">
               <AttributeID>WEATHER ID</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="3325926c-59c7-4928-aae0-6a8ea7c857e6">
+                <KeyColumn dwd:design-time-name="e826726d-b550-4c16-8565-20fa7dcb0b59">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="4ad7df76-4498-4a0d-a247-6228d82fe69f">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="529c08b5-8b80-4503-90e4-c7fa5876d624">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>Trip_Weather</ColumnID>
                   </Source>
@@ -779,16 +741,16 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="295136cd-66db-48c2-8795-0cf96f285a30">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="1ea65618-7f6f-476b-a41b-51e703f6e2b5">
           <CubeDimensionID>End Time</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="a9960467-aa38-4c54-b88b-c2010239382e">
+            <Attribute dwd:design-time-name="67ef0452-92c7-4f40-8279-edf01d6dc5bb">
               <AttributeID>PK TIME</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="4df8f262-d082-494f-b53b-f44847eb4239">
+                <KeyColumn dwd:design-time-name="26045ced-b830-4368-a673-9dac95d7d693">
                   <DataType>WChar</DataType>
                   <DataSize>12</DataSize>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="b748785d-86a7-480a-8b2b-758bf509aad8">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="21dc35b8-6c1e-4703-825d-0011f94dfed2">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>End_Time</ColumnID>
                   </Source>
@@ -798,16 +760,16 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="5498b2f9-cce5-4023-9843-49331e1740f4">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="9b436341-b8b0-4978-a08b-2c4fc71a7575">
           <CubeDimensionID>Start Time</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="3d465eff-668c-4564-a75d-69a0e0a3f7cb">
+            <Attribute dwd:design-time-name="6eee8247-fb2f-4d07-963c-c64f8624d6c2">
               <AttributeID>PK TIME</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="9bddf1cf-efa7-4c1e-a900-b564c660cd58">
+                <KeyColumn dwd:design-time-name="11169ec7-aa9e-4db3-b0d0-99d363aeb7bf">
                   <DataType>WChar</DataType>
                   <DataSize>12</DataSize>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="919b5dd7-3997-408c-864a-9a99dad8c006">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="9416c4c8-1d12-4d6f-8186-ac49df134e1e">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>Start_Time</ColumnID>
                   </Source>
@@ -817,15 +779,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="69ecb7cf-2e3c-4bab-a6f5-9108b0e5c5c2">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="a34e5b8d-d189-471b-bb9f-756c2ec97441">
           <CubeDimensionID>Start Station</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="4a484e0e-1e4e-466f-9d00-09fab08d0ab2">
+            <Attribute dwd:design-time-name="411d4ee5-e892-4fe1-a531-c12887a5be17">
               <AttributeID>STATION ID</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="eb246609-0589-410a-b4da-84007fc8290f">
+                <KeyColumn dwd:design-time-name="ed88583f-82f8-4f82-9cdf-5e7d62fb568a">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="74a61a50-2d17-48bd-92e6-a1a356623ab4">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="72194bab-67b9-43eb-ae9f-264687be91fa">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>Start_Station</ColumnID>
                   </Source>
@@ -835,15 +797,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="6fe129a6-a683-4ff7-b172-9384fc299036">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="a655a61f-fb7b-470a-8733-fb8bb60f4021">
           <CubeDimensionID>End Station</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="b83dec39-1d5e-4754-b773-fe8cdd3df23a">
+            <Attribute dwd:design-time-name="68cd4674-76c9-4250-a03e-64f226f83b7d">
               <AttributeID>STATION ID</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="3a691b35-a67e-41aa-b2c4-d126f60d421e">
+                <KeyColumn dwd:design-time-name="96d6c84f-13df-455b-8fa9-a1cca044d959">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="7b92c019-e64e-4437-98ce-797748be9639">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="14053227-080f-4dc8-92f0-48dfae8f3af3">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>End_Station</ColumnID>
                   </Source>
@@ -853,10 +815,10 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="57d4602b-0ccb-4b0b-9900-84ddc341ca21">
+        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="dfc3ed18-1b52-4870-8d2b-23e28a75b164">
           <CubeDimensionID>Trip Weather - Measure Date</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="8bac74ee-b3e5-4f7a-bd15-35910c9e5bc4">
+            <Attribute dwd:design-time-name="8c04403a-9ebb-4567-8448-dfa0cc9a4ecf">
               <AttributeID>PK TIME</AttributeID>
               <Type>Granularity</Type>
             </Attribute>
@@ -866,10 +828,10 @@
           <Materialization>Regular</Materialization>
           <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
         </Dimension>
-        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="07cd0fee-ab67-4ee9-bd58-bd74ce1d09e7">
+        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="99349084-a6e4-4771-97e6-4cb3cdf83faa">
           <CubeDimensionID>Start Station - Installation Date</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="365ea08a-4305-4b14-bdb4-57afd856127f">
+            <Attribute dwd:design-time-name="30863cb3-c171-4727-8e60-5c10d948c145">
               <AttributeID>PK TIME</AttributeID>
               <Type>Granularity</Type>
             </Attribute>
@@ -879,10 +841,10 @@
           <Materialization>Regular</Materialization>
           <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
         </Dimension>
-        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="a4153e1f-4360-4f5e-99e9-9d21e74cc1ba">
+        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="5b1cbf99-2e0d-424e-b417-606abe11b2da">
           <CubeDimensionID>End Station - Installation Date</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="51d32b61-9bee-4d75-9954-0eb1b7d3cd34">
+            <Attribute dwd:design-time-name="f6cf8faf-7da7-4c27-82cc-1887b535b016">
               <AttributeID>PK TIME</AttributeID>
               <Type>Granularity</Type>
             </Attribute>
@@ -895,7 +857,7 @@
       </Dimensions>
       <Partitions />
     </MeasureGroup>
-    <MeasureGroup dwd:design-time-name="91e4018d-0e92-4da5-80c9-231e96f15da7">
+    <MeasureGroup dwd:design-time-name="ec0a49e8-033b-42a4-b4ce-acd574a36e05">
       <ID>FACT TRIP 1</ID>
       <Name>FACT TRIP 1</Name>
       <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
@@ -903,14 +865,14 @@
       <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
       <State>Unprocessed</State>
       <Measures>
-        <Measure dwd:design-time-name="7af07615-5723-402d-86c8-b70d2c2be0f4">
+        <Measure dwd:design-time-name="748e836e-650a-4943-8bf2-1c3757c2143c">
           <ID>Trip Customer Distinct Count</ID>
           <Name>Trip Customer Distinct Count</Name>
           <AggregateFunction>DistinctCount</AggregateFunction>
           <DataType>Integer</DataType>
-          <Source dwd:design-time-name="753d8b6d-147d-4e64-acd7-ce1fa2bc6dac">
+          <Source dwd:design-time-name="2f79c85a-1525-4eeb-b021-331f3a3581fc">
             <DataType>Integer</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="8d9c949f-1662-4b47-962e-1f187ecb4be7">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="d00ab5bd-b712-430d-8c59-f14d5223e2bb">
               <TableID>Pynka_FACT_TRIP</TableID>
               <ColumnID>Trip_Customer</ColumnID>
             </Source>
@@ -920,15 +882,15 @@
       <StorageMode>Molap</StorageMode>
       <ProcessingMode>Regular</ProcessingMode>
       <Dimensions>
-        <Dimension xsi:type="DegenerateMeasureGroupDimension" dwd:design-time-name="53339206-8379-43d2-9d44-5748ddeb55bb">
+        <Dimension xsi:type="DegenerateMeasureGroupDimension" dwd:design-time-name="83c2f5f4-7626-428d-810d-74949d5c2af5">
           <CubeDimensionID>FACT TRIP</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="967fc311-5059-4601-977c-4b364464e0d9">
+            <Attribute dwd:design-time-name="6aced792-7290-4836-bf87-b75996ca42f0">
               <AttributeID>TRIP ID</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="35ece374-d54e-4c10-8fb2-b02cc07bc383">
+                <KeyColumn dwd:design-time-name="244382c4-2ea1-49cd-bca2-696eac5dcf6e">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="5e8d8421-7738-43f9-b646-72e9217fd785">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="356624da-59e4-45ed-84c4-e10439f00137">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>TRIP_ID</ColumnID>
                   </Source>
@@ -938,15 +900,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="e1642ca2-b135-447f-95c1-8ac51b691a07">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="7a7c3ac2-d146-4b40-bd03-4a1ba53f579a">
           <CubeDimensionID>DIM CUSTOMER</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="884d1f26-4f38-47e5-a98a-ac08f996e613">
+            <Attribute dwd:design-time-name="eb10740c-f7c8-492b-ab41-b6a4fe1f6db8">
               <AttributeID>CUSTOMER ID</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="e12e0d14-ce54-4e0f-b16c-056b73d8a8d5">
+                <KeyColumn dwd:design-time-name="4b87754a-c810-4d39-b06d-9b28866d02f4">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="715576df-fa1b-4a88-8a70-e2cccb28400c">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="2d6c517f-2c7f-4d01-9255-a59a399c9d85">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>Trip_Customer</ColumnID>
                   </Source>
@@ -956,15 +918,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="d56f5654-937c-4c19-9050-6c72b8bdf3ff">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="2379de84-ddcc-4e57-b59b-f9ac8d04a6ae">
           <CubeDimensionID>DIM BIKE</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="8128e1cb-6dec-4bca-8fb5-24f325e20b79">
+            <Attribute dwd:design-time-name="92fb79fd-b2ff-447d-8a83-a23b9ae0d7e9">
               <AttributeID>BIKE ID</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="54c7ffef-91c1-4b41-bc39-7d570f13b656">
+                <KeyColumn dwd:design-time-name="00857651-4e18-475d-9d18-9413120acf0f">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="24032857-8b49-4b9b-b833-5592e05a3948">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="3169064f-2e82-4f37-9d1f-38fc0c22ae95">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>Trip_Bike</ColumnID>
                   </Source>
@@ -974,15 +936,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="7255cb33-b408-4b52-b2a6-d85f14ce061e">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="9040ae0b-dc9a-4215-8212-d2a4e4b45cf6">
           <CubeDimensionID>DIM WEATHER</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="a5486a69-a8e5-4c5d-9385-c59bc4482a81">
+            <Attribute dwd:design-time-name="edeb9e1c-355b-4976-907b-5ebbdf1d1730">
               <AttributeID>WEATHER ID</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="9798b872-a5ea-4c03-a338-860de82b4091">
+                <KeyColumn dwd:design-time-name="211f2b34-7eaf-4613-a1c4-824147872cb4">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="e19add57-2d21-4cd6-8b9a-cd9037404aed">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="d61edd07-1c71-410d-a3d1-699f42f05cd7">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>Trip_Weather</ColumnID>
                   </Source>
@@ -992,16 +954,16 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="d457a437-2945-4296-88c3-7724dafab1f3">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="608faed3-9527-4eda-a6cb-4b1908b61183">
           <CubeDimensionID>End Time</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="15bfd22f-a1a7-462f-85e0-c4842285763d">
+            <Attribute dwd:design-time-name="a2c85aae-9e8c-4015-91e0-d6a2bc2d63aa">
               <AttributeID>PK TIME</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="1e1e223c-da4b-411f-9e33-acf04e645ca2">
+                <KeyColumn dwd:design-time-name="02811be7-1113-46e9-b649-ce823bb61d64">
                   <DataType>WChar</DataType>
                   <DataSize>12</DataSize>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="c71926c9-4639-4725-bd81-4e042e061b50">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="1b92fcea-5ffc-44fd-aff8-3d71f83e0fb0">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>End_Time</ColumnID>
                   </Source>
@@ -1011,16 +973,16 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="21132bea-5d84-4297-b4ab-8d3ade077665">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="275e2a50-eb2d-4536-95d7-58b39f139e8e">
           <CubeDimensionID>Start Time</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="01eee3b6-b84b-4a63-b21d-27a8a0bdecf4">
+            <Attribute dwd:design-time-name="1da199ba-b611-47ce-b511-b534a92b41da">
               <AttributeID>PK TIME</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="3d5a9600-9a18-40d8-baa5-5f22e7dbd45f">
+                <KeyColumn dwd:design-time-name="bee6b0ae-d873-41c3-8e0f-3cae512f8b06">
                   <DataType>WChar</DataType>
                   <DataSize>12</DataSize>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="795d546c-4ef9-46bd-ab54-064f6c14b072">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="0f670262-5676-4324-986a-6c9f8821315a">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>Start_Time</ColumnID>
                   </Source>
@@ -1030,15 +992,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="93905187-e8f3-459e-9226-651b473de03c">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="8982e04c-f4ce-40b8-80c1-307c6d1e70ea">
           <CubeDimensionID>Start Station</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="34aad9e4-9837-4735-99a1-827e07aa1d5f">
+            <Attribute dwd:design-time-name="e69c1be6-514b-472a-8881-f7a4a2214c4e">
               <AttributeID>STATION ID</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="aa9d29e5-b7d9-4284-ba06-d8a89f3dd79f">
+                <KeyColumn dwd:design-time-name="3ceb79bb-719a-43a8-aea3-ec87eea80134">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="6e0171d0-15cb-4703-82bb-a3d10ca7a366">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="329c47c5-b9f6-495b-9cbc-8b3de6abad24">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>Start_Station</ColumnID>
                   </Source>
@@ -1048,15 +1010,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="71cb88bc-7438-4424-aeff-2dc3a4be4d19">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="126b541f-7399-4641-92e7-b13598c1f750">
           <CubeDimensionID>End Station</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="72b5e511-0857-404e-816c-c80ee17e9113">
+            <Attribute dwd:design-time-name="f11830cf-9344-413d-b85e-ef4f5d0c9317">
               <AttributeID>STATION ID</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="15aa7f68-d3fe-4ba0-93be-73817cc4f842">
+                <KeyColumn dwd:design-time-name="3f6fb635-b169-48e4-8bc7-506d7413094e">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="ca87c2f7-23e5-475a-aaf4-f5a72a543aca">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="40c436d6-a53e-492b-9eb5-bb3738e1d8b2">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>End_Station</ColumnID>
                   </Source>
@@ -1066,10 +1028,10 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="dca2840d-ab49-49bb-b9ea-f1de93748133">
+        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="84eaff9a-348a-4c31-a4e9-8672a1910493">
           <CubeDimensionID>Trip Weather - Measure Date</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="dbbdf224-514b-4fd8-a130-2d5b2cc09e9d">
+            <Attribute dwd:design-time-name="e832b3ad-84a6-465a-9fc0-d88ccea58872">
               <AttributeID>PK TIME</AttributeID>
               <Type>Granularity</Type>
             </Attribute>
@@ -1079,10 +1041,10 @@
           <Materialization>Regular</Materialization>
           <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
         </Dimension>
-        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="f180d705-d5e4-4f40-ba26-331f1bc7f1f3">
+        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="5e19fc1d-3284-4cdd-9ec2-269a7cc1d273">
           <CubeDimensionID>Start Station - Installation Date</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="645a716f-43b6-45aa-9388-c94264a9bd58">
+            <Attribute dwd:design-time-name="5bff7a2d-0b4e-4128-b550-5884a55e4f6a">
               <AttributeID>PK TIME</AttributeID>
               <Type>Granularity</Type>
             </Attribute>
@@ -1092,10 +1054,10 @@
           <Materialization>Regular</Materialization>
           <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
         </Dimension>
-        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="023fa4f8-aa4a-4ab2-a1e1-9b79b100455d">
+        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="5bee2141-2cba-4bea-8a7d-ff9897dcd612">
           <CubeDimensionID>End Station - Installation Date</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="b7c22c6e-cf9b-4bd2-91f0-4ead48a4815a">
+            <Attribute dwd:design-time-name="f6aec017-c6ef-44f6-8cf1-61bbf0ea41a4">
               <AttributeID>PK TIME</AttributeID>
               <Type>Granularity</Type>
             </Attribute>
@@ -1108,7 +1070,7 @@
       </Dimensions>
       <Partitions />
     </MeasureGroup>
-    <MeasureGroup dwd:design-time-name="575167e7-b9ae-4564-a3c8-86710f63307b">
+    <MeasureGroup dwd:design-time-name="fcc462d1-0bc5-42d4-ac9d-e5b152f8fe12">
       <ID>FACT TRIP 2</ID>
       <Name>FACT TRIP 2</Name>
       <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
@@ -1116,14 +1078,14 @@
       <LastProcessed>0001-01-01T00:00:00Z</LastProcessed>
       <State>Unprocessed</State>
       <Measures>
-        <Measure dwd:design-time-name="58b000eb-97b5-4e1a-bc37-045b8cff2e39">
+        <Measure dwd:design-time-name="db312672-9671-44d2-8a14-c85f65043054">
           <ID>Trip Bike Distinct Count</ID>
           <Name>Trip Bike Distinct Count</Name>
           <AggregateFunction>DistinctCount</AggregateFunction>
           <DataType>Integer</DataType>
-          <Source dwd:design-time-name="1da791aa-99d3-4cc7-8e01-2d59adbf7da5">
+          <Source dwd:design-time-name="a1cb9c33-d9f6-4f99-b6b7-a1fbff43faa6">
             <DataType>Integer</DataType>
-            <Source xsi:type="ColumnBinding" dwd:design-time-name="d7aa7fbf-8bb8-4d56-917e-e498d0be9d70">
+            <Source xsi:type="ColumnBinding" dwd:design-time-name="890ff4f3-1491-4018-9f43-fc996527fd8c">
               <TableID>Pynka_FACT_TRIP</TableID>
               <ColumnID>Trip_Bike</ColumnID>
             </Source>
@@ -1133,15 +1095,15 @@
       <StorageMode>Molap</StorageMode>
       <ProcessingMode>Regular</ProcessingMode>
       <Dimensions>
-        <Dimension xsi:type="DegenerateMeasureGroupDimension" dwd:design-time-name="6464e140-6aac-4278-90b2-a1182a431a98">
+        <Dimension xsi:type="DegenerateMeasureGroupDimension" dwd:design-time-name="ab8e33d2-f14f-4c60-8aac-1f2b29cbe737">
           <CubeDimensionID>FACT TRIP</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="4d8774e5-faba-4d38-b62d-b87e8adee8a6">
+            <Attribute dwd:design-time-name="e65a9442-8bf1-4822-8ace-a8065ece92ba">
               <AttributeID>TRIP ID</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="52377b8e-fc7d-44dd-8a9d-e0badb4a6125">
+                <KeyColumn dwd:design-time-name="38bd684b-90c1-496b-ba70-b87b49c174e7">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="57368567-9bb4-40bd-a388-990c419b5ba3">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="8c3b02a6-6bfe-4b97-b614-126e25593971">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>TRIP_ID</ColumnID>
                   </Source>
@@ -1151,15 +1113,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="816146c4-fac3-46b1-a171-eecf12477449">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="51254322-dc2b-405d-a0cd-a98a09903442">
           <CubeDimensionID>DIM CUSTOMER</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="c1967a5f-edf3-4f3f-bc3b-c64e048017c9">
+            <Attribute dwd:design-time-name="3330dd59-e259-4253-8d70-6248ab47bf1c">
               <AttributeID>CUSTOMER ID</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="75388f75-460b-4db0-aebc-a7e5581c4772">
+                <KeyColumn dwd:design-time-name="6e5e95d4-39a3-434c-ab98-e77d624ea212">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="6f25549b-1a1b-4e74-bdb7-2b424ed09c45">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="1149449a-2465-4ed9-ac72-8f08aab95e86">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>Trip_Customer</ColumnID>
                   </Source>
@@ -1169,15 +1131,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="21aee7f9-b3ae-4918-b1be-a73c971a5721">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="a39d042b-b2ea-4621-a3ef-e8b688f59dba">
           <CubeDimensionID>DIM BIKE</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="f983a02c-8de4-4c85-8e35-e4395545886c">
+            <Attribute dwd:design-time-name="4377388c-20ef-46fe-8241-a1ddaeceb39e">
               <AttributeID>BIKE ID</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="9849eef5-f092-464a-bb20-fa2d47226e31">
+                <KeyColumn dwd:design-time-name="b479fdeb-9088-4646-9fd9-fef5423d0d8b">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="4309cd15-1cc1-4973-9dee-b85cde12902c">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="2cb8265e-f643-41b6-a204-dce66b7fe7fd">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>Trip_Bike</ColumnID>
                   </Source>
@@ -1187,15 +1149,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="c48d8d91-b630-4522-8d19-241521abf23a">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="2e10d2c0-f8f7-449d-9a70-a278e5cf486a">
           <CubeDimensionID>DIM WEATHER</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="991b9676-768f-425a-8ff1-81be8ffeb7c3">
+            <Attribute dwd:design-time-name="2540dc6e-04f4-4c11-ac36-870c821e7dba">
               <AttributeID>WEATHER ID</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="e650615a-13aa-4714-9928-469347cdce35">
+                <KeyColumn dwd:design-time-name="c5052319-3cf1-4e89-982b-6501781ce330">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="f544c84d-4cc0-4b0b-9807-da3d913577b9">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="d7f34968-ac2c-4658-98f7-3a4b1349f05f">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>Trip_Weather</ColumnID>
                   </Source>
@@ -1205,16 +1167,16 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="160f56b3-f4bb-439c-8215-8d72a5153862">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="f10dba3b-dfa3-47ef-b737-b6111c6596ae">
           <CubeDimensionID>End Time</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="a5256495-6201-4818-91e8-bc4e627fa17b">
+            <Attribute dwd:design-time-name="fb2fd561-3245-441d-827b-46e8b717b3cb">
               <AttributeID>PK TIME</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="20e6dcea-5d87-4edf-9ca0-8b3238364a31">
+                <KeyColumn dwd:design-time-name="d6e10333-71d4-4a60-aedf-7a59d1ac1484">
                   <DataType>WChar</DataType>
                   <DataSize>12</DataSize>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="d8722fba-9bc1-4428-9141-a3d5f76738c3">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="ceb9d891-1560-4226-8f94-d64112b413ef">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>End_Time</ColumnID>
                   </Source>
@@ -1224,16 +1186,16 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="9b208f38-4241-4341-ad4b-4fd4b792a618">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="54be7978-e907-4cf7-a482-343f1338a045">
           <CubeDimensionID>Start Time</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="93f0e7d4-3fa5-4e3f-8fdc-95ed6475a8da">
+            <Attribute dwd:design-time-name="b1039f4d-cd22-45af-aba4-eff8248a7fd1">
               <AttributeID>PK TIME</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="82e213c4-ca0c-49f3-a615-e936a6000928">
+                <KeyColumn dwd:design-time-name="e767b7d6-148d-4cb6-aecf-47ca3041a994">
                   <DataType>WChar</DataType>
                   <DataSize>12</DataSize>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="e3793cee-066b-461d-94a1-b8366793112c">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="378d6c75-7a3e-4a04-8033-87770fe0dfc8">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>Start_Time</ColumnID>
                   </Source>
@@ -1243,15 +1205,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="00e820f0-35b7-448f-b968-c09eb6e6c622">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="79d468f6-f66b-410e-b75e-b1055527a48b">
           <CubeDimensionID>Start Station</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="8732ee50-f101-4689-b5dd-44d782c46687">
+            <Attribute dwd:design-time-name="d991bd3a-6360-4355-a2fb-c40bbb1bc78d">
               <AttributeID>STATION ID</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="6fdcef8a-e1e6-43ed-9d41-f9ba807d623b">
+                <KeyColumn dwd:design-time-name="f562d4dd-535d-44a6-a5b6-50b4a0491e8a">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="4ad7bb8d-1162-42b9-ab72-ed77ca8340cb">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="9e4840a1-2046-4856-9b29-c6d762bfe277">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>Start_Station</ColumnID>
                   </Source>
@@ -1261,15 +1223,15 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="bc9dddcf-2895-40ec-9867-0de95f9a829a">
+        <Dimension xsi:type="RegularMeasureGroupDimension" dwd:design-time-name="d6a7e1d0-4957-4c84-9b13-b9f29ba7876e">
           <CubeDimensionID>End Station</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="158b3837-42a7-412d-819f-46bf610d6a1c">
+            <Attribute dwd:design-time-name="be8f0abe-8864-4f5e-9cde-af9caa9d1f6b">
               <AttributeID>STATION ID</AttributeID>
               <KeyColumns>
-                <KeyColumn dwd:design-time-name="c548815d-8b2c-49d2-a156-7255a74f1553">
+                <KeyColumn dwd:design-time-name="1d45fc5b-9ea5-4503-b6a3-32cadc7253b4">
                   <DataType>Integer</DataType>
-                  <Source xsi:type="ColumnBinding" dwd:design-time-name="5bf98616-d387-490e-b461-5d7a673aeeeb">
+                  <Source xsi:type="ColumnBinding" dwd:design-time-name="7558164b-5988-40c3-bb49-f3cde8695d15">
                     <TableID>Pynka_FACT_TRIP</TableID>
                     <ColumnID>End_Station</ColumnID>
                   </Source>
@@ -1279,10 +1241,10 @@
             </Attribute>
           </Attributes>
         </Dimension>
-        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="0e42e087-9f55-4e63-958a-7719fafbbb51">
+        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="c858ea95-445c-492e-b38f-259745c34630">
           <CubeDimensionID>Trip Weather - Measure Date</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="c41c8def-f92c-4760-80fa-8d34f9428d0b">
+            <Attribute dwd:design-time-name="6ed8ff0f-c4c2-47e5-b2ce-84caf64960b9">
               <AttributeID>PK TIME</AttributeID>
               <Type>Granularity</Type>
             </Attribute>
@@ -1292,10 +1254,10 @@
           <Materialization>Regular</Materialization>
           <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
         </Dimension>
-        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="ca06b6e1-d431-408a-ae09-27f94b8645a5">
+        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="aa8da2aa-44e9-4891-b467-7abef860e9eb">
           <CubeDimensionID>Start Station - Installation Date</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="2b83f479-b440-4eaf-b782-c1cae3744062">
+            <Attribute dwd:design-time-name="834871bd-3908-4d6a-bb65-93cbb18cb764">
               <AttributeID>PK TIME</AttributeID>
               <Type>Granularity</Type>
             </Attribute>
@@ -1305,10 +1267,10 @@
           <Materialization>Regular</Materialization>
           <ddl200:ProcessingState>Unprocessed</ddl200:ProcessingState>
         </Dimension>
-        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="a8609ec7-21b2-4c32-959b-304f215cc70f">
+        <Dimension xsi:type="ReferenceMeasureGroupDimension" dwd:design-time-name="9f175442-37a1-48f7-82a8-360cc85f27e8">
           <CubeDimensionID>End Station - Installation Date</CubeDimensionID>
           <Attributes>
-            <Attribute dwd:design-time-name="7015469f-de1a-464e-8105-90b50d309627">
+            <Attribute dwd:design-time-name="1485c596-6500-4f70-a66b-b666e9dd5cfe">
               <AttributeID>PK TIME</AttributeID>
               <Type>Granularity</Type>
             </Attribute>
@@ -1322,7 +1284,28 @@
       <Partitions />
     </MeasureGroup>
   </MeasureGroups>
-  <Source dwd:design-time-name="60ad73e8-819c-4fd1-9bf9-1b557086dc31">
+  <Source dwd:design-time-name="2cc585ba-9cab-4602-9c45-806525536457">
     <DataSourceViewID>Projekt_DSV</DataSourceViewID>
   </Source>
+  <MdxScripts>
+    <MdxScript dwd:design-time-name="45790d14-ac41-437c-a3b8-c54735ebdced">
+      <ID>MdxScript</ID>
+      <Name>MdxScript</Name>
+      <CreatedTimestamp>0001-01-01T00:00:00Z</CreatedTimestamp>
+      <LastSchemaUpdate>0001-01-01T00:00:00Z</LastSchemaUpdate>
+      <Commands>
+        <Command>
+          <Text>/*
+The CALCULATE command controls the aggregation of leaf cells in the cube.
+If the CALCULATE command is deleted or modified, the data within the cube is affected.
+You should edit this command only if you manually specify how the cube is aggregated.
+*/
+CALCULATE; 
+CREATE MEMBER CURRENTCUBE.[Measures].[Avg Duration]
+ AS [Measures].[Duration] / [Measures].[FACT TRIP Count], 
+VISIBLE = 1  ; </Text>
+        </Command>
+      </Commands>
+    </MdxScript>
+  </MdxScripts>
 </Cube>

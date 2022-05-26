@@ -7,14 +7,14 @@
           <ConfigurationSetting>
             <Id>Projekt_DS</Id>
             <Name>Projekt_DS</Name>
-            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA90VYg3Vx3kyTdBQXyFk1tgAAAAAWAAAAUAByAG8AagBlAGsAdABfAEQAUwAAABBmAAAAAQAAIAAAAFBploefwSxnyrpr7K7ho+l5Q9ALxc8dtRrqY4H/0z+gAAAAAA6AAAAAAgAAIAAAAD39+tqXYYJbsooDBO1vBhFb6x/dUTkCIpsNvZ697iVTEAAAAFVUDF/UQktzIHO0VDGXW8BAAAAAk5f/tbVvLCEgpvGrFRm3iRSMLY+sAn4To1N2mVZ5xZYuu4kG+J4Ezaxvv/Qq46ibA06JSU/0IJyNqT9adJfZlQ==</Value>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA90VYg3Vx3kyTdBQXyFk1tgAAAAAWAAAAUAByAG8AagBlAGsAdABfAEQAUwAAABBmAAAAAQAAIAAAAFhW+cS4AIYdz2SBUjUwYsCzFkW8FYXdYI13G0Ae1tqHAAAAAA6AAAAAAgAAIAAAAHt3leLfaV/DX05frQIPoOJgsYDCeezkKHftLUfYjJO+EAAAAMg1eS4/LEyV12lVDjzSpglAAAAA4LEOh7R//R6PdKaKvneBWnG5HBrqU+woFe9hPWUIxH/PvfhR9JhbBEXcpeB/zYwaBC1eFX5k4E2qgFEvIGE8Sg==</Value>
           </ConfigurationSetting>
         </UserIDs>
         <UserPasswords>
           <ConfigurationSetting>
             <Id>Projekt_DS</Id>
             <Name>Projekt_DS</Name>
-            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA90VYg3Vx3kyTdBQXyFk1tgAAAAAWAAAAUAByAG8AagBlAGsAdABfAEQAUwAAABBmAAAAAQAAIAAAAKQKeVbT1uIwd7iPJGNCg0O8AIvE8Xfax5gNdD5Ytj3VAAAAAA6AAAAAAgAAIAAAADtovrWYIrzDX8EEQXfxCkFBALVNRH5IqL65/2LNrrKcEAAAAI4bDnjxXtCeU8vUgKsg4KxAAAAAjtu7WgkhEJiSzVzfjjtbKcSgXYDmiKvLevU70BAk7obD0JLgvxGs+FdiGQN/EPi/G91Ua6HWjkbs6dmcUySj4g==</Value>
+            <Value xsi:type="xsd:string">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA90VYg3Vx3kyTdBQXyFk1tgAAAAAWAAAAUAByAG8AagBlAGsAdABfAEQAUwAAABBmAAAAAQAAIAAAAPOqecvW6vLVYP6+ZujcXBuY2RydoHKZvnpH7civ11gvAAAAAA6AAAAAAgAAIAAAAPvCvlSnfSctieOrdo0m8J1VPX4LsIa3vLcZA8hOx5SNEAAAAPtGc37zHzYtXVsnJlI2ALlAAAAAQALmt/g79EaXR+QmkWRos7JNJY4WJ9F+RbW1D1kae0lp+IkWdgSxxCnYxJ2tWWgTtq7Xc5X5El4vYu+tYnd2Kg==</Value>
           </ConfigurationSetting>
         </UserPasswords>
         <TargetServer>localhost</TargetServer>

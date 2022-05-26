@@ -11,8 +11,8 @@
   DTS:LocaleID="1045"
   DTS:ObjectName="Package"
   DTS:PackageType="5"
-  DTS:VersionBuild="70"
-  DTS:VersionGUID="{052E5B4A-B88E-412F-A6CF-A796ABBB0026}">
+  DTS:VersionBuild="78"
+  DTS:VersionGUID="{501BA567-E39D-48B9-8464-5F235245F420}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -29,7 +29,7 @@
           <DTS:Password
             DTS:Name="Password"
             Sensitive="1"
-            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA90VYg3Vx3kyTdBQXyFk1tgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAA6OxTB+6+nKeyVnA8GGQ8P1NKeHCX0Xj63BwcUgh4xmQAAAAAOgAAAAAIAACAAAACjN0shl62cn3yl5TGrcixQ6kNGNh1EpcSAiZBKjjpF4RAAAADW00dJaV34sS85o4ZcI8NEQAAAAIT+vo90Fq6qvI85CdR0h7vLd9zIPACaueAh1obee8aAkepe9tqb02DdlGnrQgtQW6Gru8B/piSEDdyOBQhfQR4</DTS:Password>
+            Encrypted="1">AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA90VYg3Vx3kyTdBQXyFk1tgAAAAAIAAAARABUAFMAAAAQZgAAAAEAACAAAAC4W26afOzgKo8CwkmelzYmTakTBrsw3J9d45ShVMpTWAAAAAAOgAAAAAIAACAAAACiyoMF2Ze/Q6G2cVNDs0gcIVdmCocDiXtDzHJuqYLNoRAAAAAP7h4KdF+A0c//By7hvpD1QAAAABuhlZaqJ/I+v/P9S4UFRUdeIIyah8qJgApLgg4NsMMkxr4GqWcL0xS8vREb0oqKBJcU/yiSZutiblapZ5FhGCE</DTS:Password>
         </DTS:ConnectionManager>
       </DTS:ObjectData>
     </DTS:ConnectionManager>
@@ -6277,24 +6277,24 @@
               startId="Package\INSERT DIM_TIME\Create DIM_TIME columns 4.Outputs[Derived Column Output]" />
             <path
               refId="Package\INSERT DIM_TIME.Paths[Flat File Source Output3]"
-              endId="Package\INSERT DIM_TIME\Cast Installation_Date to DATE.Inputs[Derived Column Input]"
-              name="Flat File Source Output"
-              startId="Package\INSERT DIM_TIME\Station_csv.Outputs[Flat File Source Output]" />
-            <path
-              refId="Package\INSERT DIM_TIME.Paths[Flat File Source Output2]"
-              endId="Package\INSERT DIM_TIME\Cast Weather_Date to DATE.Inputs[Derived Column Input]"
-              name="Flat File Source Output"
-              startId="Package\INSERT DIM_TIME\Weather_csv.Outputs[Flat File Source Output]" />
-            <path
-              refId="Package\INSERT DIM_TIME.Paths[Flat File Source Output]"
               endId="Package\INSERT DIM_TIME\Cast Start_Date to DATETIME.Inputs[Derived Column Input]"
               name="Flat File Source Output"
               startId="Package\INSERT DIM_TIME\Trip_start_csv.Outputs[Flat File Source Output]" />
             <path
-              refId="Package\INSERT DIM_TIME.Paths[Flat File Source Output1]"
+              refId="Package\INSERT DIM_TIME.Paths[Flat File Source Output2]"
               endId="Package\INSERT DIM_TIME\Cast End_Date to DATETIME.Inputs[Derived Column Input]"
               name="Flat File Source Output"
               startId="Package\INSERT DIM_TIME\Trip_end_csv.Outputs[Flat File Source Output]" />
+            <path
+              refId="Package\INSERT DIM_TIME.Paths[Flat File Source Output]"
+              endId="Package\INSERT DIM_TIME\Cast Weather_Date to DATE.Inputs[Derived Column Input]"
+              name="Flat File Source Output"
+              startId="Package\INSERT DIM_TIME\Weather_csv.Outputs[Flat File Source Output]" />
+            <path
+              refId="Package\INSERT DIM_TIME.Paths[Flat File Source Output1]"
+              endId="Package\INSERT DIM_TIME\Cast Installation_Date to DATE.Inputs[Derived Column Input]"
+              name="Flat File Source Output"
+              startId="Package\INSERT DIM_TIME\Station_csv.Outputs[Flat File Source Output]" />
             <path
               refId="Package\INSERT DIM_TIME.Paths[Merge Join Output]"
               endId="Package\INSERT DIM_TIME\Sort time rows.Inputs[Sort Input]"
@@ -6317,24 +6317,24 @@
               startId="Package\INSERT DIM_TIME\ENUM_WEEKDAY.Outputs[OLE DB Source Output]" />
             <path
               refId="Package\INSERT DIM_TIME.Paths[Sort Output3]"
-              endId="Package\INSERT DIM_TIME\Append Month_Name to all rows.Inputs[Merge Join Left Input]"
-              name="Sort Output"
-              startId="Package\INSERT DIM_TIME\Sort enum_month.Outputs[Sort Output]" />
-            <path
-              refId="Package\INSERT DIM_TIME.Paths[Sort Output]"
               endId="Package\INSERT DIM_TIME\Append Month_Name to all rows.Inputs[Merge Join Right Input]"
               name="Sort Output"
               startId="Package\INSERT DIM_TIME\Remove duplicates.Outputs[Sort Output]" />
             <path
-              refId="Package\INSERT DIM_TIME.Paths[Sort Output1]"
+              refId="Package\INSERT DIM_TIME.Paths[Sort Output]"
               endId="Package\INSERT DIM_TIME\Append Weekday_Name to all rows.Inputs[Merge Join Left Input]"
               name="Sort Output"
               startId="Package\INSERT DIM_TIME\Sort time rows.Outputs[Sort Output]" />
             <path
-              refId="Package\INSERT DIM_TIME.Paths[Sort Output2]"
+              refId="Package\INSERT DIM_TIME.Paths[Sort Output1]"
               endId="Package\INSERT DIM_TIME\Append Weekday_Name to all rows.Inputs[Merge Join Right Input]"
               name="Sort Output"
               startId="Package\INSERT DIM_TIME\Sort enum_weekday.Outputs[Sort Output]" />
+            <path
+              refId="Package\INSERT DIM_TIME.Paths[Sort Output2]"
+              endId="Package\INSERT DIM_TIME\Append Month_Name to all rows.Inputs[Merge Join Left Input]"
+              name="Sort Output"
+              startId="Package\INSERT DIM_TIME\Sort enum_month.Outputs[Sort Output]" />
             <path
               refId="Package\INSERT DIM_TIME.Paths[Union All Output 1]"
               endId="Package\INSERT DIM_TIME\Remove duplicates.Inputs[Sort Input]"
@@ -13823,7 +13823,7 @@
       <DTS:ObjectData>
         <SQLTask:SqlTaskData
           SQLTask:Connection="{F2D9912B-B82E-4875-9638-BFC63B9CC13A}"
-          SQLTask:SqlStatementSource="ALTER TABLE Pynka.DIM_BIKE&#xA;ADD CONSTRAINT dim_bike_pk PRIMARY KEY (BIKE_ID);&#xA;&#xA;ALTER TABLE Pynka.DIM_CUSTOMER&#xA;ADD CONSTRAINT dim_cust_pk PRIMARY KEY (CUSTOMER_ID);&#xA;&#xA;ALTER TABLE Pynka.DIM_STATION&#xA;ADD CONSTRAINT dim_station_pk PRIMARY KEY (STATION_ID);&#xA;&#xA;ALTER TABLE Pynka.DIM_TIME&#xA;ADD CONSTRAINT dim_time_pk PRIMARY KEY (PK_TIME);&#xA;&#xA;ALTER TABLE Pynka.DIM_WEATHER&#xA;ADD CONSTRAINT dim_weather_pk PRIMARY KEY (WEATHER_ID);&#xA;&#xA;ALTER TABLE Pynka.FACT_TRIP&#xA;ADD CONSTRAINT fact_trip_pk PRIMARY KEY (TRIP_ID);&#xA;&#xA;ALTER TABLE Pynka.DIM_STATION&#xA;ADD CONSTRAINT dim_station_fk_install FOREIGN KEY (Installation_Date) REFERENCES Pynka.DIM_TIME(PK_TIME);&#xA;&#xA;ALTER TABLE Pynka.DIM_WEATHER&#xA;ADD CONSTRAINT dim_weather_fk_date FOREIGN KEY (Measure_Date) REFERENCES Pynka.DIM_TIME(PK_TIME);&#xA;&#xA;ALTER TABLE Pynka.FACT_TRIP&#xA;ADD CONSTRAINT fact_trip_fk_start_time FOREIGN KEY (Start_Time) REFERENCES Pynka.DIM_TIME(PK_TIME);&#xA;&#xA;ALTER TABLE Pynka.FACT_TRIP&#xA;ADD CONSTRAINT fact_trip_fk_end_time FOREIGN KEY (End_Time) REFERENCES Pynka.DIM_TIME(PK_TIME);&#xA;&#xA;ALTER TABLE Pynka.FACT_TRIP&#xA;ADD CONSTRAINT fact_trip_fk_start_station FOREIGN KEY (Start_Station) REFERENCES Pynka.DIM_STATION(STATION_ID);&#xA;&#xA;ALTER TABLE Pynka.FACT_TRIP&#xA;ADD CONSTRAINT fact_trip_fk_end_station FOREIGN KEY (End_Station) REFERENCES Pynka.DIM_STATION(STATION_ID);&#xA;&#xA;ALTER TABLE Pynka.FACT_TRIP&#xA;ADD CONSTRAINT fact_trip_fk_customer FOREIGN KEY (Trip_Customer) REFERENCES Pynka.DIM_CUSTOMER(CUSTOMER_ID);&#xA;&#xA;ALTER TABLE Pynka.FACT_TRIP&#xA;ADD CONSTRAINT fact_trip_fk_bike FOREIGN KEY (Trip_Bike) REFERENCES Pynka.DIM_BIKE(BIKE_ID);&#xA;&#xA;ALTER TABLE Pynka.FACT_TRIP&#xA;ADD CONSTRAINT fact_trip_fk_weather FOREIGN KEY (Trip_Weather) REFERENCES Pynka.DIM_WEATHER(WEATHER_ID);" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
+          SQLTask:SqlStatementSource="ALTER TABLE Pynka.DIM_BIKE&#xA;ADD CONSTRAINT dim_bike_pk PRIMARY KEY (BIKE_ID);&#xA;&#xA;ALTER TABLE Pynka.DIM_CUSTOMER&#xA;ADD CONSTRAINT dim_cust_pk PRIMARY KEY (CUSTOMER_ID);&#xA;&#xA;ALTER TABLE Pynka.DIM_STATION&#xA;ADD CONSTRAINT dim_station_pk PRIMARY KEY (STATION_ID);&#xA;&#xA;ALTER TABLE Pynka.DIM_TIME&#xA;ADD CONSTRAINT dim_time_pk PRIMARY KEY (PK_TIME);&#xA;&#xA;ALTER TABLE Pynka.DIM_WEATHER&#xA;ADD CONSTRAINT dim_weather_pk PRIMARY KEY (WEATHER_ID);&#xA;&#xA;ALTER TABLE Pynka.FACT_TRIP&#xA;ADD CONSTRAINT fact_trip_pk PRIMARY KEY (TRIP_ID);&#xA;&#xA;ALTER TABLE Pynka.FACT_TRIP&#xA;ADD CONSTRAINT fact_trip_fk_start_time FOREIGN KEY (Start_Time) REFERENCES Pynka.DIM_TIME(PK_TIME);&#xA;&#xA;ALTER TABLE Pynka.FACT_TRIP&#xA;ADD CONSTRAINT fact_trip_fk_end_time FOREIGN KEY (End_Time) REFERENCES Pynka.DIM_TIME(PK_TIME);&#xA;&#xA;ALTER TABLE Pynka.FACT_TRIP&#xA;ADD CONSTRAINT fact_trip_fk_start_station FOREIGN KEY (Start_Station) REFERENCES Pynka.DIM_STATION(STATION_ID);&#xA;&#xA;ALTER TABLE Pynka.FACT_TRIP&#xA;ADD CONSTRAINT fact_trip_fk_end_station FOREIGN KEY (End_Station) REFERENCES Pynka.DIM_STATION(STATION_ID);&#xA;&#xA;ALTER TABLE Pynka.FACT_TRIP&#xA;ADD CONSTRAINT fact_trip_fk_customer FOREIGN KEY (Trip_Customer) REFERENCES Pynka.DIM_CUSTOMER(CUSTOMER_ID);&#xA;&#xA;ALTER TABLE Pynka.FACT_TRIP&#xA;ADD CONSTRAINT fact_trip_fk_bike FOREIGN KEY (Trip_Bike) REFERENCES Pynka.DIM_BIKE(BIKE_ID);&#xA;&#xA;ALTER TABLE Pynka.FACT_TRIP&#xA;ADD CONSTRAINT fact_trip_fk_weather FOREIGN KEY (Trip_Weather) REFERENCES Pynka.DIM_WEATHER(WEATHER_ID);" xmlns:SQLTask="www.microsoft.com/sqlserver/dts/tasks/sqltask" />
       </DTS:ObjectData>
     </DTS:Executable>
   </DTS:Executables>
@@ -15216,7 +15216,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
     design-time-name="Package\INSERT DIM_BIKE">
     <LayoutInfo>
       <GraphLayout
-        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="8" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="127,42"
           Id="Package\INSERT DIM_BIKE\DIM_BIKE"
@@ -15264,9 +15264,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -15300,9 +15298,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -15336,9 +15332,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>
@@ -15599,7 +15593,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
     design-time-name="Package\INSERT DIM_TIME">
     <LayoutInfo>
       <GraphLayout
-        Capacity="64" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:mssgm="clr-namespace:Microsoft.SqlServer.Graph.Model;assembly=Microsoft.SqlServer.Graph">
+        Capacity="64" xmlns="clr-namespace:Microsoft.SqlServer.IntegrationServices.Designer.Model.Serialization;assembly=Microsoft.SqlServer.IntegrationServices.Graph" xmlns:mssgle="clr-namespace:Microsoft.SqlServer.Graph.LayoutEngine;assembly=Microsoft.SqlServer.Graph" xmlns:assembly="http://schemas.microsoft.com/winfx/2006/xaml">
         <NodeLayout
           Size="164,42"
           Id="Package\INSERT DIM_TIME\Sort enum_month"
@@ -15689,43 +15683,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
           Id="Package\INSERT DIM_TIME\Station_csv"
           TopLeft="69,77" />
         <EdgeLayout
-          Id="Package\INSERT DIM_TIME.Paths[Flat File Source Output1]"
-          TopLeft="940,131">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="27.5,42"
-              Start="0,0"
-              End="27.5,34.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,17" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,17"
-                    Point2="0,21"
-                    Point3="4,21" />
-                  <mssgle:LineSegment
-                    End="23.5,21" />
-                  <mssgle:CubicBezierSegment
-                    Point1="23.5,21"
-                    Point2="27.5,21"
-                    Point3="27.5,25" />
-                  <mssgle:LineSegment
-                    End="27.5,34.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\INSERT DIM_TIME.Paths[Flat File Source Output]"
+          Id="Package\INSERT DIM_TIME.Paths[Flat File Source Output3]"
           TopLeft="695.5,118">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -15755,9 +15713,41 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\INSERT DIM_TIME.Paths[Flat File Source Output2]"
+          TopLeft="940,131">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="27.5,42"
+              Start="0,0"
+              End="27.5,34.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,17" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,17"
+                    Point2="0,21"
+                    Point3="4,21" />
+                  <mssgle:LineSegment
+                    End="23.5,21" />
+                  <mssgle:CubicBezierSegment
+                    Point1="23.5,21"
+                    Point2="27.5,21"
+                    Point3="27.5,25" />
+                  <mssgle:LineSegment
+                    End="27.5,34.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -15791,9 +15781,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -15827,9 +15815,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -15863,9 +15849,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -15899,9 +15883,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -15935,9 +15917,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -15971,9 +15951,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16007,9 +15985,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16043,9 +16019,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16079,85 +16053,11 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\INSERT DIM_TIME.Paths[Sort Output3]"
-          TopLeft="259,528">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="123,33"
-              Start="0,0"
-              End="123,25.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,15.6649616368286" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,15.6649616368286"
-                    Point2="0,19.6649616368286"
-                    Point3="4,19.6649616368286" />
-                  <mssgle:LineSegment
-                    End="119,19.6649616368286" />
-                  <mssgle:CubicBezierSegment
-                    Point1="119,19.6649616368286"
-                    Point2="123,19.6649616368286"
-                    Point3="123,23.6649616368286" />
-                  <mssgle:LineSegment
-                    End="123,25.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\INSERT DIM_TIME.Paths[Sort Output2]"
-          TopLeft="746.5,693">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="-92.8333333333334,31"
-              Start="0,0"
-              End="-92.8333333333334,23.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,14.4798061389338" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,14.4798061389338"
-                    Point2="0,18.4798061389338"
-                    Point3="-4,18.4798061389338" />
-                  <mssgle:LineSegment
-                    End="-88.8333333333334,18.4798061389338" />
-                  <mssgle:CubicBezierSegment
-                    Point1="-88.8333333333334,18.4798061389338"
-                    Point2="-92.8333333333334,18.4798061389338"
-                    Point3="-92.8333333333334,22.4798061389338" />
-                  <mssgle:LineSegment
-                    End="-92.8333333333334,23.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\INSERT DIM_TIME.Paths[Sort Output1]"
+          Id="Package\INSERT DIM_TIME.Paths[Sort Output]"
           TopLeft="403,690">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -16187,13 +16087,11 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\INSERT DIM_TIME.Paths[Sort Output]"
+          Id="Package\INSERT DIM_TIME.Paths[Sort Output3]"
           TopLeft="587.5,528">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -16223,9 +16121,75 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\INSERT DIM_TIME.Paths[Sort Output2]"
+          TopLeft="259,528">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="123,33"
+              Start="0,0"
+              End="123,25.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,15.6649616368286" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,15.6649616368286"
+                    Point2="0,19.6649616368286"
+                    Point3="4,19.6649616368286" />
+                  <mssgle:LineSegment
+                    End="119,19.6649616368286" />
+                  <mssgle:CubicBezierSegment
+                    Point1="119,19.6649616368286"
+                    Point2="123,19.6649616368286"
+                    Point3="123,23.6649616368286" />
+                  <mssgle:LineSegment
+                    End="123,25.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\INSERT DIM_TIME.Paths[Sort Output1]"
+          TopLeft="746.5,693">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="-92.8333333333334,31"
+              Start="0,0"
+              End="-92.8333333333334,23.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,14.4798061389338" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,14.4798061389338"
+                    Point2="0,18.4798061389338"
+                    Point3="-4,18.4798061389338" />
+                  <mssgle:LineSegment
+                    End="-88.8333333333334,18.4798061389338" />
+                  <mssgle:CubicBezierSegment
+                    Point1="-88.8333333333334,18.4798061389338"
+                    Point2="-92.8333333333334,18.4798061389338"
+                    Point3="-92.8333333333334,22.4798061389338" />
+                  <mssgle:LineSegment
+                    End="-92.8333333333334,23.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16259,9 +16223,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16295,9 +16257,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16331,9 +16291,7 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
@@ -16367,49 +16325,11 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
         <EdgeLayout
-          Id="Package\INSERT DIM_TIME.Paths[Flat File Source Output3]"
-          TopLeft="135.5,119">
-          <EdgeLayout.Curve>
-            <mssgle:Curve
-              StartConnector="{assembly:Null}"
-              EndConnector="54.5,36"
-              Start="0,0"
-              End="54.5,28.5">
-              <mssgle:Curve.Segments>
-                <mssgle:SegmentCollection
-                  Capacity="5">
-                  <mssgle:LineSegment
-                    End="0,14" />
-                  <mssgle:CubicBezierSegment
-                    Point1="0,14"
-                    Point2="0,18"
-                    Point3="4,18" />
-                  <mssgle:LineSegment
-                    End="50.5,18" />
-                  <mssgle:CubicBezierSegment
-                    Point1="50.5,18"
-                    Point2="54.5,18"
-                    Point3="54.5,22" />
-                  <mssgle:LineSegment
-                    End="54.5,28.5" />
-                </mssgle:SegmentCollection>
-              </mssgle:Curve.Segments>
-            </mssgle:Curve>
-          </EdgeLayout.Curve>
-          <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
-          </EdgeLayout.Labels>
-        </EdgeLayout>
-        <EdgeLayout
-          Id="Package\INSERT DIM_TIME.Paths[Flat File Source Output2]"
+          Id="Package\INSERT DIM_TIME.Paths[Flat File Source Output]"
           TopLeft="414,118">
           <EdgeLayout.Curve>
             <mssgle:Curve
@@ -16439,9 +16359,41 @@ AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==</BinaryItem>
             </mssgle:Curve>
           </EdgeLayout.Curve>
           <EdgeLayout.Labels>
-            <mssgm:EdgeLabel
-              BoundingBox="0,0,0,0"
-              RelativePosition="Any" />
+            <EdgeLabelCollection />
+          </EdgeLayout.Labels>
+        </EdgeLayout>
+        <EdgeLayout
+          Id="Package\INSERT DIM_TIME.Paths[Flat File Source Output1]"
+          TopLeft="135.5,119">
+          <EdgeLayout.Curve>
+            <mssgle:Curve
+              StartConnector="{assembly:Null}"
+              EndConnector="54.5,36"
+              Start="0,0"
+              End="54.5,28.5">
+              <mssgle:Curve.Segments>
+                <mssgle:SegmentCollection
+                  Capacity="5">
+                  <mssgle:LineSegment
+                    End="0,14" />
+                  <mssgle:CubicBezierSegment
+                    Point1="0,14"
+                    Point2="0,18"
+                    Point3="4,18" />
+                  <mssgle:LineSegment
+                    End="50.5,18" />
+                  <mssgle:CubicBezierSegment
+                    Point1="50.5,18"
+                    Point2="54.5,18"
+                    Point3="54.5,22" />
+                  <mssgle:LineSegment
+                    End="54.5,28.5" />
+                </mssgle:SegmentCollection>
+              </mssgle:Curve.Segments>
+            </mssgle:Curve>
+          </EdgeLayout.Curve>
+          <EdgeLayout.Labels>
+            <EdgeLabelCollection />
           </EdgeLayout.Labels>
         </EdgeLayout>
       </GraphLayout>

@@ -26,7 +26,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.DataSourceView</Type>
-        <TimeStamp>ZfiOkhSb9WhbpxK/KQ5UXG6JlKc=22.05.2022 19:08:4622.05.2022 19:08:46</TimeStamp>
+        <TimeStamp>/Wg/X/dwBJy2pYmzahyLXvr5p1o=26.05.2022 13:26:3122.05.2022 19:08:46</TimeStamp>
         <ID>
           <String>Projekt_DSV</String>
         </ID>
@@ -75,7 +75,7 @@
       </ObjectSnapshot>
       <ObjectSnapshot>
         <Type>Microsoft.AnalysisServices.Cube</Type>
-        <TimeStamp>SAKrKJP+gxiOwZC++xJzgdNUpkM=22.05.2022 19:28:2422.05.2022 19:09:20iq8xa7OtlKcSXDf/viw/7sU9QAE=22.05.2022 19:16:0822.05.2022 19:09:20</TimeStamp>
+        <TimeStamp>3DEPML9a4lWPVVvL8UAdOhA8V+A=26.05.2022 13:26:3522.05.2022 19:09:20iq8xa7OtlKcSXDf/viw/7sU9QAE=22.05.2022 19:16:0822.05.2022 19:09:20</TimeStamp>
         <ID>
           <String>Projekt_Kostka</String>
         </ID>
@@ -92,5 +92,5 @@
   </Snapshot>
   <AssemblyLocations />
   <ProcessingComplete>true</ProcessingComplete>
-  <LastDeployed>2022-05-22T17:39:03.463333Z</LastDeployed>
+  <LastDeployed>2022-05-26T11:26:52.933333Z</LastDeployed>
 </DeploymentSnapshot>
